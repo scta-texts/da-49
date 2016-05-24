@@ -59,8 +59,7 @@
         <p>
           <pb n="148-v" ed="#B"/><cb n="a"/>
           Queratur
-          <lb ed="#B"/>
-          nunc primo utrum de anima possit nobis adquiri sciencia. Videtur quod non.
+          <lb ed="#B"/>nunc primo utrum de anima possit nobis adquiri sciencia. Videtur quod non.
         </p>
         <p><add place="marginLeft">Argumentum</add>
           Illud
@@ -72,22 +71,22 @@
         <p>
           <add place="marginLeft">Argumentum</add>
           <lb ed="#B"/>Praeterea. Unum et idem non potest esse simul movens et motum, quia
-          <lb ed="#B"/>si sic esset, idem actu et potentia respectu eiusdem, sed cognitum est movens respectu
-          <lb ed="#B"/>cognicionis, ergo unum et idem non potest esse movens et motum, sed hoc
+          <lb ed="#B"/>si sic, esset idem actu et potentia respectu eiusdem, sed cognitum est movens respectu
+          <lb ed="#B"/>cognocentis, ergo unum et idem non potest esse movens et motum, sed hoc
           <lb ed="#B"/>tamen contingeret si de anima cognicionem haberemus.
         </p>
         <p>
           <add place="marginLeft">Argumentum</add>
           Praeterea.
-          <lb ed="#B"/>Sicut oculus nicticoratis <space extent="8" unit="chars" reason="rasura" /> ad lumen solis, sic in
-          <lb ed="#B" break="no"/>tellectus nostri ad ea que sunt manifestissima in natura, de quorum numero est
-          <lb ed="#B"/>anima humana, sed oculus nicticoratis non potest apprehendere
+          <lb ed="#B"/>Sicut oculus nictocoracis <choice><sic><space extent="8" unit="chars" reason="rasura" /></sic><supplied>se habet</supplied></choice> ad lumen solis,<note>Nycticorax: From Metaph. 993b9 (nycteris).</note> sic in<lb ed="#B"/>tellectus
+          noster ad ea que sunt manifestissima in natura, de quorum numero est
+          <lb ed="#B"/>anima humana, sed oculus nicti<del rend="punct">o</del>coracis non potest apprehendere
           <lb ed="#B"/>lumen solis, ergo et cetera.
         </p>
         <p>
           <add place="marginLeft">Argumentum</add>
           <lb ed="#B"/>Praeterea. Nostrum intelligere est cum continuo
-          <lb ed="#B"/>et tempore, sed anima, cum sit indivisibilis et <unclear>ffet()a</unclear> nec est continua
+          <lb ed="#B"/>et tempore, sed anima, cum sit indivisibilis et perpetua nec est continua
           <lb ed="#B"/>nec temporalis, ergo et cetera.
         </p>
         <p>
@@ -97,66 +96,66 @@
         <p>
           <add place="marginLeft">Solucio</add>
           Dicendum quod
-          <lb ed="#B"/>cum sciencia sit habitus adequatus per demonstracionem et ad demonstracionem tria
+          <lb ed="#B"/>cum sciencia sit habitus adquisitus per demonstracionem et ad demonstracionem tria
           <lb ed="#B"/>requirantur: subiectum, passio, et principium per quod ostenditur passio de subiecto.
           <lb ed="#B"/>Ubi est ista tria invenire, ibi est scienciam ponere. Nunc autem anima est
           <lb ed="#B"/>quoddam ens cuius sunt proprietates et passiones, ut patebit inferius.
-          <lb ed="#B"/>sunt tria principia per que ostendi possunt iste passiones de anima. Si enim acci
-          <lb ed="#B" break="no"/>piatur quod quid est anime pro medio, concludi potest propria passio eius de
+          <lb ed="#B"/>Sunt etiam principia per que ostendi possunt iste passiones de anima. Si enim acci<lb ed="#B"/>piatur
+          quod quid est anime pro medio, concludi potest propria passio eius de
           <lb ed="#B"/>anima, et ita de anima potest esse aliqualis sciencia.
         </p>
         <p>
           Praeterea. Accidencia non sunt
-          <lb ed="#B"/>encia per se, sed in alio. Qui <space extent="3" unit="chars" reason="empty"  /> ergo cognoscit accidencia, manu
-          <lb ed="#B" break="no"/>duci potest in cognicionem eiusmodi cuius sunt. Nunc autem multa accidencia
-          <lb ed="#B"/>ipsius anime nobis sunt manifesta, operaciones artificiales nobis? no
-          <lb ed="#B" break="no"/>te sunt que non fiunt absque intelligere, et intelligere procedit ab alia potentia,
-          <lb ed="#B"/>et potentia ab essencia, eodem modo est de operacionibus que procedunt ab i
-          <lb ed="#B" break="no"/>rascibili. unde per multa nobis devenire possunt in cognicionem anime,
-          <lb ed="#B"/>quia tamen scire est causam rei cognoscere, et talis procedit per effectus
+          <lb ed="#B"/>encia per se, sed in alio. Qui <space extent="3" unit="chars" reason="empty"  /> ergo cognoscit accidencia, manu<lb ed="#B"/>duci
+          potest in cognicionem eius cuius sunt. Nunc autem multa accidencia
+          <lb ed="#B"/>ipsius anime nobis sunt manifesta, operaciones artificiales nobis no<lb ed="#B"/>te 
+          sunt que non fiunt absque intelligere, et intelligere procedit ab aliqua potentia,
+          <lb ed="#B"/>et potentia ab essencia, eodem modo est de operacionibus que procedunt ab i<lb ed="#B"/>rascibili. 
+          unde per multa nobis devenire <choice><sic>possunt</sic><corr>possibile est</corr></choice> in cognicionem anime,
+          <lb ed="#B"/>quia tamen <quote source="Auct. Arist., cf. Arist.APo I.2 71b10--12">scire est causam rei cognoscere</quote>, et talis procedit per effectus
           <lb ed="#B"/>non per causam. Ideo Philosophus talem cognicionem tradens de anima ipsam
           <lb ed="#B"/>vocat ystoriam. Extensive tamen dici potest sciencia.
         </p>
         <p>
           Ad primum argumentum
-          <lb ed="#B"/><add place="marginLeft">Solucio primi</add>dicendum per interempcionem minoris. Ad probacionem dicendum quod aliquod cadit
-          <cb n="b"/><lb ed="#B"/>in sensu dupliciter: Aut per racionem aut per privacionem. Per privacionem
-          <lb ed="#B"/>sicud tenebra et indivisibilia, ut punctum et unitas. Per racionem
-          <lb ed="#B"/> <unclear>convenit</unclear> dupliciter, aut per speciem sui, aut per speciem alterius; per speciem
-          <lb ed="#B"/>sui ut color videtur, per speciem alterius ut <unclear>Dyarri</unclear> filius.
-          <lb ed="#B"/>Unde, licet anima non cadat sub sensu per rei, cadat tamen sub sensu per
+          <lb ed="#B"/><add place="marginLeft">Solucio primi</add> dicendum per interempcionem minoris. Ad probacionem dicendum quod aliquod cadit
+          <cb n="b"/><lb ed="#B"/>in sensu dupliciter: Aut per positionem aut per privacionem. Per privacionem
+          <lb ed="#B"/>sicud tenebra et indivisibilia, ut punctum et unitas. Per positionem
+          <lb ed="#B"/> contingit dupliciter, aut per speciem sui, aut per speciem alterius; per speciem
+          <lb ed="#B"/>sui ut color videtur, per speciem alterius ut <unclear>Dyarri [better: Diari, Dares with Arist.]</unclear> filius.
+          <lb ed="#B"/>Unde, licet anima non cadat sub sensu per rei, <choice><sic>cadat</sic><corr>cadit</corr></choice> tamen sub sensu per
           <lb ed="#B"/>alterum, ut per sui effectus. Eodem modo, licet per se fantasma non faciat,
-          <lb ed="#B"/>aliud tamen fantasma facit quod in eius cognicionem ducere potest.
+          <lb ed="#B"/>aliquid tamen fantasma facit quod in eius cognicionem ducere potest.
         </p>
         <p>
           <add place="marginRight">Secundo ibi</add>
           Ad
-          <lb ed="#B"/>secundum dicendum quod motus dicitur dupliciter: Uno modo est actus <unclear>inperfecti</unclear>, sicut dif
-          <lb ed="#B" break="no"/>finitur in tercio Phisicorum, aliquo modo est actus <unclear>perfecti</unclear> sicut intelligere et cog
-          <lb ed="#B" break="no"/>noscere dupliciter motus: Primo modo non potest idem esse movens et motum
+          <lb ed="#B"/>secundum dicendum quod motus dicitur dupliciter: Uno modo est actus inperfecti, sicut dif<lb ed="#B"/>finitur
+          in tercio Phisicorum, alio modo est actus perfecti sicut intelligere et cog<lb ed="#B"/>noscere
+          dicunter motus: Primo modo non potest idem esse movens et motum
           <lb ed="#B"/>per se, per accidens tamen nihil prohibet, sicud nauta per se movet nauem
           <lb ed="#B"/>et motu navi movetur per accidens. Secundo modo nihil prohibet idem esse
-          <lb ed="#B"/>movens et motum respectu sui ipsius, sed tamen <unclear>di(a)a</unclear> est, alia est substantia semper
+          <lb ed="#B"/>movens et motum respectu sui ipsius, sed tamen differentia est, aliqua est substantia semper
           <lb ed="#B"/>actu intelligens, et talis substantia potest intelligere se per se. Sed aliqua
-          <lb ed="#B"/>est substancia non semper actu intelligens, et talis substancia non potest in
-          <lb ed="#B" break="no"/>telligere se per se, quia <space extent="5" unit="chars" reason="rasura"  /><add place="above"><unclear>ni()am</unclear></add> intelligitur <unclear>et</unclear> secundum quod actu est
-          <lb ed="#B"/>et talis, substancia tamen sit in potentia intelligens per speciem alterius, per alterum
+          <lb ed="#B"/>est substancia non semper actu intelligens, et talis substancia non potest in<lb ed="#B"/>telligere
+          se per se, quia <space extent="5" unit="chars" reason="rasura"/><add place="above">nichil</add> intelligitur nisi secundum quod actu est
+          <lb ed="#B"/>et talis substancia cum sit in potentia intelligens per speciem alterius, per alterum
           <lb ed="#B"/>potest seipsum intelligere. Per hoc enim quod anima intelligit obiectum, per
-          <lb ed="#B"/>speciem potest intelligere suum actum et per actum potest reflect
-          <lb ed="#B" break="no"/>tere supra suam essenciam.
+          <lb ed="#B"/>speciem potest intelligere suum actum et per actum potest reflect<lb ed="#B"/>tere
+          supra suam essenciam.
         </p>
         <p>
           <add place="marginRight">Solucio tercii</add>
-          Ad tercium dicendum quod licet oculus nic
-          <lb ed="#B" break="no"/>ticoratis non possit apprehendere directe lumen solis, aliquem
+          Ad tercium dicendum quod licet oculus nic<lb ed="#B"/>ticoracis
+          non possit apprehendere directe lumen solis, aliquem
           <lb ed="#B"/>tamen effectum eius potest apprehendere, et si visus esset discursivus,
-          <lb ed="#B"/>possit intelligere lumen solis. Nunc intellectus noster non possit
-          <lb ed="#B"/>directe in cognicionem substantiarum separatarum, tamen potest in effectiis earum,
-          <lb ed="#B"/>et quia intellectus noster est discursivus, ideo per effectus possumus in a
-          <lb ed="#B" break="no"/>liqualem cognicionem substantiarum separatarum. Magis tamen cognoscimus
+          <lb ed="#B"/><choice><sic>possit</sic><corr>posset</corr></choice> intelligere lumen solis. Nunc intellectus noster non <choice><sic>possit</sic><corr>potest</corr></choice>
+          <lb ed="#B"/>directe in cognicionem substantiarum separatarum, tamen potest in effectus earum,
+          <lb ed="#B"/>et quia intellectus noster est discursivus, ideo per effectus possumus in a<lb ed="#B"/>liqualem 
+          cognicionem substantiarum separatarum. Magis tamen cognoscimus
           <lb ed="#B"/>de anima quam de substantiis separatis, quia effectus anime magis
-          <lb ed="#B"/>adequant virtutem eius quam effectus substantiarum separatarum adequant virtu
-          <lb ed="#B" break="no"/>tem earum.
+          <lb ed="#B"/>adequant virtutem eius quam effectus substantiarum separatarum adequant virtu<lb ed="#B"/>tem 
+          earum.
         </p>
         <p>
           <add place="marginRight">Solucio quarta</add>
