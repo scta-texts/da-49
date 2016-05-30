@@ -20,8 +20,8 @@
         <availability status="free">
           <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
         </availability>
-          <date when="2016-05-16">May 16, 2016</date
->      </publicationStmt>
+        <date when="2016-05-16">May 16, 2016</date>
+      </publicationStmt>
       <sourceDesc>
         <listWit>
           <witness xml:id="B" n="bal">Oxford, Balliol College 311, ff. 148r--181v</witness>
