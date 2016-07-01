@@ -147,8 +147,12 @@
         </p>
         <p type="ad_rationes" n="2">
           Ad
-          secundum dicendum quod motus dicitur dupliciter: Uno modo est actus inperfecti, sicut diffinitur
-          in tercio Phisicorum, alio modo est actus perfecti sicut intelligere et cognoscere
+          secundum dicendum quod motus dicitur dupliciter: Uno modo est actus inperfecti,
+          <cit>
+            <seg>sicut diffinitur in tercio Phisicorum,</seg>
+            <bibl>Aristotle, Phys. III 2 201b31--33.</bibl>
+          </cit>
+          alio modo est actus perfecti sicut intelligere et cognoscere
           dicunter motus: Primo modo non potest idem esse movens et motum
           per se, per accidens tamen nihil prohibet, sicud nauta per se movet nauem
           et motu navi movetur per accidens. Secundo modo nihil prohibet idem esse
