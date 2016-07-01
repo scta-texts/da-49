@@ -133,6 +133,10 @@
           <lb ed="#B"/>sui ut color videtur, per speciem alterius ut <unclear>Dyarri [better: Diari, Dares with Arist.]</unclear> filius.
           <lb ed="#B"/>Unde, licet anima non cadat sub sensu per rei,
           <app>
+            <lem>rem</lem>
+            <rdg wit="#B">rei</rdg>
+          </app>,
+          <app>
             <lem>cadit</lem>
             <rdg wit="#B">cadat</rdg>
           </app>
