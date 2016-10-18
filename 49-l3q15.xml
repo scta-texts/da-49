@@ -186,7 +186,7 @@
           <lb ed="#B"/> erraverunt.
         </p>
         <p xml:id="da-49-l3q15-qo6iip" type="ad-rationes" n="1">
-          Ad primum argumentum dicendum est quod intellectus et intellectum
+          <ref target="http://scta.info/resource/da-49-l3q15-ttgne1">Ad primum argumentum</ref> dicendum est quod intellectus et intellectum
           <lb ed="#B"/> in actu sunt idem, et non intellectus et intellectum in potentia. Modo
           <lb ed="#B"/> species intelligibilis est immediatum principium intelligendi. Unde
           <lb ed="#B"/> in quocumque est species actu intelligibilis, illud potest intelligere, sed
@@ -200,7 +200,7 @@
           <lb B="#ed"/>in aliis.
         </p>
         <p xml:id="da-49-l3q15-438wxb" type="ad-rationes" n="2">
-          Ad secundum argumentum dicendum est quod ista dicuntur separata a materia
+          <ref target="http://scta.info/resource/da-49-l3q15-z4t4fo">Ad secundum</ref> argumentum dicendum est quod ista dicuntur separata a materia
           <lb ed="#B"/> quae sunt actu intellecta. Unde
           <cit>
             <ref>
@@ -226,14 +226,14 @@
           su<lb ed="#B"/>am essentiam.
         </p>
         <p xml:id="da-49-l3q15-kimcp2" type="ad-rationes" n="3">
-          Ad tertium argumentum dicendum est quod intellectus
+          <ref target="http://scta.info/resource/da-49-l3q15-bd4395">Ad tertium argumentum</ref> dicendum est quod intellectus
           intelli<lb ed="#B"/>gentie est actus perfectus quia semper actu est. Habet enim in se
           <lb ed="#B"/> species innatas. Sed intellectus noster secundum se est in potentia ut possibilis,
           <lb ed="#B"/> et ipse intellectus agens, etsi sit actus, est actus intelligibilium,
           <lb ed="#B"/> et non intellectus antequam intelligat.
         </p>
         <p xml:id="da-49-l3q15-pp01nh" type="ad-rationes" n="4">
-          Ad quartum dicendum est quod
+          <ref target="http://scta.info/resource/da-49-l3q15-a5w2gi">Ad quartum</ref> dicendum est quod
           <lb ed="#B"/> actio intelligendi causatur ex unione obiecti cum intellectu, sed licet
           <lb ed="#B"/> nihil magis uniatur intellectui
           <app>
@@ -246,7 +246,7 @@
         </p>
         <div type="ad_rationes" n="5">
           <p xml:id="da-49-l3q15-9twekw">
-            Ad ultimum
+            <ref target="http://scta.info/resource/da-49-l3q15-7a65b1">Ad ultimum</ref>
             <lb ed="#B"/> argumentum dicendum est quod intelligit se et per speciem et per actum, sed
             <lb ed="#B"/> non per speciem propriam, ut ratio probat, sed per speciem quae alterius
             <lb ed="#B"/> est. Similiter per actum suum intelligit se, et illum actum adhuc
