@@ -43,16 +43,13 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="includeList">
-        <!-- I might want to make my own versions of these files -->
-        <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/workscited.xml" xpointer="worksCited"></xi:include>
-        <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/prosopography.xml" xpointer="prosopography"></xi:include>
+      <div xml:id="starts-on">
+        <pb ed="#B" n="174-r" /><cb ed="#B" n="a"/>
       </div>
     </front>
     <body>
       <div xml:id="itemdid">
         <p>
-          <pb ed="#B" n="174-v"/><cb n="a"/>
           <lb ed="#B"/> Quaeritur
           <lb ed="#B"/> utrum intellectus intelligat se per suam essentiam an per aliud
           <lb ed="#B"/> sicut intelligit alia.
@@ -82,8 +79,8 @@
             prae<lb ed="#B"/>terea actio intelligendi provenit ex unione intelligibilis cum intellectu.
             <lb ed="#B"/> Sed nihil magis unitur
             <app>
-              <lem type="conjecture-correction">intellectui</lem>
-              <rdg wit="#B">intel<space reason="erasure" extent="3" unit="characters" /></rdg>
+              <lem type="conjecture-corrected">intellectui</lem>
+              <rdg wit="#B">intel <space reason="erasure" extent="3" unit="characters" /></rdg>
             </app>
             , quam ipse sibi, ergo non potest
             intelli<lb ed="#B"/>gere per aliud quam per se.
@@ -99,30 +96,30 @@
             <lb ed="#B"/> eadem ratione nec primum, si sic, ergo alio actu et ita erit procedere in
             <lb ed="#B"/> infinitum.
           </p>
-          <p type="rationes-principales" n="4">
+          <p type="rationes-principales" n="5">
             Praeterea sensus particularis non sentit suum actum, ergo nec
             <lb ed="#B"/> intellectus intelligit suum actum.
           </p>
         </div>
         <p type="opposita">
           Oppositum dicit
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Philosophus</name> in tertio <title ref="#Arist.DA">De
-              <lb ed="#B"/> anima</title>
-            </ref>
-            . Dicit enim quod
+          <ref xml:id="quote1">
+            <name ref="#Aristotle">Philosophus</name> in tertio <title ref="#Arist.DA">De
+            <lb ed="#B"/> anima</title>
+          </ref>
+          . Dicit enim quod
+          <cit corresp="#quote1">
             <quote type="paraphrase">
               intellectus intelligit
               <app>
                 <lem n="intelligit" />
-                <rdg wit="#B"><del rend="punct">speciem</del></rdg>
+                <rdg wit="#B" type="correction-deletion"><del rend="punct">speciem</del></rdg>
               </app>
               seipsum sicut et alia
             </quote>
-            ,
             <bibl ana="arist.DA.3.4.430a2">Arist. <title ref="#Arist.DA">De anima</title>, III.4 430a2</bibl>
           </cit>
+          ,
           <lb ed="#B"/> sed alia non intelligit per suas essentias, sed per suas species, ergo
           <lb ed="#B"/> eodem modo intelligit se.
         </p>
@@ -132,12 +129,12 @@
             intelli<lb ed="#B"/>git se per suam essentiam, et huius ratio est: Nihil intelligitur nisi secundum quod actu
             <lb ed="#B"/> est, unde nihil est verum quod sub cognitione intellectus cadit, nisi
             <lb ed="#B"/> secundum quod est actu per
+            <ref>
+              <name ref="#Aristotle">Philosophum</name> in nono <title ref="#Arist.Metaph">Metaphysicae</title>
+            </ref>
+            :
             <cit>
-              <ref>
-                <name ref="#Aristotle">Philosophum</name> in nono <title ref="#Arist.Metaph">Metaphysicae</title>
-              </ref>
-              :
-              <quote type="paraphrase">
+              <quote>
                 Immo sicut visus
                 <lb ed="#B"/> non videt vel non cognoscit coloratum in potentia, sed coloratum
                 <lb ed="#B"/> in actu
@@ -154,9 +151,8 @@
             in<lb ed="#b"/>telligit se per suam essentiam, alia tamen non intelligit per se, sed per eorum
             <lb ed="#b"/> similitudines. Sed intellectus humanus non est in actu secundum se et propter
             <lb ed="#b"/> hoc vocatur possibilis, quia secundum se in potentia est, et ideo ex se non habet quod
-            <lb ed="#b"/> intelligatur. Ex se tamen habet quod intelligat immo sicut
+            <lb ed="#b"/> intelligatur. Ex se tamen habet quod intelligat immo sicut <name ref="#Plato">Plato</name> posuit
             <cit>
-              <name ref="#Plato">Plato</name> posuit
               <quote type="paraphrase">
                 <lb ed="#b"/> intelligibilia entia separata et intellectum nostrum intelligibilem secundum
                 <lb ed="#b"/> quod participat ipsa intelligibilia.
@@ -207,8 +203,10 @@
           Ad secundum argumentum dicendum est quod ista dicuntur separata a materia
           <lb ed="#B"/> quae sunt actu intellecta. Unde
           <cit>
-            <name ref="#Aristotle">Philosophus</name> dicit in tertio
-            <title ref="#Arist.DA">De anima</title>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name> dicit in tertio
+              <title ref="#Arist.DA">De anima</title>
+            </ref>
             <bibl>???</bibl>
           </cit>
           quod omnino
@@ -217,8 +215,8 @@
           <lb ed="#B"/> Sensibile vero in actu et sensus non sunt idem nisi quia eadem
           <lb ed="#B"/> est forma utriusque, quia species
           <app>
-            <lem type="conjecture-correction">quae</lem>
-            <rdg wit="#B">q<space reason="erasure" extent="2" unit="characters" /></rdg>
+            <lem type="conjecture-corrected">quae</lem>
+            <rdg wit="#B">q <space reason="erasure" extent="2" unit="characters" /></rdg>
           </app>
           causata est a sensibili ab
           a<lb ed="#B"/>gente est in sensu ut in subiecto, et eodem modo in proposito: Intellectum
@@ -239,7 +237,7 @@
           <lb ed="#B"/> actio intelligendi causatur ex unione obiecti cum intellectu, sed licet
           <lb ed="#B"/> nihil magis uniatur intellectui
           <app>
-            <lem type="conjecture-correction">quam</lem>
+            <lem type="conjecture-corrected">quam</lem>
             <rdg wit="#B">quod</rdg>
           </app>
           ipse sibi. Non tamen unietur
@@ -279,7 +277,9 @@
             inmu<lb ed="#B"/>tationem organi corporalis, sed spiritualiter et spirituale. Unde potest
             reflec<lb ed="#B"/>tere<note>slightly dubious or strange</note> se supra se, et ideo posuit
             <cit>
-              <name ref="#Plato">Plato</name>
+              <ref>
+                <name ref="#Plato">Plato</name>
+              </ref>
               <bibl>???</bibl>
             </cit>
             primum movens movere seipsum
