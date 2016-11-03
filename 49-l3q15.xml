@@ -213,7 +213,7 @@
           argumentum</ref> dicendum est quod intellectus et intellectum in actu
           sunt idem, et non intellectus et intellectum in potentia. Modo species
           intelligibilis est immediatum principium intelligendi. Unde in
-          quocumque est species actu intelligibilis, illud potest intelligere,
+          quocumque est species actu intelligibilis illud potest intelligere,
           sed quaecumque species <supplied>quae</supplied> est in lapide vel in
           re materiali extra intellectum, solum est intelligibilis in potentia,
           et ideo nullum intelligibile extra intellectum nostrum habet in se
@@ -260,26 +260,25 @@
           intellectus agens, etsi sit actus, est actus intelligibilium, et non
           intellectus antequam intelligat.
         </p>
-        <p xml:id="da-49-l3q15-pp01nh" type="ad-rationes" n="4">
-          <ref target="http://scta.info/resource/da-49-l3q15-a5w2gi">Ad
-          quartum</ref> dicendum est quod actio intelligendi causatur ex unione
-          obiecti cum intellectu, sed licet nihil magis uniatur intellectui
-          <app>
-            <lem type="conjecture-corrected">quam</lem>
-            <rdg wit="#B">quod</rdg>
-          </app>
-          ipse sibi. Non tamen unietur sibi ut obiectum, quia obiectum
-          intellectus nostri est natura rei quae est extra animam, et ipsa non
-          unitur intellectui nisi per speciem.
-        </p>
-        <div type="ad_rationes" n="5">
+        <div type="ad-rationes" n="4">
+          <p xml:id="da-49-l3q15-pp01nh">
+            <ref target="http://scta.info/resource/da-49-l3q15-a5w2gi">Ad
+            quartum</ref> dicendum est quod actio intelligendi causatur ex unione
+            obiecti cum intellectu, sed licet nihil magis uniatur intellectui
+            <app>
+              <lem type="conjecture-corrected">quam</lem>
+              <rdg wit="#B">quod</rdg>
+            </app>
+            ipse sibi, non tamen unietur sibi ut obiectum, quia obiectum
+            intellectus nostri est natura rei quae est extra animam, et ipsa non
+            unitur intellectui nisi per speciem.
+          </p>
           <p xml:id="da-49-l3q15-9twekw">
-            <ref target="http://scta.info/resource/da-49-l3q15-7a65b1">Ad
-            ultimum</ref> argumentum dicendum est quod intelligit se et per
-            speciem et per actum, sed non per speciem propriam, ut ratio probat,
-            sed per speciem quae alterius est. Similiter per actum suum
-            intelligit se, et illum actum adhuc intelligit alio actu, propter
-            quod intelligendum est quod aliquis est intellectus qui est suum
+            Ad ultimum argumentum dicendum est quod intelligit se et per speciem
+            et per actum, sed non per speciem propriam, ut ratio probat, sed per
+            speciem quae alterius est. Similiter per actum suum intelligit se,
+            et illum actum adhuc intelligit alio actu, propter quod
+            intelligendum est quod aliquis est intellectus qui est suum
             intelligere, et ideo unico actu intelligit suam essentiam et suum
             intelligere, quia idem sunt ut intellectus Dei. Et alius est
             intellectus qui non est suum intelligere. Sua tamen essentia est
@@ -299,24 +298,25 @@
             infinitum</surplus> nec est inconveniens procedere in infinitum in
             actibus intellectus et rationis.
           </p>
-          <p xml:id="da-49-l3q15-0dohkw">
-            Ad aliam probationem dicendum est quod sensus sentit per
-            immutationem organi corporalis, et nihil corporale mutat seipsum, et
-            ideo sensus non immutatur nisi ab extrinseco. Sed intellectus non
-            immutatur per inmutationem organi corporalis, sed spiritualiter et
-            spirituale. Unde potest reflectere<note>slightly dubious or
-            strange</note> se supra se, et ideo posuit
-            <cit>
-              <ref>
-                <name ref="#Plato">Plato</name>
-              </ref>
-              <bibl>???</bibl>
-            </cit>
-            primum movens movere seipsum quia primum movens posuit esse animam
-            et operationes eius, sicut amare et gaudere, et huiusmodi posuit
-            esse motum eius.
-          </p>
         </div>
+        <p xml:id="da-49-l3q15-0dohkw" type="ad_rationes" n="5">
+          <ref target="http://scta.info/resource/da-49-l3q15-7a65b1">Ad aliam
+          probationem</ref> dicendum est quod sensus sentit per immutationem
+          organi corporalis, et nihil corporale mutat seipsum, et ideo sensus
+          non immutatur nisi ab extrinseco. Sed intellectus non immutatur per
+          inmutationem organi corporalis, sed spiritualiter et spirituale.
+          Unde potest reflectere<note>slightly dubious or strange</note> se
+          supra se, et ideo posuit
+          <cit>
+            <ref>
+              <name ref="#Plato">Plato</name>
+            </ref>
+            <bibl>???</bibl>
+          </cit>
+          primum movens movere seipsum quia primum movens posuit esse animam
+          et operationes eius, sicut amare et gaudere, et huiusmodi posuit
+          esse motum eius.
+        </p>
       </div>
     </body>
   </text>
