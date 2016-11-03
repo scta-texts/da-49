@@ -52,6 +52,7 @@
     <body>
       <div xml:id="itemdid">
         <head><suppplied>Quaestio 1</suppplied></head>
+        <div type="rationes-principales"></div>
         <p>
           <pb n="148-v" ed="#B"/><cb n="a"/>
           Queratur
