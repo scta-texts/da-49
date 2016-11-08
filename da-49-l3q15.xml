@@ -11,7 +11,6 @@
       </titleStmt>
       <editionStmt>
         <edition n="2016.05">
-          <title><!-- title [{ms-identifier} Transcription] --></title>
           <date when="2016-17-05">May 17, 2016</date>
         </edition>
       </editionStmt>
@@ -151,35 +150,52 @@
             </ref>
             :
             <cit>
-              <quote>
-                Immo sicut visus
-                non videt vel non cognoscit coloratum in potentia, sed coloratum
-                in actu
+              <quote type="paraphrase">
+                Immo sicut visus non videt vel non cognoscit coloratum in
+                potentia, sed coloratum in actu, sic nec intellectus intelligit
               </quote>
-              <bibl>???</bibl>
+              <bibl>Arist. <title ref="#Arist.Metaph">Metaph.</title>, IX.9
+              1051a29--31, cf. <title ref="#Auct.Arist">Auct. Arist.</title>
+              (ed. Hamesse), 6.234.</bibl>
             </cit>
-            , sic nec intellectus intelligit, et ideo quia materia est ens in
-            potentia. In materia non cognoscit nisi per formam per quam est in
-            actu. Sed intellectus humanus secundum se non est in actu, ad cuius
-            evidentiam considerandum est quod aliquis est intellectus qui est
-            actus purus et perfectus, ut intellectus Dei, et ipse cognoscit se
-            ut intelligit per suam essentiam et omnia alia per se, alius est
-            intellectus qui est in actu sed non est actus perfectus, ut
-            intellectus intelligentiae, quia ipse intelligit se per suam
-            essentiam, alia tamen non intelligit per se, sed per eorum
-            similitudines. Sed intellectus humanus non est in actu secundum se
-            et propter hoc vocatur possibilis, quia secundum se in potentia est,
-            et ideo ex se non habet quod intelligatur. Ex se tamen habet quod
-            intelligat immo sicut <name ref="#Plato">Plato</name> posuit
+            , et ideo, quia materia est ens in potentia, in materia non
+            cognoscit nisi per formam per quam est in actu. Sed intellectus
+            humanus secundum se non est in actu, ad cuius evidentiam
+            considerandum est quod aliquis est intellectus qui est actus purus
+            et perfectus, ut intellectus Dei, et ipse cognoscit se ut intelligit
+            per suam essentiam et omnia alia per se, alius est intellectus qui
+            est in actu sed non est actus perfectus, ut intellectus
+            intelligentiae, quia ipse intelligit se per suam essentiam, alia
+            tamen non intelligit per se, sed per eorum similitudines. Sed
+            intellectus humanus non est in actu secundum se et propter hoc
+            vocatur possibilis, quia secundum se in potentia est, et ideo ex se
+            non habet quod intelligatur. Ex se tamen habet quod intelligat, immo
+            sicut <name ref="#Plato">Plato</name> posuit,
             <cit>
               <quote type="paraphrase">
-                intelligibilia entia separata et intellectum nostrum
+                intelligibilia entia separata, et intellectum nostrum
                 intelligibilem secundum quod participat ipsa intelligibilia.
               </quote>
-              <bibl>???</bibl>
+              <note>
+                It is uncertain whether he here has a Platonic passage in mind
+                or rather just refers to a generally acknowledged Platonic
+                doctrine, that things are intelligible by participation in the
+                immaterial forms, and that the same goes for the human
+                intellect.
+              </note>
             </cit>
-            Sic, cum <name ref="#Aristotle">Philosophus</name> ponit species
-            abstractas a fantasmatibus intelligibiles, habet ponere intellectum
+            Sic, cum <name ref="#Aristotle">Philosophus</name> ponit
+            <cit>
+              <quote type="paraphrase">
+                species abstractas a fantasmatibus intelligibiles
+              </quote>
+              <note>I wonder whether he is aiming at <title>De anima</title>
+              III.8 432a8-9: "Necesse est quemcumque intelligentem phantasmata
+              speculari." Surprisingly, it has proven difficult for me to locate
+              a place where Aristotle simply says that intelligible species are
+              abstracted from phantasmata.</note>
+            </cit>
+            , habet ponere intellectum
             nostrum intelligibilem secundum quod istas species participat, et
             hoc sic: Secundum quod intellectus noster intelligit obiectum per
             speciem potest redire super suum actum, et ab actu potest procedere
@@ -195,11 +211,10 @@
         </div>
         <p xml:id="da-49-l3q15-g6oie8" type="determinatio" n="2">
           Sed istum actum potest intelligere dupliciter. Uno modo in
-          particulari, ut cum actu<note><q>actu</q> slightly dubious, but
-          likely</note> percipit se intelligere, et alio modo in universali, ut
-          cum per obiectum investigat propriam eius operationem. Et eodem modo
-          per actum potest intelligere suam essentiam dupliciter: Uno modo in
-          particulari, ut cum intelligit quod habet vel cum <name
+          particulari, ut cum actu percipit se intelligere, et alio modo in
+          universali, ut cum per obiectum investigat propriam eius operationem.
+          Et eodem modo per actum potest intelligere suam essentiam dupliciter:
+          Uno modo in particulari, ut cum intelligit quod habet vel cum <name
           re="Socrates">Socrates</name> percipit se habere intellectum per hoc
           quod actu intelligit, et alio modo in universali, ut cum inquirit
           naturam intellectus per suam operationem. Et isti modi differunt, quia
@@ -233,10 +248,13 @@
               <name ref="#Aristotle">Philosophus</name> dicit in tertio
               <title ref="#Arist.DA">De anima</title>
             </ref>
-            <bibl>???</bibl>
+            <quote>
+              quod omnino sicut res sunt separabiles a materia sic sunt circa
+              intellectum
+            </quote>
+            <bibl>Arist. <title ref="#Arist.DA">De anima</title> III.4 429b21--2</bibl>
           </cit>
-          quod omnino sicut res sunt separabiles a materia sic sunt circa
-          intellectum, sed intellectum in actu et intellectus sunt idem, sicut
+          , sed intellectum in actu et intellectus sunt idem, sicut
           sensibile in actu et sensus. Sensibile vero in actu et sensus non sunt
           idem nisi quia eadem est forma utriusque, quia species
           <app>
@@ -304,16 +322,22 @@
           probationem</ref> dicendum est quod sensus sentit per immutationem
           organi corporalis, et nihil corporale mutat seipsum, et ideo sensus
           non immutatur nisi ab extrinseco. Sed intellectus non immutatur per
-          inmutationem organi corporalis, sed spiritualiter et spirituale.
-          Unde potest reflectere<note>slightly dubious or strange</note> se
-          supra se, et ideo posuit
+          inmutationem organi corporalis, sed spiritualiter et spirituale. Unde
+          potest reflectere se supra se, et ideo posuit
           <cit>
             <ref>
               <name ref="#Plato">Plato</name>
             </ref>
-            <bibl>???</bibl>
+            <quote type="paraphrase">primum movens movere seipsum</quote>
+            <note>
+              Might he have Auct. Arist. 6.20 in mind: "Anima secundum Platonem
+              est res manens se ipsam movens"? Hamesse notes that this might be
+              a corruption of the Moerbekian "numerus seipsum movens" in DA I.4
+              408b32--33. I am sceptical about this. This might require a look
+              in <title ref="Pl.Timaeus">Timaeus</title>.
+            </note>
           </cit>
-          primum movens movere seipsum quia primum movens posuit esse animam
+           quia primum movens posuit esse animam
           et operationes eius, sicut amare et gaudere, et huiusmodi posuit
           esse motum eius.
         </p>
