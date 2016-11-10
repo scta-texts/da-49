@@ -48,13 +48,15 @@
         <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/workscited.xml" xpointer="worksCited"></xi:include>
         <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/prosopography.xml" xpointer="prosopography"></xi:include>
       </div>
+      <div xml:id="startsOn">
+        <pb n="148-v" ed="#B"/><cb n="a"/>
+      </div>
     </front>
     <body>
       <div xml:id="itemdid">
         <head><suppplied>Quaestio 1</suppplied></head>
         <div type="rationes-principales"></div>
         <p>
-          <pb n="148-v" ed="#B"/><cb n="a"/>
           Queratur
           nunc primo utrum de anima possit nobis adquiri sciencia.
         </p>
@@ -75,8 +77,7 @@
           tamen contingeret si de anima cognicionem haberemus.
         </p>
         <p type="ratio" n="3">
-          Praeterea,
-          sicut oculus
+          Praeterea, sicut oculus
           <app>
             <lem>nicticoracis</lem>
             <rdg wit="#B">nictocoracis</rdg>
