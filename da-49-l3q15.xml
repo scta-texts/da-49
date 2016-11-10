@@ -215,7 +215,7 @@
           universali, ut cum per obiectum investigat propriam eius operationem.
           Et eodem modo per actum potest intelligere suam essentiam dupliciter:
           Uno modo in particulari, ut cum intelligit quod habet vel cum <name
-          re="Socrates">Socrates</name> percipit se habere intellectum per hoc
+          re="#Socrates">Socrates</name> percipit se habere intellectum per hoc
           quod actu intelligit, et alio modo in universali, ut cum inquirit
           naturam intellectus per suam operationem. Et isti modi differunt, quia
           ad primum cognitionem sufficit praesentia intellectus actu operantis,
@@ -334,7 +334,7 @@
               est res manens se ipsam movens"? Hamesse notes that this might be
               a corruption of the Moerbekian "numerus seipsum movens" in DA I.4
               408b32--33. I am sceptical about this. This might require a look
-              in <title ref="Pl.Timaeus">Timaeus</title>.
+              in <title ref="#Pl.Timaeus">Timaeus</title>.
             </note>
           </cit>
            quia primum movens posuit esse animam
