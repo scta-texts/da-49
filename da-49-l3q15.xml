@@ -219,7 +219,7 @@
           universali, ut cum per obiectum investigat propriam eius operationem.
           Et eodem modo per actum potest intelligere suam essentiam dupliciter:
           Uno modo in particulari, ut cum intelligit quod habet vel cum <name
-          re="#Socrates">Socrates</name> percipit se habere intellectum per hoc
+          ref="#Socrates">Socrates</name> percipit se habere intellectum per hoc
           quod actu intelligit, et alio modo in universali, ut cum inquirit
           naturam intellectus per suam operationem. Et isti modi differunt, quia
           ad primum cognitionem sufficit praesentia intellectus actu operantis,
@@ -328,10 +328,10 @@
           non immutatur nisi ab extrinseco. Sed intellectus non immutatur per
           inmutationem organi corporalis, sed spiritualiter et spirituale. Unde
           potest reflectere se supra se, et ideo posuit
+          <ref>
+            <name ref="#Plato">Plato</name>
+          </ref>
           <cit>
-            <ref>
-              <name ref="#Plato">Plato</name>
-            </ref>
             <quote type="paraphrase">primum movens movere seipsum</quote>
             <note>
               Might he have Auct. Arist. 6.20 in mind: "Anima secundum Platonem
