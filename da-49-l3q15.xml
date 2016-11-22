@@ -109,11 +109,9 @@
             intellectus fantasma non facit; nec per actum, quia si actum suum
             intelligeret, aliquo actu ipsum intelligeret illum. Ergo actum aut
             intelliget aut non. Si non, eadem ratione nec primum, si sic, ergo
-            alio actu et ita erit procedere in infinitum.
-          </p>
-          <p xml:id="da-49-l3q15-7a65b1" type="rationes-principales" n="5">
-            Praeterea sensus particularis non sentit suum actum, ergo nec
-            intellectus intelligit suum actum.
+            alio actu et ita erit procedere in infinitum. Praeterea sensus
+            particularis non sentit suum actum, ergo nec intellectus intelligit
+            suum actum.
           </p>
         </div>
         <p xml:id="da-49-l3q15-9wb9sg" type="opposita">
@@ -320,31 +318,30 @@
             infinitum, nec est inconveniens procedere in infinitum in actibus
             intellectus et rationis.
           </p>
+          <p>
+            Ad aliam probationem dicendum est quod sensus sentit per immutationem
+            organi corporalis, et nihil corporale mutat seipsum, et ideo sensus
+            non immutatur nisi ab extrinseco. Sed intellectus non immutatur per
+            inmutationem organi corporalis, sed spiritualiter et spirituale. Unde
+            potest reflectere se supra se, et ideo posuit
+            <ref>
+              <name ref="#Plato">Plato</name>
+            </ref>
+            <cit>
+              <quote type="paraphrase">primum movens movere seipsum</quote>
+              <note>
+                Might he have Auct. Arist. 6.20 in mind: "Anima secundum Platonem
+                est res manens se ipsam movens"? Hamesse notes that this might be
+                a corruption of the Moerbekian "numerus seipsum movens" in DA I.4
+                408b32--33. I am sceptical about this. This might require a look
+                in <title ref="#Pl.Timaeus">Timaeus</title>.
+              </note>
+            </cit>
+            quia primum movens posuit esse animam
+            et operationes eius, sicut amare et gaudere, et huiusmodi posuit
+            esse motum eius.
+          </p>
         </div>
-        <p xml:id="da-49-l3q15-0dohkw" type="ad_rationes" n="5">
-          <ref target="http://scta.info/resource/da-49-l3q15-7a65b1">Ad aliam
-          probationem</ref> dicendum est quod sensus sentit per immutationem
-          organi corporalis, et nihil corporale mutat seipsum, et ideo sensus
-          non immutatur nisi ab extrinseco. Sed intellectus non immutatur per
-          inmutationem organi corporalis, sed spiritualiter et spirituale. Unde
-          potest reflectere se supra se, et ideo posuit
-          <ref>
-            <name ref="#Plato">Plato</name>
-          </ref>
-          <cit>
-            <quote type="paraphrase">primum movens movere seipsum</quote>
-            <note>
-              Might he have Auct. Arist. 6.20 in mind: "Anima secundum Platonem
-              est res manens se ipsam movens"? Hamesse notes that this might be
-              a corruption of the Moerbekian "numerus seipsum movens" in DA I.4
-              408b32--33. I am sceptical about this. This might require a look
-              in <title ref="#Pl.Timaeus">Timaeus</title>.
-            </note>
-          </cit>
-           quia primum movens posuit esse animam
-          et operationes eius, sicut amare et gaudere, et huiusmodi posuit
-          esse motum eius.
-        </p>
       </div>
     </body>
   </text>
