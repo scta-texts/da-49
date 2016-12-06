@@ -53,7 +53,7 @@
     <body>
       <div xml:id="itemdid">
         <head>
-          <supplied type="meta-text">Quaestio 15: Utrum intellectus intelligat
+          <supplied ana="#meta-text">Quaestio 15: Utrum intellectus intelligat
           se per suam essentiam an per aliud sicut intelligit alia</supplied>
         </head>
         <p xml:id="da-49-l3q15-h7abaq">
