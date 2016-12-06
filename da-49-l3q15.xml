@@ -92,7 +92,7 @@
             <app>
               <lem type="conjecture-corrected">intellectui</lem>
               <rdg wit="#B">
-                intel <space reason="erasure" extent="3" unit="characters" />
+                intel <space reason="erasure" extent="3" unit="letters" />
               </rdg>
             </app>
             , quam ipse sibi, ergo non potest intelligere per aliud quam per se.
@@ -259,7 +259,7 @@
           <app>
             <lem type="conjecture-corrected">quae</lem>
             <rdg wit="#B">
-              q <space reason="erasure" extent="2" unit="characters" />
+              q <space reason="erasure" extent="2" unit="letters" />
             </rdg>
           </app>
           causata est a sensibili ab agente est in sensu ut in subiecto, et
