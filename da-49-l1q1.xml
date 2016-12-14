@@ -177,167 +177,173 @@
             ergo et cetera.
           </p>
           <p ana="#rationes-principales-contra" n="4">
-            Praeterea, nostrum intelligere est cum continuo et tempore, sed anima,
-            cum sit indivisibilis et perpetua, nec est continua nec temporalis,
-            ergo et cetera.
+            Praeterea, nostrum intelligere est cum continuo et tempore, sed
+            anima, cum sit indivisibilis et perpetua, nec est continua nec
+            temporalis, ergo et cetera.
           </p>
         </div>
-        <p ana="#rationes-principales-pro">
-          Oppositum patet per
-          <app type="insubstantial">
-            <lem><name ref="#Aristotle">Philosophum</name></lem>
-            <rdg wit="#B">Philosophum</rdg>
-            <rdg wit="#O">determinationem Philosophi</rdg>
-          </app>
-          .
-        </p>
-        <p ana="#determinatio" n="1">
-          Dicendum quod cum scientia sit habitus acquisitus per demonstrationem,
-          et ad demonstrationem tria requirantur:
-          <app type="insubstantial">
-            <lem n="requirantur"/>
-            <rdg wit="#B" type="variation-absent"/>
-            <rdg wit="#O" type="variation-present">scilicet</rdg>
-          </app>
-          subiectum, passio, et
-          principium per quod ostenditur passio de subiecto. Ubi est
-          <app type="insubstantial">
-            <lem>ista tria invenire</lem>
-            <rdg wit="#B">ista tria invenire</rdg>
-            <rdg wit="#O" type="variation-inversion">
-              <seg>invenire</seg>
-              <seg>ista tria</seg>
-            </rdg>
-          </app>
-          , ibi
-          <app>
-            <!-- O better. Nothing need be supplied mentally (e.g. possibile) -->
-            <lem>est scientiam ponere</lem>
-            <rdg wit="#B">est scientiam ponere</rdg>
-            <rdg wit="#O">contingit ponere scientiam</rdg>
-          </app>
-          . Nunc autem anima
-          <app type="insubstantial">
-            <lem>est quoddam ens</lem>
-            <rdg wit="#B">est quoddam ens</rdg>
-            <rdg wit="#O">quoddam subiectum est</rdg>
-          </app>
-          cuius sunt
-          <app>
-            <lem n="sunt" />
-            <rdg wit="#O" type="variation-present">multae</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          proprietates et passiones, ut patebit inferius. Sunt etiam
-          principia per quae
-          <app type="insubstantial">
-            <lem>ostendi possunt istae passiones</lem>
-            <rdg wit="#B">ostendi possunt istae passiones</rdg>
-            <rdg wit="#O">istae passiones probari possunt</rdg>
-          </app>
-          de anima. Si enim accipiatur quod quid est animae pro medio,
-          <app>
-            <!-- O more explicit/clear -->
-            <lem n="medio"/>
-            <rdg wit="#O" type="variation-present">per ipsum</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          concludi potest propria passio eius de anima, et ita de anima potest
-          <app>
-            <lem n="potest"/>
-            <rdg wit="#O" type="variation-present">aliquid sciri sive</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          esse aliqualis scientia.
-        </p>
-        <p ana="#determinatio" n="2">
-          Praeterea, accidentia non sunt
-          <app type="insubstantial">
-            <lem>entia per se</lem>
-            <rdg wit="#B">entia per se</rdg>
-            <rdg wit="#O" type="variation-inversion">
-              <seg>per se</seg>
-              <seg>entia</seg>
-            </rdg>
-          </app>
-          , sed in alio. Qui ergo cognoscit accidencia, manuduci potest in
-          cognitionem eius cuius sunt. Nunc autem multa accidentia ipsius animae
-          nobis sunt manifesta: Operationes
-          <app>
-            <lem n="operationes"/>
-            <rdg wit="#O" type="variation-present">enim</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          artificiales nobis notae sunt quae
-          <app>
-            <lem n="quae"/>
-            <rdg wit="#O" type="variation-present">tamen</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          non fiunt absque intelligere, et
-          intelligere procedit ab aliqua potentia, et potentia
-          <app>
-            <lem n="potentia"/>
-            <rdg wit="#O" type="variation-present">fluit</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          ab essentia.
-          <app>
-            <lem>Eodem modo est de</lem>
-            <rdg wit="#B">Eodem modo est de</rdg>
-            <rdg wit="#O">et sic est de aliis</rdg>
-          </app>
-          operationibus quae procedunt ab irascibili. Unde per multa
-          <!--
-              Here O actually solves our problem and hints at the diplomatic
-              reading in B. Based on this reading I would say that O is a
-              slightly better text
-          -->
-          <app>
-            <lem>nobis</lem>
-            <rdg wit="#B">nobis</rdg>
-            <rdg wit="#O">quae nobis nota sunt</rdg>
-          </app>
-          devenire
-          <app>
-            <lem>possunt</lem>
-            <rdg wit="#B">possunt</rdg>
-            <rdg wit="#O">possumus</rdg>
-            <rdg type="conjecture-corrected">possibile est</rdg>
-          </app>
-          in cognitionem animae, quia tamen scire est
-          <app>
-            <lem>causam rei</lem>
-            <rdg wit="#B">causam rei</rdg>
-            <rdg wit="#O">per causam</rdg>
-          </app>
-          cognoscere
-          <!-- Auct. Arist. 35.8, cf. Arist. APo I.2 71b10-12 -->
-          , et talis
-          <app>
-            <lem n="talis"/>
-            <rdg wit="#O" type="variation-present">cognitio de anima</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          procedit per effectus
-          <app>
-            <lem n="effectus"/>
-            <rdg wit="#O" type="variation-present">et</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          non per causam. Ideo <name
-          ref="#Aristotle">Philosophus</name> talem cognitionem tradens de anima
-          <app>
-            <lem>ipsam vocat</lem>
-            <rdg wit="#B">ipsam vocat</rdg>
-            <rdg wit="#O">istam cognitionem nominat</rdg>
-          </app>
-          <cit>
-            <quote>historiam</quote>
-            <bibl>Arist. <title ref="#Arist.DA">DA</title> I.1 402a4</bibl>
-          </cit>
-          . Extensive tamen dici potest scientia.
-        </p>
+        <div ana="#rationes-principales-pro">
+          <p>
+            Oppositum patet per
+            <app type="insubstantial">
+              <lem><name ref="#Aristotle">Philosophum</name></lem>
+              <rdg wit="#B">Philosophum</rdg>
+              <rdg wit="#O">determinationem Philosophi</rdg>
+            </app>
+            .
+          </p>
+        </div>
+        <div ana="#determinatio">
+          <p ana="#determinatio" n="1">
+            Dicendum quod cum scientia sit habitus acquisitus per
+            demonstrationem, et ad demonstrationem tria requirantur:
+            <app type="insubstantial">
+              <lem n="requirantur"/>
+              <rdg wit="#B" type="variation-absent"/>
+              <rdg wit="#O" type="variation-present">scilicet</rdg>
+            </app>
+            subiectum, passio, et
+            principium per quod ostenditur passio de subiecto, ubi est
+            <app type="insubstantial">
+              <lem>ista tria invenire</lem>
+              <rdg wit="#B">ista tria invenire</rdg>
+              <rdg wit="#O" type="variation-inversion">
+                <seg>invenire</seg>
+                <seg>ista tria</seg>
+              </rdg>
+            </app>
+            , ibi
+            <app>
+              <!-- O better. Nothing need be supplied mentally (e.g. possibile)
+                   -->
+              <lem>est scientiam ponere</lem>
+              <rdg wit="#B">est scientiam ponere</rdg>
+              <rdg wit="#O">contingit ponere scientiam</rdg>
+            </app>
+            . Nunc autem anima
+            <app type="insubstantial">
+              <lem>est quoddam ens</lem>
+              <rdg wit="#B">est quoddam ens</rdg>
+              <rdg wit="#O">quoddam subiectum est</rdg>
+            </app>
+            cuius sunt
+            <app>
+              <lem n="sunt" />
+              <rdg wit="#O" type="variation-present">multae</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            proprietates et passiones, ut patebit inferius. Sunt etiam
+            principia per quae
+            <app type="insubstantial">
+              <lem>ostendi possunt istae passiones</lem>
+              <rdg wit="#B">ostendi possunt istae passiones</rdg>
+              <rdg wit="#O">istae passiones probari possunt</rdg>
+            </app>
+            de anima. Si enim accipiatur quod quid est animae pro medio,
+            <app>
+              <!-- O more explicit/clear -->
+              <lem n="medio"/>
+              <rdg wit="#O" type="variation-present">per ipsum</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            concludi potest propria passio eius de anima, et ita de anima potest
+            <app>
+              <lem n="potest"/>
+              <rdg wit="#O" type="variation-present">aliquid sciri sive</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            esse aliqualis scientia.
+          </p>
+          <p ana="#determinatio" n="2">
+            Praeterea, accidentia non sunt
+            <app type="insubstantial">
+              <lem>entia per se</lem>
+              <rdg wit="#B">entia per se</rdg>
+              <rdg wit="#O" type="variation-inversion">
+                <seg>per se</seg>
+                <seg>entia</seg>
+              </rdg>
+            </app>
+            , sed in alio. Qui ergo cognoscit accidencia, manuduci potest in
+            cognitionem eius cuius sunt. Nunc autem multa accidentia ipsius
+            animae nobis sunt manifesta: Operationes
+            <app>
+              <lem n="operationes"/>
+              <rdg wit="#O" type="variation-present">enim</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            artificiales nobis notae sunt quae
+            <app>
+              <lem n="quae"/>
+              <rdg wit="#O" type="variation-present">tamen</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            non fiunt absque intelligere, et
+            intelligere procedit ab aliqua potentia, et potentia
+            <app>
+              <lem n="potentia"/>
+              <rdg wit="#O" type="variation-present">fluit</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            ab essentia.
+            <app>
+              <lem>Eodem modo est de</lem>
+              <rdg wit="#B">Eodem modo est de</rdg>
+              <rdg wit="#O">et sic est de aliis</rdg>
+            </app>
+            operationibus quae procedunt ab irascibili. Unde per multa
+            <!--
+                Here O actually solves our problem and hints at the diplomatic
+                reading in B. Based on this reading I would say that O is a
+                slightly better text
+            -->
+            <app>
+              <lem>nobis</lem>
+              <rdg wit="#B">nobis</rdg>
+              <rdg wit="#O">quae nobis nota sunt</rdg>
+            </app>
+            devenire
+            <app>
+              <lem>possunt</lem>
+              <rdg wit="#B">possunt</rdg>
+              <rdg wit="#O">possumus</rdg>
+              <rdg type="conjecture-corrected">possibile est</rdg>
+            </app>
+            in cognitionem animae. Quia tamen scire est
+            <app>
+              <lem>causam rei</lem>
+              <rdg wit="#B">causam rei</rdg>
+              <rdg wit="#O">per causam</rdg>
+            </app>
+            cognoscere
+            <!-- Auct. Arist. 35.8, cf. Arist. APo I.2 71b10-12 -->
+            , et talis
+            <app>
+              <lem n="talis"/>
+              <rdg wit="#O" type="variation-present">cognitio de anima</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            procedit per effectus
+            <app>
+              <lem n="effectus"/>
+              <rdg wit="#O" type="variation-present">et</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            non per causam, ideo <name ref="#Aristotle">Philosophus</name> talem
+            cognitionem tradens de anima
+            <app>
+              <lem>ipsam vocat</lem>
+              <rdg wit="#B">ipsam vocat</rdg>
+              <rdg wit="#O">istam cognitionem nominat</rdg>
+            </app>
+            <cit>
+              <quote>historiam</quote>
+              <bibl>Arist. <title ref="#Arist.DA">DA</title> I.1 402a4</bibl>
+            </cit>
+            . Extensive tamen dici potest scientia.
+          </p>
+        </div>
+        <div ana="#ad-rationes-contra">
         <p ana="#ad-rationes-contra" n="1">
           Ad primum argumentum dicendum
           <app>
