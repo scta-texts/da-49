@@ -170,7 +170,7 @@
             , de quorum numero est anima
             <app>
               <lem n="anima"/>
-              <rdg wit="#O" type="variation-present"><unclear>et virtus</unclear></rdg>
+              <rdg wit="#O" type="variation-present">saltim</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             humana, sed oculus nycticoracis non potest apprehendere lumen solis,
@@ -421,7 +421,7 @@
           <app>
             <lem>sicut</lem>
             <rdg wit="#B">sicut</rdg>
-            <rdg wit="#O">et <gap extent="2" unit="letters" reason="damage"/></rdg>
+            <rdg wit="#O">et sic</rdg>
           </app>
           definitur
           <app>
@@ -438,7 +438,7 @@
           <app>
             <lem>cognoscere dicuntur</lem>
             <rdg wit="#B">cognoscere dicuntur</rdg>
-            <rdg wit="#O"><unclear>s()stire dicuntur</unclear></rdg>
+            <rdg wit="#O">sentire dicuntur</rdg>
           </app>
           motus: Primo modo non potest idem esse movens et motum per se, per
           accidens tamen nihil prohibet, sicut nauta
@@ -581,7 +581,7 @@
           intellectus noster
           <app>
             <lem n="noster"/>
-            <rdg wit="#O" type="variation-present"><unclear>et (va) significat</unclear></rdg>
+            <rdg wit="#O" type="correction-deletion"><del>et si</del></rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           non
@@ -602,8 +602,8 @@
             <lem>potest in effectus earum</lem>
             <rdg wit="#B">potest in effectus earum</rdg>
             <rdg wit="#O">
-              aliqui effectus earum apprehedent nos <add place="right-margin">per
-              quos in <unclear>materiam videtur</unclear> in earum noticiam</add>
+              aliqui effectus earum apparent nobis <add place="right-margin">per
+              quos manuducimur in earum notitiam</add>
             </rdg>
           </app>
           ,
@@ -650,7 +650,7 @@
           magis adaequant virtutem eius quam effectus
           <app>
             <lem n="effectus"/>
-            <rdg wit="#O"><unclear>que</unclear></rdg>
+            <rdg wit="#O">quae</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           substantiarum separatarum
