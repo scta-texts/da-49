@@ -112,7 +112,7 @@
               <rdg wit="#B">esset idem</rdg>
               <rdg wit="#O" type="variation-inversion">idem esset</rdg>
             </app>
-            actu et potentia respectu eiusdem, sed cognitum est
+            actu et potentia respectu eiusdem; sed cognitum est
             movens respectu cognocentis, ergo unum et idem non potest esse
             <!-- Next 2: O better as it completes the argument with the transfer
                  of predicate from the minor. -->
@@ -387,7 +387,7 @@
             <rdg wit="#O" type="variation-present">videtur</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          <name ref="#Diares"> Diarri</name> filius. Unde, licet anima non cadat
+          <name ref="#Diares"> Diari</name> filius. Unde, licet anima non cadat
           sub sensu per
           <app>
             <!-- Here O clearly better -->
@@ -436,11 +436,11 @@
             <rdg wit="#B" type="variation-absent"/>
           </app>
           <cit>
-            <ref>tertio <title ref="#Arist.Phys">Physicorum</title>,</ref>
+            <ref>tertio <title ref="#Arist.Phys">Physicorum</title></ref>
             <bibl>Arist. <title ref="#Arist.Phys">Phys.</title> III.2
             201b31--33</bibl>
           </cit>
-          alio modo est actus perfecti sicut intelligere et
+          ; alio modo est actus perfecti,
           <app>
             <lem>cognoscere dicuntur</lem>
             <rdg wit="#B">cognoscere dicuntur</rdg>
@@ -499,7 +499,7 @@
             <rdg wit="#B">substantia</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          non semper actu intelligens
+          non semper actu intelligens,
           <app>
             <lem n="intelligens"/>
             <rdg wit="#O">sicut est anima humana</rdg>
@@ -528,7 +528,7 @@
             <lem>per speciem alterius</lem>
             <rdg wit="#B">per speciem alterius</rdg>
             <rdg wit="#O">
-              non est in actu nisi per alterum, ut per speciem intelligibilem
+              non est in actu nisi per alterum, ut per speciem intelligibilem,
               ideo
             </rdg>
           </app>
@@ -714,6 +714,7 @@
           </app>
           .
         </p>
+      </div>
       </div>
     </body>
   </text>
