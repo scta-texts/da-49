@@ -142,20 +142,32 @@
             .
           </p>
           <p ana="#rationes-principales-contra" n="3">
-            Praeterea, sicut oculus
-            <app>
-              <lem>nycticoracis</lem>
-              <rdg type="variation-orthography" wit="#B">nyctocoracis</rdg>
-              <rdg wit="#O">vespertilionis</rdg>
-            </app>
-            <app>
-              <lem type="conjecture-supplied"><supplied>se habet</supplied></lem>
-              <rdg wit="#B" type="variation-absent">
-                <space extent="8" unit="letters" />
-              </rdg>
-            </app>
-            ad lumen solis, sic intellectus noster ad ea quae sunt manifestissima
-            in natura, de quorum numero est anima
+            Praeterea,
+            <cit>
+              <quote type="paraphrase">
+                sicut oculus
+                <app>
+                  <lem>nycticoracis</lem>
+                  <rdg type="variation-orthography" wit="#B">nyctocoracis</rdg>
+                  <rdg wit="#O">vespertilionis</rdg>
+                </app>
+                <app>
+                  <lem type="conjecture-supplied">
+                    <supplied>se habet</supplied>
+                  </lem>
+                  <rdg wit="#B" type="variation-absent">
+                    <space extent="8" unit="letters" />
+                  </rdg>
+                </app>
+                ad lumen solis, sic intellectus noster ad ea quae sunt
+                manifestissima in natura
+              </quote>
+              <bibl>
+                Cf. Arist. <title ref="#Arist.Metaph"> Metaph.</title> II.1
+                993b9--11 (νυκτερίς).
+              </bibl>
+            </cit>
+            , de quorum numero est anima
             <app>
               <lem n="anima"/>
               <rdg wit="#O" type="variation-present"><unclear>et virtus</unclear></rdg>
