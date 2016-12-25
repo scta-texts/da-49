@@ -274,7 +274,7 @@
             informans intellectum, et per istam formam intelligit intellectus
             <app>
               <lem>se</lem>
-              <rdg type="correction-substitution">
+              <rdg wit="#B" type="correction-substitution">
                 <subst>
                   <del rend="punct">sed</del>
                   <add place="above">se</add>
