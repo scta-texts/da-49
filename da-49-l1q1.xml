@@ -339,421 +339,421 @@
           </p>
         </div>
         <div ana="#ad-rationes-contra">
-        <p ana="#ad-rationes-contra" n="1">
-          Ad primum argumentum dicendum
-          <app>
-            <lem>quod minor est falsa</lem>
-            <rdg wit="#O">quod minor est falsa</rdg>
-            <rdg wit="#B">per interemptionem minoris</rdg>
-          </app>
-          ,
-          <app>
-            <lem>et</lem>
-            <rdg wit="#O" type="variation-present">et</rdg>
-            <rdg wit="#B" type="variation-absent" />
-          </app>
-          ad probationem dicendum quod
-          <app>
-            <lem>aliquid</lem>
-            <rdg wit="#O">aliquid</rdg>
-            <rdg wit="#B">aliquod</rdg>
-          </app>
-          cadit <cb ed="#B" n="b"/> in sensu dupliciter: Aut per positionem aut
-          <app>
-            <lem>per</lem>
-            <rdg wit="#B">per</rdg>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          privationem. Per privationem sicut tenebra et indivisibilia, ut
-          punctum et unitas. Per positionem contingit dupliciter, aut per
-          speciem sui, aut per speciem alterius; per speciem sui
-          <app>
-            <lem>sicut</lem>
-            <rdg wit="#O">sicut</rdg>
-            <rdg wit="#B">ut</rdg>
-          </app>
-          color videtur,
-          <cit>
-            <quote type="paraphrase">
-              per speciem alterius
-              <app>
-                <lem>sicut</lem>
-                <rdg wit="#O">sicut</rdg>
-                <rdg wit="#B">ut</rdg>
-              </app>
-              <app>
-                <lem>videtur</lem>
-                <rdg wit="#O" type="variation-present">videtur</rdg>
-                <rdg wit="#B" type="variation-absent"/>
-              </app>
-              <name ref="#Diares"> Diari</name> filius
-            </quote>
-            <bibl>Arist. <title ref="#Arist.DA">DA</title> II.6 418a20--22</bibl>
-          </cit>
-          . Unde, licet anima non cadat
-          sub sensu per
-          <app>
-            <!-- Here O clearly better -->
-            <lem>se</lem>
-            <rdg wit="#O">se</rdg>
-            <rdg wit="#B">rei</rdg>
-          </app>
-          ,
-          <app>
-            <lem type="conjecture-corrected">cadit</lem>
-            <rdg wit="#B #O">cadat</rdg>
-          </app>
-          tamen sub sensu per alterum, ut per sui effectus,
-          <app>
-            <lem>et</lem>
-            <rdg wit="#O">et</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          eodem modo, licet per se phantasma non faciat,
-          <app>
-            <lem>aliud</lem>
-            <rdg type="conjecture-correction">aliud</rdg>
-            <rdg wit="#O #B">aliquid</rdg>
-          </app>
-          tamen phantasma facit quod in eius cognitionem ducere potest.
-        </p>
-        <p ana="#ad-rationes-contra" n="2">
-          Ad
-          <app>
-            <lem>aliud</lem>
-            <rdg wit="#O">aliud</rdg>
-            <rdg wit="#B">secundum</rdg>
-          </app>
-          dicendum quod
-          <app type="insubstantial">
-            <lem>dupliciter dicitur motus</lem>
-            <rdg wit="#O">dupliciter dicitur motus</rdg>
-            <rdg wit="#B">motus dicitur dupliciter</rdg>
-          </app>
-          : Uno modo est actus imperfecti,
-          <!-- I'm in doubt about the two sicuts here and in the next -->
-          <app>
-            <lem>sicut</lem>
-            <rdg wit="#B">sicut</rdg>
-            <rdg wit="#O">et sic</rdg>
-          </app>
-          definitur
-          <app>
-            <lem>a <name ref="#Aristotle">Philosopho</name> in</lem>
-            <rdg wit="#O">a Philosopho in</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          <cit>
-            <ref>tertio <title ref="#Arist.Phys">Physicorum</title>;</ref>
-            <bibl>Arist. <title ref="#Arist.Phys">Phys.</title> III.2
-            201b31--33</bibl>
-          </cit>
-          alio modo est actus perfecti,
-          <app>
-            <lem>sicut</lem>
-            <rdg wit="#B">sicut</rdg>
-            <rdg wit="#O">sic</rdg>
-          </app>
-          intelligere et
-          <app>
-            <lem>sentire</lem>
-            <rdg wit="#O">sentire</rdg>
-            <rdg wit="#B">cognoscere</rdg>
-          </app>
-          dicuntur motus: Primo modo non potest idem esse movens et motum per se, per
-          accidens tamen nihil prohibet, sicut nauta
-          <app>
-            <lem>movet navem per se</lem>
-            <rdg wit="#O">movet navem per se</rdg>
-            <rdg wit="#B" type="variation-inversion">
-              <seg>per se</seg>
-              <seg>movet navem</seg>
-            </rdg>
-          </app>
-          <app>
-            <lem>qua mota movet seipsum</lem>
-            <rdg wit="#O">qua mota movet seipsum</rdg>
-            <rdg wit="#B"> et motu navi movetur</rdg>
-          </app>
-          <app>
-            <lem n="movetur"/>
-            <rdg type="variation-absent" />
-            <rdg wit="#B" type="variation-present">per accidens</rdg>
-          </app>
-          . Secundo modo nihil prohibet idem
-          <app>
-            <lem>movere se ipsum</lem>
-            <rdg wit="#O">movere se ipsum</rdg>
-            <rdg wit="#B">esse movens et motum respectu sui ipsius</rdg>
-          </app>
-          . Sed tamen differentia est: Aliqua
-          <app>
-            <lem>enim</lem>
-            <rdg wit="#O" type="variation-present">enim</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          est substantia semper actu intelligens, et talis
-          <app>
-            <lem>substantia</lem>
-            <rdg wit="#B" type="variation-present">substantia</rdg>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          potest intelligere se per se,
-          <app>
-            <!-- intellectus, nom.? Strange. Also. Sicut maybe better than sed,
-                 cf. the parallel qualifying addition below (sicut est anima
-                 humana). -->
-            <lem>sed est de prima causa et <unclear>intellectus</unclear></lem>
-            <rdg wit="#O">sed est de prima causa et <unclear>intellectus</unclear></rdg>
-            <rdg wit="#B" type="variation-absent" />
-          </app>
-          <!-- What is going on here?! -->
-          , sed aliqua est
-          <app>
-            <lem n="est"/>
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B" type="variation-present">substantia</rdg>
-          </app>
-          non semper actu intelligens,
-          <app>
-            <lem>sicut est anima humana</lem>
-            <rdg wit="#O">sicut est anima humana</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          et talis
-          <app>
-            <lem n="talis"/>
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B" type="variation-present">substantia</rdg>
-          </app>
-          <app>
-            <lem>non intelligit</lem>
-            <rdg wit="#O">non intelligit</rdg>
-            <rdg wit="#B">non potest intelligere</rdg>
-          </app>
-          se per se, quia nihil intelligitur nisi
-          secundum quod actu est, et talis substantia, cum sit in potentia
-          intelligens
-          <app>
-            <lem>
-              non est in actu nisi per alterum, ut per speciem intelligibilem, ideo
-            </lem>
-            <rdg wit="#O">
-              non est in actu nisi per alterum, ut per speciem intelligibilem, ideo
-            </rdg>
-            <rdg wit="#B">per speciem alterius</rdg>
-          </app>
-          per alterum potest
-          <app type="insubstantial">
-            <lem>seipsum</lem>
-            <rdg wit="#B">seipsum</rdg>
-            <rdg wit="#O">se</rdg>
-          </app>
-          intelligere. Per hoc enim quod anima intelligit obiectum per speciem
-          potest intelligere suum actum et per actum potest reflectere
-          <app>
-            <lem>se</lem>
-            <rdg wit="#O">se</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          supra suam essentiam
-          <app>
-            <lem>
-              unde anima nostra quodammodo intelligit se sicut nauta movet navem
-            </lem>
-            <rdg wit="#O">
-              unde anima nostra quodammodo intelligit se sicut nauta movet navem
-            </rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          .
-        </p>
-        <p ana="#ad-rationes-contra" n="3">
-          Ad
-          <app>
-            <lem>aliud</lem>
-            <rdg wit="#O">aliud</rdg>
-            <rdg wit="#B">tertium</rdg>
-          </app>
-          dicendum quod licet oculus nycticoracis non possit apprehendere
-          directe lumen solis,
-          <app>
-            <lem>
-              potest tamen indirecte aliquam claritatem apprehendere
-            </lem>
-            <rdg wit="#O">
-              potest tamen indirecte aliquam claritatem apprehendere
-            </rdg>
-            <rdg wit="#B">aliquem tamen effectum eius potest apprehendere</rdg>
-          </app>
-          , et si visus
-          <app>
-            <lem>eius</lem>
-            <rdg wit="#O">eius</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          esset discursivus,
-          <app>
-            <!-- O supplies the reading we had conjectured -->
-            <lem>posset</lem>
-            <rdg wit="#O">posset</rdg>
-            <rdg wit="#B">possit</rdg>
-          </app>
-          <app>
-            <lem>cognoscere</lem>
-            <rdg wit="#O">cognoscere</rdg>
-            <rdg wit="#B">intelligere</rdg>
-          </app>
-          lumen solis. Nunc
-          <app>
-            <lem>autem, etsi</lem>
-            <rdg wit="#O">autem, etsi</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          intellectus noster
-          <app>
-            <lem n="noster"/>
-            <rdg wit="#B" type="variation-absent"/>
-            <rdg wit="#O" type="correction-deletion"><del>etsi</del></rdg>
-          </app>
-          non
-          <app>
-            <lem type="conjecture-corrected">potest</lem>
-            <rdg wit="#O">posset</rdg>
-            <rdg wit="#B">possit</rdg>
-          </app>
-          <app>
-            <lem n="potest"/>
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B" type="variation-present">directe</rdg>
-          </app>
-          in cognitionem
-          <app>
-            <lem>perfectam</lem>
-            <rdg wit="#O">perfectam</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          substantiarum separatarum, tamen
-          <app>
-            <!-- I'm in doubt what's going on here -->
-            <lem>
-              aliqui effectus earum apparent nobis
-              <app>
-                <lem>per quos manuducimur in earum notitiam</lem>
-                <rdg wit="#O" type="correction-addition">
-                  <add place="right-margin">per quos manuducimur in earum notitiam</add>
-                </rdg>
-              </app>
-            </lem>
-            <rdg wit="#O" ana="#lemma">
-              aliqui effectus earum apparent nobis <add place="right-margin">per
-              quos manuducimur in earum notitiam</add>
-            </rdg>
-            <rdg wit="#B">potest in effectus earum</rdg>
-          </app>
-          ,
-          et quia intellectus noster est discursivus, ideo
-          <app>
-            <lem>potest</lem>
-            <rdg wit="#O">potest</rdg>
-            <rdg wit="#B">per effectus possumus</rdg>
-          </app>
-          in
-          <app>
-            <!-- B is better here -->
-            <lem>aliqualem</lem>
-            <rdg wit="#B">aliqualem</rdg>
-            <rdg wit="#O">aliqualiter</rdg>
-          </app>
-          cognitionem
-          <app>
-            <!-- This makes O and B equivalent with the reading above (per
-                 effectus...) -->
-            <lem>earum ut per effectus</lem>
-            <rdg wit="#O">earum ut per effectus</rdg>
-            <rdg wit="#B">substantiarum separatarum</rdg>
-          </app>
-          . Magis <pb ed="#O" n="164-v"/><cb ed="#O" n="a"/> tamen cognoscimus
-          de anima quam de
-          <app>
-            <!-- B better here. -->
-            <lem>substantiis</lem>
-            <rdg wit="#B">substantiis</rdg>
-            <rdg wit="#O">aliis</rdg>
-          </app>
-          separatis, quia effectus
-          <app>
-            <lem>ipsius</lem>
-            <rdg wit="#O">ipsius</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          animae
-          <app>
-            <lem>nobis apparentes</lem>
-            <rdg wit="#O">nobis apparentes</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          magis adaequant virtutem eius quam effectus
-          <app>
-            <lem n="effectus"/>
-            <rdg wit="#B" type="variation-absent"/>
-            <rdg wit="#O" type="variation-present">quae</rdg>
-          </app>
-          substantiarum separatarum
-          <app>
-            <lem>nobis apparentes</lem>
-            <rdg wit="#O">nobis apparentes</rdg>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          <app>
-            <lem>adaequant virtutem earum</lem>
-            <rdg wit="#B">adaequant virtutem earum</rdg>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          .
-        </p>
-        <p ana="#ad-rationes-contra" n="4">
-          Ad aliud dicendum quod
-          <app>
-            <lem>intelligere nostrum</lem>
-            <rdg wit="#O">intelligere nostrum</rdg>
-            <rdg wit="#B" type="variation-inversion">nostrum intelligere</rdg>
-          </app>
-          non est sine
-          <app>
-            <lem>phantasmate</lem>
-            <rdg wit="#B">phantasmate</rdg>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          , continuo et tempore, quia non est sine phantasmate. Non tamen oportet
-          <app>
-            <!-- This, combined with next, make two quite different meanings...
-                 B: not necessary that all that is known by us is continuus and
-                 temporal.
-                 O: not necessary that all knowing is continuus and temporal.
-                 I think O is better here, and also fits the argument better: Some
-                 acts of thought don't require temporality.-->
-            <lem n="oportet"/>
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B" type="variation-present">quod</rdg>
-          </app>
-          omne
-          <app>
-            <lem>intelligere esse</lem>
-            <rdg wit="#O">intelligere esse</rdg>
-            <rdg wit="#B">
-              quod a nobis est quocumque modo intelligibile sit
-            </rdg>
-          </app>
-          continuum et
-          <app>
-            <lem>temporale</lem>
-            <rdg wit="#O">temporale</rdg>
-            <rdg wit="#B">temporalis</rdg>
-          </app>
-          .
-        </p>
-      </div>
+          <p ana="#ad-rationes-contra" n="1">
+            Ad primum argumentum dicendum
+            <app>
+              <lem>quod minor est falsa</lem>
+              <rdg wit="#O">quod minor est falsa</rdg>
+              <rdg wit="#B">per interemptionem minoris</rdg>
+            </app>
+            ,
+            <app>
+              <lem>et</lem>
+              <rdg wit="#O" type="variation-present">et</rdg>
+              <rdg wit="#B" type="variation-absent" />
+            </app>
+            ad probationem dicendum quod
+            <app>
+              <lem>aliquid</lem>
+              <rdg wit="#O">aliquid</rdg>
+              <rdg wit="#B">aliquod</rdg>
+            </app>
+            cadit <cb ed="#B" n="b"/> in sensu dupliciter: Aut per positionem aut
+            <app>
+              <lem>per</lem>
+              <rdg wit="#B">per</rdg>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            privationem. Per privationem sicut tenebra et indivisibilia, ut
+            punctum et unitas. Per positionem contingit dupliciter, aut per
+            speciem sui, aut per speciem alterius; per speciem sui
+            <app>
+              <lem>sicut</lem>
+              <rdg wit="#O">sicut</rdg>
+              <rdg wit="#B">ut</rdg>
+            </app>
+            color videtur,
+            <cit>
+              <quote type="paraphrase">
+                per speciem alterius
+                <app>
+                  <lem>sicut</lem>
+                  <rdg wit="#O">sicut</rdg>
+                  <rdg wit="#B">ut</rdg>
+                </app>
+                <app>
+                  <lem>videtur</lem>
+                  <rdg wit="#O" type="variation-present">videtur</rdg>
+                  <rdg wit="#B" type="variation-absent"/>
+                </app>
+                <name ref="#Diares"> Diari</name> filius
+              </quote>
+              <bibl>Arist. <title ref="#Arist.DA">DA</title> II.6 418a20--22</bibl>
+            </cit>
+            . Unde, licet anima non cadat
+            sub sensu per
+            <app>
+              <!-- Here O clearly better -->
+              <lem>se</lem>
+              <rdg wit="#O">se</rdg>
+              <rdg wit="#B">rei</rdg>
+            </app>
+            ,
+            <app>
+              <lem type="conjecture-corrected">cadit</lem>
+              <rdg wit="#B #O">cadat</rdg>
+            </app>
+            tamen sub sensu per alterum, ut per sui effectus,
+            <app>
+              <lem>et</lem>
+              <rdg wit="#O">et</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            eodem modo, licet per se phantasma non faciat,
+            <app>
+              <lem>aliud</lem>
+              <rdg type="conjecture-correction">aliud</rdg>
+              <rdg wit="#O #B">aliquid</rdg>
+            </app>
+            tamen phantasma facit quod in eius cognitionem ducere potest.
+          </p>
+          <p ana="#ad-rationes-contra" n="2">
+            Ad
+            <app>
+              <lem>aliud</lem>
+              <rdg wit="#O">aliud</rdg>
+              <rdg wit="#B">secundum</rdg>
+            </app>
+            dicendum quod
+            <app type="insubstantial">
+              <lem>dupliciter dicitur motus</lem>
+              <rdg wit="#O">dupliciter dicitur motus</rdg>
+              <rdg wit="#B">motus dicitur dupliciter</rdg>
+            </app>
+            : Uno modo est actus imperfecti,
+            <!-- I'm in doubt about the two sicuts here and in the next -->
+            <app>
+              <lem>sicut</lem>
+              <rdg wit="#B">sicut</rdg>
+              <rdg wit="#O">et sic</rdg>
+            </app>
+            definitur
+            <app>
+              <lem>a <name ref="#Aristotle">Philosopho</name> in</lem>
+              <rdg wit="#O">a Philosopho in</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            <cit>
+              <ref>tertio <title ref="#Arist.Phys">Physicorum</title>;</ref>
+              <bibl>Arist. <title ref="#Arist.Phys">Phys.</title> III.2
+              201b31--33</bibl>
+            </cit>
+            alio modo est actus perfecti,
+            <app>
+              <lem>sicut</lem>
+              <rdg wit="#B">sicut</rdg>
+              <rdg wit="#O">sic</rdg>
+            </app>
+            intelligere et
+            <app>
+              <lem>sentire</lem>
+              <rdg wit="#O">sentire</rdg>
+              <rdg wit="#B">cognoscere</rdg>
+            </app>
+            dicuntur motus: Primo modo non potest idem esse movens et motum per se, per
+            accidens tamen nihil prohibet, sicut nauta
+            <app>
+              <lem>movet navem per se</lem>
+              <rdg wit="#O">movet navem per se</rdg>
+              <rdg wit="#B" type="variation-inversion">
+                <seg>per se</seg>
+                <seg>movet navem</seg>
+              </rdg>
+            </app>
+            <app>
+              <lem>qua mota movet seipsum</lem>
+              <rdg wit="#O">qua mota movet seipsum</rdg>
+              <rdg wit="#B"> et motu navi movetur</rdg>
+            </app>
+            <app>
+              <lem n="movetur"/>
+              <rdg type="variation-absent" />
+              <rdg wit="#B" type="variation-present">per accidens</rdg>
+            </app>
+            . Secundo modo nihil prohibet idem
+            <app>
+              <lem>movere se ipsum</lem>
+              <rdg wit="#O">movere se ipsum</rdg>
+              <rdg wit="#B">esse movens et motum respectu sui ipsius</rdg>
+            </app>
+            . Sed tamen differentia est: Aliqua
+            <app>
+              <lem>enim</lem>
+              <rdg wit="#O" type="variation-present">enim</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            est substantia semper actu intelligens, et talis
+            <app>
+              <lem>substantia</lem>
+              <rdg wit="#B" type="variation-present">substantia</rdg>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            potest intelligere se per se,
+            <app>
+              <!-- intellectus, nom.? Strange. Also. Sicut maybe better than sed,
+                   cf. the parallel qualifying addition below (sicut est anima
+                   humana). -->
+              <lem>sed est de prima causa et <unclear>intellectus</unclear></lem>
+              <rdg wit="#O">sed est de prima causa et <unclear>intellectus</unclear></rdg>
+              <rdg wit="#B" type="variation-absent" />
+            </app>
+            <!-- What is going on here?! -->
+            , sed aliqua est
+            <app>
+              <lem n="est"/>
+              <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#B" type="variation-present">substantia</rdg>
+            </app>
+            non semper actu intelligens,
+            <app>
+              <lem>sicut est anima humana</lem>
+              <rdg wit="#O">sicut est anima humana</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            et talis
+            <app>
+              <lem n="talis"/>
+              <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#B" type="variation-present">substantia</rdg>
+            </app>
+            <app>
+              <lem>non intelligit</lem>
+              <rdg wit="#O">non intelligit</rdg>
+              <rdg wit="#B">non potest intelligere</rdg>
+            </app>
+            se per se, quia nihil intelligitur nisi
+            secundum quod actu est, et talis substantia, cum sit in potentia
+            intelligens
+            <app>
+              <lem>
+                non est in actu nisi per alterum, ut per speciem intelligibilem, ideo
+              </lem>
+              <rdg wit="#O">
+                non est in actu nisi per alterum, ut per speciem intelligibilem, ideo
+              </rdg>
+              <rdg wit="#B">per speciem alterius</rdg>
+            </app>
+            per alterum potest
+            <app type="insubstantial">
+              <lem>seipsum</lem>
+              <rdg wit="#B">seipsum</rdg>
+              <rdg wit="#O">se</rdg>
+            </app>
+            intelligere. Per hoc enim quod anima intelligit obiectum per speciem
+            potest intelligere suum actum et per actum potest reflectere
+            <app>
+              <lem>se</lem>
+              <rdg wit="#O">se</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            supra suam essentiam
+            <app>
+              <lem>
+                unde anima nostra quodammodo intelligit se sicut nauta movet navem
+              </lem>
+              <rdg wit="#O">
+                unde anima nostra quodammodo intelligit se sicut nauta movet navem
+              </rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            .
+          </p>
+          <p ana="#ad-rationes-contra" n="3">
+            Ad
+            <app>
+              <lem>aliud</lem>
+              <rdg wit="#O">aliud</rdg>
+              <rdg wit="#B">tertium</rdg>
+            </app>
+            dicendum quod licet oculus nycticoracis non possit apprehendere
+            directe lumen solis,
+            <app>
+              <lem>
+                potest tamen indirecte aliquam claritatem apprehendere
+              </lem>
+              <rdg wit="#O">
+                potest tamen indirecte aliquam claritatem apprehendere
+              </rdg>
+              <rdg wit="#B">aliquem tamen effectum eius potest apprehendere</rdg>
+            </app>
+            , et si visus
+            <app>
+              <lem>eius</lem>
+              <rdg wit="#O">eius</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            esset discursivus,
+            <app>
+              <!-- O supplies the reading we had conjectured -->
+              <lem>posset</lem>
+              <rdg wit="#O">posset</rdg>
+              <rdg wit="#B">possit</rdg>
+            </app>
+            <app>
+              <lem>cognoscere</lem>
+              <rdg wit="#O">cognoscere</rdg>
+              <rdg wit="#B">intelligere</rdg>
+            </app>
+            lumen solis. Nunc
+            <app>
+              <lem>autem, etsi</lem>
+              <rdg wit="#O">autem, etsi</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            intellectus noster
+            <app>
+              <lem n="noster"/>
+              <rdg wit="#B" type="variation-absent"/>
+              <rdg wit="#O" type="correction-deletion"><del>etsi</del></rdg>
+            </app>
+            non
+            <app>
+              <lem type="conjecture-corrected">potest</lem>
+              <rdg wit="#O">posset</rdg>
+              <rdg wit="#B">possit</rdg>
+            </app>
+            <app>
+              <lem n="potest"/>
+              <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#B" type="variation-present">directe</rdg>
+            </app>
+            in cognitionem
+            <app>
+              <lem>perfectam</lem>
+              <rdg wit="#O">perfectam</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            substantiarum separatarum, tamen
+            <app>
+              <!-- I'm in doubt what's going on here -->
+              <lem>
+                aliqui effectus earum apparent nobis
+                <app>
+                  <lem>per quos manuducimur in earum notitiam</lem>
+                  <rdg wit="#O" type="correction-addition">
+                    <add place="right-margin">per quos manuducimur in earum notitiam</add>
+                  </rdg>
+                </app>
+              </lem>
+              <rdg wit="#O" ana="#lemma">
+                aliqui effectus earum apparent nobis <add place="right-margin">per
+                quos manuducimur in earum notitiam</add>
+              </rdg>
+              <rdg wit="#B">potest in effectus earum</rdg>
+            </app>
+            ,
+            et quia intellectus noster est discursivus, ideo
+            <app>
+              <lem>potest</lem>
+              <rdg wit="#O">potest</rdg>
+              <rdg wit="#B">per effectus possumus</rdg>
+            </app>
+            in
+            <app>
+              <!-- B is better here -->
+              <lem>aliqualem</lem>
+              <rdg wit="#B">aliqualem</rdg>
+              <rdg wit="#O">aliqualiter</rdg>
+            </app>
+            cognitionem
+            <app>
+              <!-- This makes O and B equivalent with the reading above (per
+                   effectus...) -->
+              <lem>earum ut per effectus</lem>
+              <rdg wit="#O">earum ut per effectus</rdg>
+              <rdg wit="#B">substantiarum separatarum</rdg>
+            </app>
+            . Magis <pb ed="#O" n="164-v"/><cb ed="#O" n="a"/> tamen cognoscimus
+            de anima quam de
+            <app>
+              <!-- B better here. -->
+              <lem>substantiis</lem>
+              <rdg wit="#B">substantiis</rdg>
+              <rdg wit="#O">aliis</rdg>
+            </app>
+            separatis, quia effectus
+            <app>
+              <lem>ipsius</lem>
+              <rdg wit="#O">ipsius</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            animae
+            <app>
+              <lem>nobis apparentes</lem>
+              <rdg wit="#O">nobis apparentes</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            magis adaequant virtutem eius quam effectus
+            <app>
+              <lem n="effectus"/>
+              <rdg wit="#B" type="variation-absent"/>
+              <rdg wit="#O" type="variation-present">quae</rdg>
+            </app>
+            substantiarum separatarum
+            <app>
+              <lem>nobis apparentes</lem>
+              <rdg wit="#O">nobis apparentes</rdg>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+            <app>
+              <lem>adaequant virtutem earum</lem>
+              <rdg wit="#B">adaequant virtutem earum</rdg>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            .
+          </p>
+          <p ana="#ad-rationes-contra" n="4">
+            Ad aliud dicendum quod
+            <app>
+              <lem>intelligere nostrum</lem>
+              <rdg wit="#O">intelligere nostrum</rdg>
+              <rdg wit="#B" type="variation-inversion">nostrum intelligere</rdg>
+            </app>
+            non est sine
+            <app>
+              <lem>phantasmate</lem>
+              <rdg wit="#B">phantasmate</rdg>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            , continuo et tempore, quia non est sine phantasmate. Non tamen oportet
+            <app>
+              <!-- This, combined with next, make two quite different meanings...
+                   B: not necessary that all that is known by us is continuus and
+                   temporal.
+                   O: not necessary that all knowing is continuus and temporal.
+                   I think O is better here, and also fits the argument better: Some
+                   acts of thought don't require temporality.-->
+              <lem n="oportet"/>
+              <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#B" type="variation-present">quod</rdg>
+            </app>
+            omne
+            <app>
+              <lem>intelligere esse</lem>
+              <rdg wit="#O">intelligere esse</rdg>
+              <rdg wit="#B">
+                quod a nobis est quocumque modo intelligibile sit
+              </rdg>
+            </app>
+            continuum et
+            <app>
+              <lem>temporale</lem>
+              <rdg wit="#O">temporale</rdg>
+              <rdg wit="#B">temporalis</rdg>
+            </app>
+            .
+          </p>
+        </div>
       </div>
     </body>
   </text>
