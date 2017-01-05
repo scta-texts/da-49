@@ -91,7 +91,7 @@
               <rdg wit="#B">
                 intel <space reason="erasure" extent="3" unit="letters" />
               </rdg>
-              <witDetail wit="#B">cum rasura 3 littarum</witDetail>
+              <witDetail wit="#B">cum ras. 3 litt.</witDetail>
             </app>
             quam ipse sibi; ergo non potest intelligere per aliud quam per se.
           </p>
@@ -272,6 +272,7 @@
               <rdg wit="#B">
                 q <space reason="erasure" extent="2" unit="letters" />
               </rdg>
+              <witDetail wit="#B">cum ras. 2 litt.</witDetail>
             </app>
             causata est a sensibili ab agente est in sensu ut in subiecto, et
             eodem modo in proposito: Intellectum in actu et intellectus dicuntur
