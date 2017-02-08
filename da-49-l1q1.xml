@@ -503,8 +503,8 @@
               <!-- intellectus, nom.? Strange. Also. Sicut maybe better than sed,
                    cf. the parallel qualifying addition below (sicut est anima
                    humana). -->
-              <lem>sed est de prima causa et <unclear>intellectus</unclear></lem>
-              <rdg wit="#O">sed est de prima causa et <unclear>intellectus</unclear></rdg>
+              <lem>sed est de prima causa et intelligentiis</lem>
+              <rdg wit="#O">sed est de prima causa et intelligentiis</rdg>
               <rdg wit="#B" type="variation-absent" />
             </app>
             <!-- What is going on here?! -->
