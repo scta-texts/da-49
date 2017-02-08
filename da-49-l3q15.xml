@@ -159,8 +159,7 @@
               </cit>
               , et ideo, quia materia est ens in potentia,
               <app>
-                <lem>materiam</lem>
-                <rdg type="conjecture-correction">materiam</rdg>
+                <lem type="conjecture-corrected">materiam</lem>
                 <rdg wit="#B">in materia</rdg>
               </app>
               non cognoscit nisi per formam per quam est in actu. Sed intellectus
