@@ -85,7 +85,7 @@
           </p>
           <p ana="#rationes-principales-contra" n="1">
             Illud de quo est scientia est intelligibile, quia cum scientia sit
-            habitus intellectus de quo est scientia, oportet esse intelligibile;
+            habitus intellectus, de quo est scientia oportet esse intelligibile;
             sed anima non est intelligibile, quia omnis nostra cognitio ortum
             habet a sensu,
             <app>
@@ -144,9 +144,9 @@
               <quote type="paraphrase">
                 sicut oculus
                 <app>
-                  <lem>vespertilionis</lem>
-                  <rdg wit="#O">vespertilionis</rdg>
+                  <lem>nycticoracis</lem>
                   <rdg wit="#B">nycticoracis</rdg>
+                  <rdg wit="#O">vespertilionis</rdg>
                 </app>
                 <app>
                   <lem type="conjecture-supplied">
@@ -165,7 +165,7 @@
                 993b9--11 (νυκτερίς).
               </bibl>
             </cit>
-            , de quorum numero est anima
+            , de quorum numero est anima,
             <app>
               <lem>saltim</lem>
               <rdg wit="#O" type="variation-present">saltim</rdg>
@@ -194,14 +194,14 @@
         <div ana="#determinatio">
           <p ana="#determinatio" n="1">
             Dicendum quod cum scientia sit habitus acquisitus per
-            demonstrationem, et ad demonstrationem tria requirantur:
+            demonstrationem, et ad demonstrationem tria requirantur (
             <app>
               <lem>scilicet</lem>
               <rdg wit="#O" type="variation-present">scilicet</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             subiectum, passio, et
-            principium per quod ostenditur passio de subiecto, ubi est
+            principium per quod ostenditur passio de subiecto), ubi est
             <app type="insubstantial">
               <lem>invenire ista tria</lem>
               <rdg wit="#O">invenire ista tria</rdg>
@@ -260,7 +260,7 @@
                 <seg>per se</seg>
               </rdg>
             </app>
-            , sed in alio. Qui ergo cognoscit accidencia, manuduci potest in
+            , sed in alio. Qui ergo cognoscit accidentia, manuduci potest in
             cognitionem eius cuius sunt. Nunc autem multa accidentia ipsius
             animae nobis sunt manifesta: Operationes
             <app>
@@ -268,7 +268,7 @@
               <rdg wit="#O" type="variation-present">enim</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
-            artificiales nobis notae sunt quae
+            artificiales nobis notae sunt, quae
             <app>
               <lem>tamen</lem>
               <rdg wit="#O" type="variation-present">tamen</rdg>
@@ -281,7 +281,7 @@
               <rdg wit="#O" type="variation-present">fluit</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
-            ab essentia,
+            ab essentia;
             <app>
               <lem>et sic est de aliis</lem>
               <rdg wit="#O">et sic est de aliis</rdg>
@@ -346,10 +346,10 @@
               <rdg wit="#O">quod minor est falsa</rdg>
               <rdg wit="#B">per interemptionem minoris</rdg>
             </app>
-            ,
+            .
             <app>
-              <lem>et</lem>
-              <rdg wit="#O" type="variation-present">et</rdg>
+              <lem>Et</lem>
+              <rdg wit="#O" type="variation-present">Et</rdg>
               <rdg wit="#B" type="variation-absent" />
             </app>
             ad probationem dicendum quod
@@ -358,7 +358,7 @@
               <rdg wit="#O">aliquid</rdg>
               <rdg wit="#B">aliquod</rdg>
             </app>
-            cadit <cb ed="#B" n="b"/> in sensu dupliciter: Aut per positionem aut
+            cadit <cb ed="#B" n="b"/> in sensu dupliciter: aut per positionem aut
             <app>
               <lem>per</lem>
               <rdg wit="#B">per</rdg>
@@ -415,7 +415,7 @@
               <rdg type="conjecture-correction">aliud</rdg>
               <rdg wit="#O #B">aliquid</rdg>
             </app>
-            tamen phantasma facit quod in eius cognitionem ducere potest.
+            tamen phantasma facit, quod in eius cognitionem ducere potest.
           </p>
           <p ana="#ad-rationes-contra" n="2">
             Ad
@@ -430,7 +430,7 @@
               <rdg wit="#O">dupliciter dicitur motus</rdg>
               <rdg wit="#B">motus dicitur dupliciter</rdg>
             </app>
-            : Uno modo est actus imperfecti,
+            : uno modo est actus imperfecti,
             <!-- I'm in doubt about the two sicuts here and in the next -->
             <app>
               <lem>sicut</lem>
@@ -470,6 +470,7 @@
                 <seg>movet navem</seg>
               </rdg>
             </app>
+            ,
             <app>
               <lem>qua mota movet seipsum</lem>
               <rdg wit="#O">qua mota movet seipsum</rdg>
@@ -486,7 +487,7 @@
               <rdg wit="#O">movere se ipsum</rdg>
               <rdg wit="#B">esse movens et motum respectu sui ipsius</rdg>
             </app>
-            . Sed tamen differentia est: Aliqua
+            . Sed tamen differentia est: aliqua
             <app>
               <lem>enim</lem>
               <rdg wit="#O" type="variation-present">enim</rdg>
@@ -500,15 +501,11 @@
             </app>
             potest intelligere se per se,
             <app>
-              <!-- intellectus, nom.? Strange. Also. Sicut maybe better than sed,
-                   cf. the parallel qualifying addition below (sicut est anima
-                   humana). -->
-              <lem>sed est de prima causa et intelligentiis</lem>
+              <lem>sicut est de prima causa et intelligentiis</lem>
               <rdg wit="#O">sed est de prima causa et intelligentiis</rdg>
               <rdg wit="#B" type="variation-absent" />
             </app>
-            <!-- What is going on here?! -->
-            , sed aliqua est
+            ; sed aliqua est
             <app>
               <lem n="est"/>
               <rdg wit="#O" type="variation-absent"/>
@@ -520,7 +517,7 @@
               <rdg wit="#O">sicut est anima humana</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
-            et talis
+            , et talis
             <app>
               <lem n="talis"/>
               <rdg wit="#O" type="variation-absent"/>
@@ -550,13 +547,13 @@
               <rdg wit="#O">se</rdg>
             </app>
             intelligere. Per hoc enim quod anima intelligit obiectum per speciem
-            potest intelligere suum actum et per actum potest reflectere
+            potest intelligere suum actum, et per actum potest reflectere
             <app>
               <lem>se</lem>
               <rdg wit="#O">se</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
-            supra suam essentiam
+            supra suam essentiam;
             <app>
               <lem>
                 unde anima nostra quodammodo intelligit se sicut nauta movet navem
@@ -637,7 +634,7 @@
             <app>
               <!-- I'm in doubt what's going on here -->
               <lem>
-                aliqui effectus earum apparent nobis
+                aliqui effectus earum apparent nobis,
                 <app>
                   <lem>per quos manuducimur in earum notitiam</lem>
                   <rdg wit="#O" type="correction-addition">
