@@ -65,7 +65,7 @@
             Quaestio 1: Utrum de anima possit nobis acquiri scientia
           </supplied>
         </head>
-        <p>
+        <p xml:id="da-49-l1q1-274hkz">
           <app>
             <lem>Item</lem>
             <rdg wit="#O">Item</rdg>
@@ -80,10 +80,10 @@
           primo utrum de anima possit nobis acquiri scientia.
         </p>
         <div ana="#rationes-principales-contra">
-          <p>
+          <p xml:id="da-49-l1q1-j01jdw">
             Videtur quod non.
           </p>
-          <p ana="#rationes-principales-contra" n="1">
+          <p xml:id="da-49-l1q1-ysmgk1" ana="#rationes-principales-contra" n="1">
             Illud de quo est scientia est intelligibile, quia cum scientia sit
             habitus intellectus, de quo est scientia oportet esse intelligibile;
             sed anima non est intelligibile, quia omnis nostra cognitio ortum
@@ -96,7 +96,7 @@
             sine phantasmate, sed anima sub
             sensu non cadit, nec phantasma facit; ergo et cetera.
           </p>
-          <p ana="#rationes-principales-contra" n="2">
+          <p xml:id="da-49-l1q1-mjzkyp" ana="#rationes-principales-contra" n="2">
             Praeterea, unum et idem non potest esse simul movens et motum, quia
             <app>
               <lem n="quia"/>
@@ -138,7 +138,7 @@
             </app>
             .
           </p>
-          <p ana="#rationes-principales-contra" n="3">
+          <p xml:id="da-49-l1q1-mjgjs9" ana="#rationes-principales-contra" n="3">
             Praeterea,
             <cit>
               <quote type="paraphrase">
@@ -174,14 +174,14 @@
             humana; sed oculus nycticoracis non potest apprehendere lumen solis;
             ergo et cetera.
           </p>
-          <p ana="#rationes-principales-contra" n="4">
+          <p xml:id="da-49-l1q1-xdpfxs" ana="#rationes-principales-contra" n="4">
             Praeterea, nostrum intelligere est cum continuo et tempore; sed
             anima, cum sit indivisibilis et perpetua, nec est continua nec
             temporalis; ergo et cetera.
           </p>
         </div>
         <div ana="#rationes-principales-pro">
-          <p>
+          <p xml:id="da-49-l1q1-o9whrl">
             Oppositum patet per
             <app type="insubstantial">
               <lem>determinationem <name ref="#Aristotle">Philosophi</name></lem>
@@ -192,7 +192,7 @@
           </p>
         </div>
         <div ana="#determinatio">
-          <p ana="#determinatio" n="1">
+          <p xml:id="da-49-l1q1-ywem12" ana="#determinatio" n="1">
             Dicendum quod cum scientia sit habitus acquisitus per
             demonstrationem, et ad demonstrationem tria requirantur (
             <app>
@@ -250,7 +250,7 @@
             </app>
             esse aliqualis scientia.
           </p>
-          <p ana="#determinatio" n="2">
+          <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
             Praeterea, accidentia non sunt
             <app type="insubstantial">
               <lem>per se entia</lem>
@@ -339,7 +339,7 @@
           </p>
         </div>
         <div ana="#ad-rationes-contra">
-          <p ana="#ad-rationes-contra" n="1">
+          <p xml:id="da-49-l1q1-1mle08" ana="#ad-rationes-contra" n="1">
             Ad primum argumentum dicendum
             <app>
               <lem>quod minor est falsa</lem>
@@ -417,7 +417,7 @@
             </app>
             tamen phantasma facit, quod in eius cognitionem ducere potest.
           </p>
-          <p ana="#ad-rationes-contra" n="2">
+          <p xml:id="da-49-l1q1-i9rohp" ana="#ad-rationes-contra" n="2">
             Ad
             <app>
               <lem>aliud</lem>
@@ -565,7 +565,7 @@
             </app>
             .
           </p>
-          <p ana="#ad-rationes-contra" n="3">
+          <p xml:id="da-49-l1q1-52psh5" ana="#ad-rationes-contra" n="3">
             Ad
             <app>
               <lem>aliud</lem>
@@ -709,7 +709,7 @@
             </app>
             .
           </p>
-          <p ana="#ad-rationes-contra" n="4">
+          <p xml:id="da-49-l1q1-h6ks8n" ana="#ad-rationes-contra" n="4">
             Ad aliud dicendum quod
             <app>
               <lem>intelligere nostrum</lem>
