@@ -96,18 +96,20 @@
           <p xml:id="da-49-l1q1-mjgjs9" ana="#rationes-principales-contra"
              n="3">
             Further,
-            <quote type="paraphrase">
-              <phr type="#analogy">
-                just as the eye of the night-raven <seg
-                ana="#se-habet">stands</seg> to the light of the sun, so does
-                our intellect <seg ana="#se-habet">stand</seg> to those things
-                which are most <seg ana="#manifestissima">clear</seg> in nature,
-              </phr>
-            </quote>
-            <bibl>
-              Cf. Arist. <title ref="#Arist.Metaph"> Metaph.</title> II.1
-              993b9--11 (νυκτερίς).
-            </bibl>
+            <cit>
+              <quote type="paraphrase">
+                <phr type="#analogy">
+                  just as the eye of the night-raven <seg
+                  ana="#se-habet">stands</seg> to the light of the sun, so does
+                  our intellect <seg ana="#se-habet">stand</seg> to those things
+                  which are most <seg ana="#manifestissima">clear</seg> in nature,
+                </phr>
+              </quote>
+              <bibl>
+                Cf. Arist. <title ref="#Arist.Metaph"> Metaph.</title> II.1
+                993b9--11 (νυκτερίς).
+              </bibl>
+            </cit>
             to which the soul belongs, at least the human soul; but the eye of
             the night-raven cannot apprehend the light of the sun; ergo et
             cetera.
