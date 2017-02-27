@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Johannes Dinsdale</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2017.02">
+          <title><!-- title [{ms-identifier} Transcription] --></title>
+          <date when="2017-02-27">February 27, 2017</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2017-02-27">February 27, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bal">Oxford, Balliol College 311, ff. 148r--181v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-02-27" who="#" status="draft" n="2017.03">
+          <p>Created file for the first time.</p>
+          <note type="status">
+            <note type="collobaration">Yes</note>
+            <note type="validating-schema">lbp-1.0.0</note>
+            <note type="transcription-type">documentary</note>
+          </note>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div>
+        <pb ed="#B" n="148-r"/><cb ed="#B" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-49-l1prooemium">
+        <p xml:id="da-49-l1prooemium-zikn00">
+          <lb ed="#B"/> <quote><supplied>B</supplied>onorum honorabilium</quote> et cetera
+          <lb ed="#B"/> Philosophus in secundo phisicorum volens investigare
+          ter<lb ed="#B"/>minos et limites considerationis phisicae
+          <lb ed="#B"/> sive naturalis sic ait <unclear>usquequo</unclear> oportet phisicum speciem et quod quid
+          <lb ed="#B"/> est est considerandum id est usque ad quem terminum se
+          ex<lb ed="#B"/>tendit consideracio naturalis de formis que pertineunt  ad quod quid est
+          <lb ed="#B"/> et <unclear>rev()et</unclear> dicens quod quemadmodum medicus considerat nervum <unclear>?</unclear> et
+          <lb ed="#B"/> fabrum <choice><orig>es</orig><reg>aes</reg></choice><pc type="punctus"/> ita phisicus considerat formam et speciem et quod quid est
+          <lb ed="#B"/> quia hnon omnis consideracio nervi spectat ad medicum<pc type="punctus-medius"/> nec quicquid
+          <lb ed="#B"/> considerare potest de ere pertinet ad fabrum<pc type="punctus-medius"/> sic nec omnis
+          con<lb ed="#B"/>sideratio de formis pertinet ad phisicum<pc type="punctus"/> advidendeum ergo <subst><del>queri</del><add place="margin-right">qualiter</add></subst>
+          <lb ed="#B"/> artifices predicti <unclear>considerint</unclear> de predictis<pc type="punctus-medius"/> videndum est <unclear>qualis</unclear> <subst><del rend="expunctuation">est</del><add place="above-line">sit</add></subst>
+          con<lb ed="#B"/>sideratio medici et fabri et medicus enim principaliter intendit
+          sa<lb ed="#B"/>nitatem facere<pc type="punctus-medius"/> unde si de nervo consideret hoc est ut in eo
+          in<lb ed="#B"/>ducatur sanitas et ideo quecumque consideracio de nervo prout <unclear>defuit</unclear>
+          <lb ed="#B"/> sanitati pertinet ad medicum<pc type="punctus-medius"/> si autem sit alia consideracio
+          transcen<lb ed="#B"/>dens de nervo superfugiet consideracionem medici<pc type="punctus-medius"/> <unclear>similiter quo..?</unclear>
+          <lb ed="#B"/> faber <add place="above-line">quia</add> consideratu de materia rerum sive instrumentorum artificialium
+          <lb ed="#B"/> quecumque consideracio est eris prout est materia vasorum artificialium
+          <lb ed="#B"/> pertinet ad eius consideracionem<pc type="horizontal-stroke"/> si autem sit alia consideracio transcendens
+          <lb ed="#B"/> transfugiet eius consideracionem<pc type="punctus-medius"/> Ex hiis potest potere ad que
+          ex<lb ed="#B"/>tendit consideracio naturalis seu phisici<pc type="horizontal-stroke"/> quicquid enim a phisico
+          con<lb ed="#B"/>sideratur motui subicitur<pc type="horizontal-stroke"/> quecumque vero movent non mota non
+          <lb ed="#B"/> sunt phisice considerationes ut dicitur in secundo phisicorum et <unclear>etiam</unclear> in tertio
+          eius<lb ed="#B"/>dem forme vero omnino inmateriales non coniuncte materie nec subiecte sunt
+          <lb ed="#B"/> motui nec transmutationi<pc type="punctus-elevatus"/> superfigiunt considerationem phisici sive
+          <lb ed="#B"/> naturalis<pc type="punctus-medius"/> sed forma que quodam modo est inmaterialis et quodammodo perfecio materie
+          <lb ed="#B"/> est de consideratione naturalis seu phisici<pc type="punctus-medius"/> et est ultimum in quod potest
+          <lb ed="#B"/> consideracio phisica<pc type="punctus-medius"/> talis forma est anima humana et ideo est
+          li<lb ed="#B"/>mes et <unclear>terminus</unclear> considerationis naturalis<pc type="punctus-medius"/> unde distingvere possimus quod tres sunt
+          <lb ed="#B"/> gradus formarum<pc type="horizontal-stroke"/> quedam sunt penitus inmaterialis et secundum suam substantiam
+          <lb ed="#B"/> et secundum suam dispositionem cuiusmodi sunt substantie separate que sunt preter omnem materiam
+          <lb ed="#B"/> sensibilem et intelligibilem ut dicitur VIIIo methaphysice<pc type="punctus-medius"/> et quedam sunt
+          <lb ed="#B"/> forme penitus materiales et secundum substantiam et secundum dispositionem<pc type="punctus-medius"/> quia et eorum
+          essen<lb ed="#B"/>tie et potentie a potentiis materie sunt educte ut forme istorum sensibilium
+          <lb ed="#B"/> <unclear>infimorum</unclear><pc type="horizontal-stroke"/> quedam vero sunt forme medio modo se habentes que secundum suam
+          <lb ed="#B"/> substantiam sunt immateriales<pc type="horizontal-stroke"/> secundum <unclear>tria</unclear> dispositiones materiales ut anime humane
+          <lb ed="#B"/> unde <unclear>pe</unclear> forme sunt preter considerationem phisicam sed a suis
+          for<lb ed="#B"/>mis incipit consideracio phisica et terminatur ad formas ultimo
+          <lb ed="#B"/> dictas incipit enim eius consideracio a formis ultimis et terminatur ad
+          <lb ed="#B"/> animam humanam ex hiis etiam patet quem ordinem tenet iste liber inter
+          <lb ed="#B"/> libros naturalis<pc type="horizontal-stroke"/> quia modus phisicus et modus methaphisicus quodammodo sunt oppositi
+          <lb ed="#B"/> modus enim phisicus habet statum in suppremo sed non habet statum in
+          <lb ed="#B"/> infimo habet enim statum quem ad modum abstractionis quia alia sunt ita
+          <lb ed="#B"/> abstracta quid extendunt consideracionem phisicam et alia sunt ata
+          abs<lb ed="#B"/>stracta quod ultimo ea non considerat<pc type="horizontal-stroke"/> sed quem ad modum
+          concrecio<lb ed="#B"/>nis non habet phisicus statum<pc type="punctus-medius"/> non enim  est alia forma ita concreta <unclear>aut</unclear>
+          <lb ed="#B"/> superfugiat naturalis<pc type="punctus-medius"/> immo quanto forma magis est materie concreta<pc type="punctus-medius"/>
+          tan<lb ed="#B"/>to magis sub eius consideratione cadit et hoc est intelligendum supposita
+          <lb ed="#B"/> universalitate seu abstractione a singularibus<pc type="horizontal-stroke"/> si enim ad individua et numero
+          <lb ed="#B"/> singularia consideramus hoc extendit considerationem phisicum sed modus metaphysicus est econtrario<pc type="horizontal-stroke"/> statum enim habet in infimo<pc type="punctus"/> sed <subst><del rend="expunctuation">ad <unclear>hunc</unclear></del><add place="above-line">non</add></subst>
+          sta<lb ed="#B"/>tum in suppremo quia alia forma est ita materie concreta quod non pertinet ad
+          <lb ed="#B"/> methaphysicum<pc type="punctus"/> sed non est alia forma ita abstracta qua non pertineat ad
+          <pb ed="#B" n="148-v"/><cb ed="#B" n="a"/>
+          <lb ed="#B"/> consideracionem<pc type="punctus-medius"/> quia est circa causas altissimas<pc type="punctus-medius"/> unde quanto consideracio est
+          <lb ed="#B"/> magis abstractorum tanto magis est metaphysica et hoc est intelligendum
+          <lb ed="#B"/> est de consideracione per artem humanam inventa<pc type="horizontal-stroke"/> si autem sit aliqua
+          <lb ed="#B"/> consideracio per aspiratcionem adquisita excedit consideracionem
+          me<lb ed="#B"/>thaphysici<pc type="punctus-medius"/> sic ergo intelligenda sunt que dicta sunt<pc type="punctus-medius"/> quod cum tres sint
+          <lb ed="#B"/> partes phisice<pc type="punctus-medius"/> essentiales scilicet naturalis<pc type="punctus-medius"/> mathematica<pc type="punctus-medius"/> et divina<pc type="punctus-medius"/> inter
+          sci<lb ed="#B"/>encias per artem humanam inventas<pc type="punctus-medius"/> methaphsicum non recognoscit
+          <lb ed="#B"/> a materia scientiam superiorum<pc type="horizontal-stroke"/> phisicum etiam inter partes phisice essentialis
+          <lb ed="#B"/> quam ad modum abstractionis non recognoscit a materia scientiam ineriorem
+          <lb ed="#B"/> sed superiorem recognoscentem recognoscit mathematica recognoscit et
+          <lb ed="#B"/> superiorem et inferiorem quia aliqua est que magis abstrahit et aliqua que
+          <lb ed="#B"/> magis concrevit<pc type="horizontal-stroke"/> unde ut dictum est consideracio phisica incipit a
+          <lb ed="#B"/> formis infimis et terminatur ad animam<pc type="punctus-medius"/>
+        </p>
+        <p xml:id="da-49-l1prooemium-v02rd5">
+          Ex hoc patet quod liber de
+          <lb ed="#B"/> tenet phisicorum qui est de naturali audito<pc type="horizontal-stroke"/> secundum tenet liber de
+          <lb ed="#B"/> celo et mundo<pc type="horizontal-stroke"/> tertium gradum tenet liber de generatione<pc type="horizontal-stroke"/> quartum gradum
+          <lb ed="#B"/> tenet liber metheorum<pc type="horizontal-stroke"/> quintum gradum tenet liber de <unclear>mineris/mineralibus</unclear><pc type="horizontal-stroke"/> sextum
+          <lb ed="#B"/> gradum tenet liber de anima qui prior est dignitate<pc type="horizontal-stroke"/> sextus tamen
+          <lb ed="#B"/> ordine doctrine<pc type="horizontal-stroke"/> unde philosophus in prohemio huius pr8imi dicit quod ystoria
+          <lb ed="#B"/> de anima primo est ponenda scilicet dignitate<pc type="horizontal-stroke"/> unde supposita communi
+          <lb ed="#B"/> distinccione librorum naturalium alibi ponita querantur primo quedam
+          <lb ed="#B"/> communia circa librum de anima et secundum magis in speciali<pc type="pilcrow"/>
+        </p>
+     </div>
+    </body>
+  </text>
+</TEI>
