@@ -46,7 +46,7 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div>
+      <div xml:id="starts-on">
         <pb ed="#B" n="148-r"/><cb ed="#B" n="b"/>
       </div>
     </front>
