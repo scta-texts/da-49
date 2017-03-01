@@ -52,20 +52,20 @@
     </front>
     <body>
       <div xml:id="da-49-l1prooemium">
-        <p xml:id="da-49-l1prooemium-gq0450">
+        <p xml:id="da-49-l1prooemium-zikn00">
           <lb ed="#O"/> Philosophus in secundo <choice><orig>phisicorum</orig><reg>physicorum</reg></choice> volens investigare et ostendere terminos et limites
-          <lb ed="#O"/> <choice><orig>consideraciones</orig><reg>considerationes</reg></choice> <choice><orig>phisicae</orig><reg>physicae</reg></choice> <unclear>vel naturalis</unclear> ait <unclear>usquequo</unclear> oportet <choice><orig>phisicum</orig><reg>physicum</reg></choice> speciem et quod quid est considerare
+          <lb ed="#O"/> <choice><orig>consideracionis</orig><reg>considerationis</reg></choice> <choice><orig>phisicae</orig><reg>physicae</reg></choice> <unclear>vel naturalis</unclear> ait <unclear>usquequo</unclear> oportet <choice><orig>phisicum</orig><reg>physicum</reg></choice> speciem et quod quid est considerare
           <lb ed="#O"/> id est usque ad quem <unclear>terminum</unclear> se ex<lb ed="#O"/>tendit considerando <choice><orig>phisica</orig><reg>physica</reg></choice><pc type="punctus"/> sive <unclear>philosophi</unclear> naturalis<pc type="punctus"/>
           <lb ed="#O"/> quam <unclear>substantiam</unclear> de speciebus id est formis <choice><orig>que</orig><reg>quae</reg></choice> sunt quod quid est id est <choice><orig>que</orig><reg>quae</reg></choice> pertinent ad <choice><orig>racionem</orig><reg>rationem</reg></choice>
           <lb ed="#O"/> quiditatis<pc type="punctus-medius"/> et respondet ibidem dicens<pc type="punctus-medius"/> quemadmodum medicus considerat nervum
           <lb ed="#O"/> et fabrum <choice><orig>es</orig><reg>aes</reg></choice><pc type="punctus-elevatus"/> considerat <choice><orig>phisicus</orig><reg>physicus</reg></choice> formam<pc type="punctus-medius"/> sive speciem et quod quid est<pc type="punctus"/> quia non
           <lb ed="#O"/> omnis <choice><orig>consideracio</orig><reg>consideratio</reg></choice> nervi spectat ad medicum<pc type="punctus-medius"/> nec quidquid potest considerare
           <lb ed="#O"/> de <choice><orig>ere</orig><reg>aere</reg></choice> pertinet ad fabrum<pc type="horizontal-stroke"/> sic nec omnis <choice><orig>consideracio</orig><reg>consideratio</reg></choice> de formis
-          <lb ed="#O"/> pertinet ad <choice><orig>phisicum</orig><reg>physicum</reg></choice><pc type="punctus"/><pc type="horizontal-stroke"/><pc type="horizontal-stroke"/> Advidendeum igitur <add place="above-line"><unclear>va</unclear></add> <unclear>predicat</unclear> qualis <choice><orig>predicti</orig><reg>praedicti</reg></choice> artifices
+          <lb ed="#O"/> pertinet ad <choice><orig>phisicum</orig><reg>physicum</reg></choice><pc type="punctus"/><pc type="horizontal-stroke"/><pc type="horizontal-stroke"/> Advidendeum igitur <del rend="vacat"><choice><orig>predicti</orig><reg>praedicti</reg></choice></del> <unclear>qualiter</unclear> <choice><orig>predicti</orig><reg>praedicti</reg></choice> artifices
           <lb ed="#O"/> considerant de <choice><orig>predictis</orig><reg>praedictis</reg></choice><pc type="punctus-elevatus"/> videndum est qualis sit <choice><orig>consideracio</orig><reg>consideratio</reg></choice> medici<pc type="horizontal-stroke"/>
           fa<lb ed="#O"/>bri<pc type="horizontal-stroke"/> et <choice><orig>phisici</orig><reg>physici</reg></choice><pc type="punctus"/><pc type="horizontal-stroke"/> medicus autem intendit principaliter sanitatem facere unde si
-          <lb ed="#O"/> nervo considerat hoc est ut in eo fiat sanitas<pc type="punctus"/> et ideo
-          quem<lb ed="#O"/>cumque <choice><orig>consideracio</orig><reg>consideratio</reg></choice> de nervo prout deservit sanitati pertinet ad medicum<pc type="punctus"/>
+          <lb ed="#O"/> de nervo considerat hoc est ut in eo fiat sanitas<pc type="punctus"/> et ideo
+          que<lb ed="#O"/>cumque <choice><orig>consideracio</orig><reg>consideratio</reg></choice> de nervo prout deservit sanitati pertinet ad medicum<pc type="punctus"/>
           <lb ed="#O"/> si tamen sit aliqua <choice><orig>consideracio</orig><reg>consideratio</reg></choice> transcendens istam subterfugiet <choice><orig>consideracionem</orig><reg>considerationem</reg></choice>
           <lb ed="#O"/> medici<pc type="punctus-medius"/><pc type="horizontal-stroke"/> similiter quia faber considerat de materia instrumentorum artificialium
           <lb ed="#O"/> <choice><orig>quecumque</orig><reg>quaecumque</reg></choice> <choice><orig>consideracio</orig><reg>consideratio</reg></choice> <choice><orig>eris</orig><reg>aeris</reg></choice> prout est materia instrumentorum artificialium pertinet ad
