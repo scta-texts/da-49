@@ -57,20 +57,20 @@
           <lb ed="#B"/> Philosophus in secundo <choice><orig>phisicorum</orig><reg>physicorum</reg></choice> volens investigare
           ter<lb ed="#B"/>minos et limites considerationis <choice><orig>phisicae</orig><reg>physicae</reg></choice>
           <lb ed="#B"/> sive naturalis sic ait <unclear>usquequo</unclear> oportet <choice><orig>phisicum</orig><reg>physicum</reg></choice> speciem et quod quid
-          <lb ed="#B"/> est est considerandum id est usque ad quem terminum se
-          ex<lb ed="#B"/>tendit <choice><orig>consideracio</orig><reg>consideratio</reg></choice> naturalis de formis <choice><orig>que</orig><reg>quae</reg></choice> pertineunt  ad quod quid est
-          <lb ed="#B"/> et <unclear>rev()et</unclear> dicens quod quemadmodum medicus considerat nervum<pc type="punctus-elevatus"/> et
+          <lb ed="#B"/> est est considerare id est usque ad quem terminum se
+          ex<lb ed="#B"/>tendit <choice><orig>consideracio</orig><reg>consideratio</reg></choice> naturalis de formis <choice><orig>que</orig><reg>quae</reg></choice> pertinent  ad quod quid est
+          <lb ed="#B"/> et <unclear>respondet</unclear> dicens quod quemadmodum medicus considerat nervum<pc type="punctus-elevatus"/> et
           <lb ed="#B"/> fabrum <choice><orig>es</orig><reg>aes</reg></choice><pc type="punctus"/> ita <choice><orig>phisicus</orig><reg>physicus</reg></choice> considerat formam et speciem et quod quid est
           <lb ed="#B"/> quia non omnis <choice><orig>consideracio</orig><reg>consideratio</reg></choice> nervi spectat ad medicum<pc type="punctus-medius"/> nec quicquid
           <lb ed="#B"/> considerare potest de aere pertinet ad fabrum<pc type="punctus-medius"/> sic nec omnis
           con<lb ed="#B"/>sideratio de formis pertinet ad <choice><orig>phisicum</orig><reg>physicum</reg></choice><pc type="punctus"/> advidendeum ergo <subst><del><choice><orig>queri</orig><reg>quaeri</reg></choice></del><add place="margin-right">qualiter</add></subst>
           <lb ed="#B"/> artifices <choice><orig>predicti</orig><reg>praedicti</reg></choice> <unclear>considerint</unclear> de <choice><orig>predictis</orig><reg>praedictis</reg></choice><pc type="punctus-medius"/> videndum est <unclear>qualis</unclear> <subst><del rend="expunctuation">est</del><add place="above-line">sit</add></subst>
-          con<lb ed="#B"/>sideratio medici et fabri et medicus enim principaliter intendit
+          con<lb ed="#B"/>sideratio medici et fabri<pc type="punctus-elevatus"/> medicus enim principaliter intendit
           sa<lb ed="#B"/>nitatem facere<pc type="punctus-medius"/> unde si de nervo consideret hoc est ut in eo
           in<lb ed="#B"/>ducatur sanitas et ideo <choice><orig>quecumque</orig><reg>quaecumque</reg></choice> <choice><orig>consideracio</orig><reg>consideratio</reg></choice> de nervo prout <unclear>deservit</unclear>
-          <lb ed="#B"/> sanitati pertinet ad medicum<pc type="punctus-medius"/> si autem sit alia <choice><orig>consideracio</orig><reg>consideratio</reg></choice>
+          <lb ed="#B"/> sanitati pertinet ad medicum<pc type="punctus-medius"/> si autem sit aliqua <choice><orig>consideracio</orig><reg>consideratio</reg></choice>
           transcen<lb ed="#B"/>dens de nervo superfugiet <choice><orig>consideracionem</orig><reg>considerationem</reg></choice> medici<pc type="punctus-medius"/> <unclear>similiter quo..?</unclear>
-          <lb ed="#B"/> faber <add place="above-line">quia</add> consideratu de materia rerum sive instrumentorum artificialium
+          <lb ed="#B"/> faber <add place="above-line">quia</add> considerat de materia rerum sive instrumentorum artificialium
           <lb ed="#B"/> <choice><orig>quecumque</orig><reg>quaecumque</reg></choice> <choice><orig>consideracio</orig><reg>consideratio</reg></choice> est eris prout est materia vasorum artificialium
           <lb ed="#B"/> pertinet ad eius <choice><orig>consideracionem</orig><reg>considerationem</reg></choice><pc type="horizontal-stroke"/> si autem sit alia <choice><orig>consideracio</orig><reg>consideratio</reg></choice> transcendens
           <lb ed="#B"/> transfugiet eius <choice><orig>consideracionem</orig><reg>considerationem</reg></choice><pc type="punctus-medius"/> Ex hiis potest potere ad <choice><orig>que</orig><reg>quae</reg></choice>
@@ -120,8 +120,6 @@
           <lb ed="#B"/> superiorem et inferiorem quia aliqua est <choice><orig>que</orig><reg>quae</reg></choice> magis abstrahit et aliqua <choice><orig>que</orig><reg>quae</reg></choice>
           <lb ed="#B"/> magis concrevit<pc type="horizontal-stroke"/> unde ut dictum est <choice><orig>consideracio</orig><reg>consideratio</reg></choice> <choice><orig>phisica</orig><reg>physica</reg></choice> incipit a
           <lb ed="#B"/> formis infimis et terminatur ad animam<pc type="punctus-medius"/>
-        </p>
-        <p xml:id="da-49-l1prooemium-v02rd5">
           Ex hoc patet quod liber de
           <lb ed="#B"/> tenet <choice><orig>phisicorum</orig><reg>physicorum</reg></choice> qui est de naturali audito<pc type="horizontal-stroke"/> secundum tenet liber de
           <lb ed="#B"/> celo et mundo<pc type="horizontal-stroke"/> tertium gradum tenet liber de generatione<pc type="horizontal-stroke"/> quartum gradum
