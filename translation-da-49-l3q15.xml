@@ -150,7 +150,7 @@
                 Arist. <title ref="#Arist.DA">DA</title>, III.4 430a2
               </bibl>
             </cit>
-            ; but other things do not <seg ana="#intelligere">know</seg> by
+            ; but it does not <seg ana="#intelligere">know</seg> other things by
             their <seg ana="#essentia">essences</seg> but by their <seg
             ana="#species">species</seg>; <seg ana="#ergo">thus</seg>
             <supplied>the intellect</supplied> <seg
@@ -163,7 +163,7 @@
               It must be said that the intellect does not <seg
               ana="#intelligere">know</seg> itself by its <seg
               ana="#essentia">essence</seg>, and the reason for that is: Nothing
-              is known except in accordance with its actuality, hence nothing is
+              is know except in accordance with its actuality, hence nothing is
               true as something that is available to the cognition of the
               intellect, except in accordance with its actuality, as the <name
               ref="#Aristotle">Philosopher</name> says in the ninth book of the
@@ -196,7 +196,7 @@
               called possible, <seg ana="#quia">since</seg> by itself it is in
               potentiality, and does therefore not have the cause for its being
               known from itself. But it does have the cause for its knowing from
-              itself; indeed just as <a name="#Plato">Plato</a> says that
+              itself; indeed just as <name ref="#Plato">Plato</name> says that
               <cit>
                 <quote type="paraphrase">
                   intelligibile objects are separate and that our intellect is
@@ -248,7 +248,7 @@
             the same way it can <seg ana="#intelligere">know</seg> its own <seg
             ana="#essentia">essence</seg> in two ways: In one way in the
             particular, such as when it <seg ana="#intelligere">knows</seg> that
-            which it has, such as when <name name="#Socrates">Socrates</name>
+            which it has, such as when <name ref="#Socrates">Socrates</name>
             perceives himself having and intellect by the fact that he <seg
             ana="#intelligere">knows</seg> in actuality, and in another way in
             the universal, such as when it inquires about the nature of the
