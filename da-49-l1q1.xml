@@ -25,9 +25,8 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="B" n="bal">
-            Oxford, Balliol College 311, ff. 148r--181v
-          </witness>
+          <witness xml:id="O" n="oriel33">Oxford, Oriel College Library 33, ff. 164r-182v</witness>
+          <witness xml:id="B" n="bal">Oxford, Balliol College 311, ff. 148r--181v</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
