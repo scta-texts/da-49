@@ -36,11 +36,6 @@
       <listChange>
         <change when="2017-02-28" who="#" status="draft" n="2017.02">
           <p>Created file for the first time.</p>
-          <note type="status">
-            <note type="collobaration">Yes</note>
-            <note type="validating-schema">lbp-1.0.0</note>
-            <note type="transcription-type">critical</note>
-          </note>
         </change>
       </listChange>
     </revisionDesc>
@@ -55,74 +50,819 @@
     <body>
       <div xml:id="da-49-l1prooemium">
         <p xml:id="da-49-l1prooemium-gq0450">
-          Philosophus in secundo physicorum volens investigare et ostendere terminos et limites
-          considerationes physicae <unclear>vel naturalis</unclear> ait <unclear>usquequo</unclear> oportet physicum speciem et quod quid est considerare
-          id est usque ad quem <unclear>terminum</unclear> se extendit considerando physica<pc type="punctus"/> sive <unclear>philosophi</unclear> naturalis<pc type="punctus"/>
-          quam <unclear>substantiam</unclear> de speciebus id est formis quae sunt quod quid est id est quae pertinent ad rationem
-          quiditatis<pc type="punctus-medius"/> et respondet ibidem dicens<pc type="punctus-medius"/> quemadmodum medicus considerat nervum
-          et fabrum aes<pc type="punctus-elevatus"/> considerat physicus formam<pc type="punctus-medius"/> sive speciem et quod quid est<pc type="punctus"/> quia non
-          omnis consideratio nervi spectat ad medicum<pc type="punctus-medius"/> nec quidquid potest considerare
-          de aere pertinet ad fabrum<pc type="horizontal-stroke"/> sic nec omnis consideratio de formis
-          pertinet ad physicum<pc type="punctus"/><pc type="horizontal-stroke"/><pc type="horizontal-stroke"/> Advidendeum igitur <add place="above-line"><unclear>va</unclear></add> <unclear>predicat</unclear> qualis praedicti artifices
-          considerant de praedictis<pc type="punctus-elevatus"/> videndum est qualis sit consideratio medici<pc type="horizontal-stroke"/>
-          fabri<pc type="horizontal-stroke"/> et physici<pc type="punctus"/><pc type="horizontal-stroke"/> medicus autem intendit principaliter sanitatem facere unde si
-          nervo considerat hoc est ut in eo fiat sanitas<pc type="punctus"/> et ideo
-          quemcumque consideratio de nervo prout deservit sanitati pertinet ad medicum<pc type="punctus"/>
-          si tamen sit aliqua consideratio transcendens istam subterfugiet considerationem
-          medici<pc type="punctus-medius"/><pc type="horizontal-stroke"/> similiter quia faber considerat de materia instrumentorum artificialium
-          quaecumque consideratio aeris prout est materia instrumentorum artificialium pertinet ad
-          fabrum<pc type="punctus-medius"/> si qua tamen sit transcendens<pc type="punctus-elevatus"/> <unclear>declinatur</unclear> eius considerationem<pc type="punctus-medius"/><pc type="horizontal-stroke"/> Ex
-          istis patet qualis sit consideratio physici et ad quem terminum se extendit<pc type="punctus"/>
-          quicquid enim a physico est consideratum motui et transmutationi est coniunctum
-          quae enim non <unclear>amper</unclear> movent mota<pc type="punctus-elevatus"/> non sunt physice considerationis<pc type="punctus"/> per philosophum
-          secundo physicorum formae igitur omnino immateriales non coniunctae materiae motui et
-          transmutationi subiectae subterfugiunt considerationem physici<pc type="horizontal-stroke"/> sed forma quae quodammodo est immaterialis et
-          quodammodo perfectio materiae est de consideratione naturalis<pc type="punctus"/> et est illud ultimum in quod
-          potest consideratio physica<pc type="punctus"/> talis autem <del rend="expunctuation">est</del> forma est anima humana<pc type="punctus"/> et ideo ipsa
-          est terminus et finis considerationis physice<pc type="punctus"/><pc type="horizontal-stroke"/> unde distingvere <add place="above-line">possumus</add> quod tres sunt
-          gradus formarum<pc type="punctus"/> quaedem enim sunt omnino immateriales<pc type="punctus"/> et secundum dispositionem<pc type="punctus"/> et secundum substantiam
-          cuius sunt intelligentia<pc type="punctus"/> quae sunt praeter materiam omnem sensibilem et intelligibilem<pc type="punctus"/> per philosophum
-          octo metaphysicae<pc type="punctus"/><pc type="horizontal-stroke"/> et quaedem sunt penitus materiales<pc type="punctus"/> et secundum substantiam et secundum dispositionem<pc type="punctus"/>
-          quia suae substantiae et suae dispositiones de materia sunt eductae cuius sunt formae
-          istorum inferiorum<pc type="punctus"/><pc type="horizontal-stroke"/> sed quaedem sunt formae medio modo se habentes<pc type="punctus"/> quae secundum substantiam
-          sunt immateriales et secundum dispositiones sunt materiales<pc type="punctus-medius"/> cuius sunt animae humanae<pc type="punctus"/>
-          unde primae formae sunt praeter considerationem physicam sed a <unclear>suis</unclear> formis incipit
-          consideratio physica<pc type="punctus"/> et terminatur ad <unclear>tertiam</unclear><pc type="horizontal-stroke"/> incipit enim consideratio physici a formis
-          inferioribus et terminatur ad animam humana<pc type="punctus"/><pc type="horizontal-stroke"/> ex istis patet ulterius
-          quod ordinem habeat liber iste inter libres naturales<pc type="punctus-medius"/> quia modus physicus
-          modus metaphysicus quodammodo sunt oppositi<pc type="horizontal-stroke"/> modus enim physicus habet statum in
-          supremo<pc type="punctus-medius"/> sed non in infimo<pc type="punctus-medius"/> habet enim statum quemadmodum
-          abstractionis<pc type="punctus-medius"/> qui status est supremus<pc type="punctus-medius"/> quia aliqua sunt ita abstracta <unclear>quod extendit</unclear>
-          considerationem physicam et aliqua sunt ita abstracta quod ultima ea non se
-          extendit consideratio physica sed quemadmodum concretionis qui est modus
-          infimus  non habet physicus statum<pc type="punctus"/> enim est aliqua forma ita materiae
-          concreta quod subterfugiat considerationem physici<pc type="punctus"/> immo quanto magis
-          concreta materiae<pc type="punctus-elevatus"/> tanto magis cadit sub eius consideratione<pc type="punctus"/> et hoc est
-          intelligendum supposita abstractione a singularibus<pc type="horizontal-stroke"/> si enim ad individua et
-          numero singularia velimus considerare<pc type="punctus-elevatus"/> hoc <unclear>preter g()ditur</unclear> considerationem physicam<pc type="punctus"/>
-          Sed modus metaphysicus se habet econtrario<pc type="punctus-medius"/> quia statum habet in infimis<pc type="punctus"/>
-          sed non in supremo<pc type="horizontal-stroke"/> quia aliqua forma est ita materiae concreta quod eius consideratio
-          non pertineat ad metaphysicum sed non est aliqua forma ita abtracta<pc type="punctus-elevatus"/>
-          quod extendat considerationem metaphysicam<pc type="horizontal-stroke"/> metaphysica enim est circa causas altissimas
-          unde quanto consideratio est magis abstractorum<pc type="punctus"/> tanto magis
-          <unclear>methaphisica</unclear> est hoc est intelligendum de consideratione per artem humanam
-          inventa<pc type="punctus"/><pc type="horizontal-stroke"/> si qua enim sit consideratio abstracta per inspirationem
-          acquisita<pc type="punctus-elevatus"/> ipsa extendit considerationem metaphysici<pc type="punctus"/> sed talis non est
-          praesentis speculationis<pc type="punctus-medius"/> sic igitur intelligenda sunt quae anima sunt<pc type="punctus-medius"/> quod cum tres sint
-          partes essentiales phisicae<pc type="punctus"/> scilicet naturalis<pc type="punctus-medius"/> matematica<pc type="punctus"/> et divina<pc type="punctus"/> inter
-          artes vel scientias per artes humanam inventas<pc type="punctus-elevatus"/> metaphysicus non
-          recognoscit a materia scientiam superiorem<pc type="punctus-medius"/><pc type="horizontal-stroke"/> sed matematicus recognoscit et artificem superiorem
-          quia aliquis est qui magis abstrahit<pc type="punctus"/> et inferiorem quia aliquis est qui magis
-          concrevit<pc type="punctus"/><pc type="horizontal-stroke"/> unde ut dictum est consideratio physici incipit a formis
-          infimis et terminatur ad animam humanam<pc type="punctus"/> et ex hoc patet quod liber
-          de anima 6 gradum tenet inter libros naturales<pc type="punctus"/><pc type="horizontal-stroke"/> quia primum gradum
-          tenet liber physicorum<pc type="horizontal-stroke"/> secundum liber de caelo et mundo<pc type="horizontal-stroke"/> tertium <add place="above-live">liber</add> de generatione et
-          <cb ed="#O" n="b"/>
-          corruptione<pc type="punctus"/> quartum gradum tenet liber metheorum<pc type="horizontal-stroke"/> quintum liber de <unclear>mineris</unclear><pc type="horizontal-stroke"/> sextum liber de anima<pc type="punctus"/>
-          unde primo est iste liber dignitate licet ultimus sive sextus ordine
-          doctrinae<pc type="punctus"/> et ideo philosophus considerans eius dignitatem dicit quod historia
-          de anima in primis est ponenda<pc type="punctus"/> quia ergo supponitur quod consideratio physica
-          de anima est<pc type="pilcrow"/>
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B"><quote><supplied>B</supplied>onorum honorabilium</quote> et cetera</rdg>
+          </app>
+          Philosophus in secundo physicorum volens investigare
+          <app>
+            <rdg wit="#O">et ostendere</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          terminos et limites
+          considerationis physicae
+          <app>
+            <rdg wit="#O"><unclear>vel naturalis</unclear></rdg>
+            <rdg wit="#B">sive naturalis</rdg>
+          </app>
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">sic</rdg>
+          </app>
+          ait usquequo oportet physicum speciem et quod quid
+          <app>
+            <!-- O better (simple error in B) -->
+            <rdg wit="#O">est</rdg>
+            <rdg wit="#B">est est</rdg>
+          </app>
+          considerare id est usque ad quem <unclear>terminum</unclear> se
+          extendit
+          <app>
+            <!-- B better -->
+            <rdg wit="#O">considerando</rdg>
+            <rdg wit="#B">consideratio</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">physica sive <unclear>philosophia</unclear></rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          naturalis
+          <app>
+            <!-- As it is here, B is better -->
+            <rdg wit="#O">quam <unclear>substantiam</unclear> de speciebus, id est formis, quae sunt quod quid est, id est quae pertinent ad rationem quiditatis,</rdg>
+            <rdg wit="#B">de formis quae pertinent ad quod quid est</rdg>
+          </app>
+          , et
+          <app>
+            <rdg wit="#O">respondet</rdg>
+            <rdg wit="#B"><unclear>respondet</unclear></rdg>
+          </app>
+          <app>
+            <rdg wit="#O">ibidem</rdg>
+            <rdg wit="#B" type="variation-absent" />
+          </app>
+          dicens
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">quod</rdg>
+          </app>
+          <!-- The quality here is equivalent, but with different interpunctuation. -->
+          quemadmodum medicus considerat nervum, et fabrum aes considerat
+          <app>
+            <rdg wit="#B">ita</rdg>
+            <rdg wit="#O" type="variation-absent"/>
+          </app>
+          physicus
+          <app>
+            <rdg wit="#B">considerat</rdg>
+            <rdg wit="#O" type="variation-absent"/>
+          </app>
+          formam
+          <app>
+            <!-- Equal in quality: sive = /, et = & -->
+            <rdg wit="#O">sive</rdg>
+            <rdg wit="#B">et</rdg>
+          </app>
+          speciem et quod quid est, quia non omnis consideratio nervi spectat ad
+          medicum, nec quicquid
+          <app>
+            <rdg wit="#O">potest considerare</rdg>
+            <rdg wit="#B" type="variation-inversion">considerare potest</rdg>
+          </app>
+          de aere pertinet ad fabrum, sic nec omnis consideratio de formis
+          pertinet ad physicum. Advidendeum igitur
+          <!-- This entry is not formally correct. But I'll put it aside for now -->
+          <app>
+            <rdg wit="#O" type="correction-transposition"><unclear>qualiter</unclear> praedicti</rdg>
+            <rdg wit="#B" type="correction-substitution">
+              <subst>
+                <del>quaeri</del>
+                <add>qualiter</add>
+              </subst>
+              praedicti
+            </rdg>
+          </app>
+          artifices
+          <app>
+            <!-- B best? Indirekte interrogativ LS -->
+            <rdg wit="#O">considerant</rdg>
+            <rdg wit="#B"><unclear>considerint</unclear></rdg>
+          </app>
+          de praedictis; videndum est qualis
+          <app>
+            <rdg wit="#O">sit</rdg>
+            <rdg wit="#B" type="correction-substitution">
+              <subst>
+                <del>est</del>
+                <add>sit</add>
+              </subst>
+            </rdg>
+          </app>
+          consideratio medici
+          <app>
+            <rdg wit="#B">et</rdg>
+            <rdg wit="#O" type="variation-absent"/>
+          </app>
+          fabri et physici. medicus
+          <app>
+            <rdg wit="#O">autem</rdg>
+            <rdg wit="#B">enim</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">intendit principaliter</rdg>
+            <rdg wit="#B">principaliter intendit</rdg>
+          </app>
+          sanitatem facere unde si de nervo
+          <app>
+            <!-- B more in line with the following -->
+            <rdg wit="#O">considerat</rdg>
+            <rdg wit="#B">consideret</rdg>
+          </app>
+          hoc est ut in eo
+          <app>
+            <rdg wit="#O">fiat</rdg>
+            <rdg wit="#B">inducatur</rdg>
+          </app>
+          sanitas, et ideo quaecumque consideratio de nervo, prout deservit
+          sanitati, pertinet ad medicum. si
+          <app>
+            <rdg wit="#O">tamen</rdg>
+            <rdg wit="#B">autem</rdg>
+          </app>
+          sit aliqua consideratio transcendens
+          <app>
+            <rdg wit="#O">istam</rdg>
+            <rdg wit="#B">de nervo</rdg>
+          </app>
+          <app>
+            <!-- O better. superfugio does not work -->
+            <rdg wit="#O">subterfugiet</rdg>
+            <rdg wit="#B">superfugiet</rdg>
+          </app>
+          considerationem medici. similiter
+          <app>
+            <rdg wit="#O">quia faber</rdg>
+            <rdg wit="#B">
+              <unclear>q..</unclear> faber <add place="above-line">quia</add>
+            </rdg>
+          </app>
+          considerat de materia
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">rerum sive</rdg>
+          </app>
+          instrumentorum artificialium quaecumque consideratio
+          <app>
+            <!-- O better -->
+            <rdg wit="#B">est</rdg>
+            <rdg wit="#O" type="variation-absent"/>
+          </app>
+          aeris prout est materia
+          <app>
+            <rdg wit="#O">instrumentorum</rdg>
+            <rdg wit="#B">vasorum</rdg>
+          </app>
+          artificialium pertinet ad
+          <app>
+            <rdg wit="#O">fabrum</rdg>
+            <rdg wit="#B">eius considerationem</rdg>
+          </app>
+          si
+          <app>
+            <!-- B better -->
+            <rdg wit="#O">qua tamen sit</rdg>
+            <rdg wit="#B">autem sit aliqua</rdg>
+          </app>
+          <app>
+            <!-- B more clear -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">consideratio</rdg>
+          </app>
+          transcendens
+          <app>
+            <!-- Both not too good. -->
+            <rdg wit="#O"><unclear>declinatur</unclear></rdg>
+            <rdg wit="#B">transfugiet</rdg>
+          </app>
+          eius considerationem. Ex
+          <app>
+            <rdg wit="#O">istis</rdg>
+            <rdg wit="#B">hiis</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">patet</rdg>
+            <rdg wit="#B">potest patere</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">
+              qualis sit consideratio physici et ad quem terminum se extendit
+            </rdg>
+            <rdg wit="#B">
+              ad quae extendit consideratio naturalis seu physici
+            </rdg>
+          </app>
+          quicquid enim a physico
+          <app>
+            <rdg wit="#O">est consideratum</rdg>
+            <rdg wit="#B">consideratur</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">motui et transmutationi</rdg>
+            <rdg wit="#B">motui</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">est coniunctum</rdg>
+            <rdg wit="#B">subicitur</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">quae</rdg>
+            <rdg wit="#B">quaecumque</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">enim</rdg>
+            <rdg wit="#B">vero</rdg>
+          </app>
+          <app>
+            <!-- O incertain. B better -->
+            <rdg wit="#O">non <unclear>amper</unclear> movent</rdg>
+            <rdg wit="#B">movent non</rdg>
+          </app>
+          mota non sunt physicae considerationis
+          <app>
+            <rdg wit="#O">per philosophus</rdg>
+            <rdg wit="#B">ut dicitur in</rdg>
+          </app>
+          secundo physicorum
+          <app>
+            <!-- B more rich? -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">et <unclear>etiam</unclear> in tertio eiusdem</rdg>
+          </app>
+          formae
+          <app>
+            <rdg wit="#O">igitur</rdg>
+            <rdg wit="#B">vero</rdg>
+          </app>
+          omnino immateriales non coniunctae materiae
+          <app>
+            <!-- Both work, but analyzed differently
+                 O: entirely immaterial are not bound to the motion of matter
+                 B: entirely immaterial are not bound to matter, nor subjects of
+                 motion ...
+            -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">nec subiectae sunt</rdg>
+          </app>
+          motui
+          <app>
+            <rdg wit="#O">et</rdg>
+            <rdg wit="#B">nec</rdg>
+          </app>
+          transmutationi
+          <app>
+            <!-- What's going on with subiectae? -->
+            <rdg wit="#O">subiectae</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          <app>
+            <!-- O better: superfigiunt is not a word. -->
+            <rdg wit="#O">subterfugiunt</rdg>
+            <rdg wit="#B"><unclear>superfigiunt</unclear></rdg>
+          </app>
+          considerationem physici
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">sive naturalis</rdg>
+          </app>
+          sed forma quae quodammodo est immaterialis et quodammodo perfectio
+          materiae est de consideratione naturalis
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">seu physici</rdg>
+          </app>
+          et est
+          <app>
+            <rdg wit="#O">illud</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          ultimum in quod potest consideratio physica. talis
+          <app>
+            <rdg wit="#O">autem</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          <app>
+            <rdg wit="#O" type="correction-deletion"><del>est</del></rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          forma est anima humana et ideo
+          <app>
+            <rdg wit="#O">ipsa</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          est
+          <app>
+            <rdg wit="#O">terminus</rdg>
+            <rdg wit="#B">limes</rdg>
+          </app>
+          et
+          <app>
+            <rdg wit="#O">finis</rdg>
+            <rdg wit="#B"><unclear>terminus</unclear></rdg>
+          </app>
+          considerationis
+          <app>
+            <rdg wit="#O">physicae</rdg>
+            <rdg wit="#B">naturalis</rdg>
+          </app>
+          unde distingvere
+          <app>
+            <rdg wit="#O" type="correction-addition"><add place="above-line">possumus</add></rdg>
+            <rdg wit="#B">possumus</rdg>
+          </app>
+          quod tres sunt gradus formarum
+          <app>
+            <rdg wit="#O">quaedem enim sunt omnino immateriales</rdg>
+            <rdg wit="#B">quaedam sunt penitus immaterialis</rdg>
+          </app>
+          et secundum
+          <app>
+            <rdg wit="#O">dispositionem</rdg>
+            <rdg wit="#B">suam substantiam</rdg>
+          </app>
+          et secundum
+          <app>
+            <rdg wit="#O">substantiam</rdg>
+            <rdg wit="#B">suam dispositionem</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">cuius sunt intelligentia</rdg>
+            <rdg wit="#B">cuiusmodi sunt substantiae separatae</rdg>
+          </app>
+          quae sunt praeter
+          <app>
+            <rdg wit="#O">materiam omnem</rdg>
+            <rdg wit="#B" type="variation-inversion">omnen materiam</rdg>
+          </app>
+          sensibilem et intelligibilem
+          <app>
+            <rdg wit="#O">per Philosophum</rdg>
+            <rdg wit="#B">ut dicitur</rdg>
+          </app>
+          octo Metaphysicae et quaedam sunt
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">formae</rdg>
+          </app>
+          penitus materiales et secundum substantiam et secundum dispositionem
+          quia
+          <app>
+            <rdg wit="#O">suae substantiae</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          et
+          <app>
+            <rdg wit="#O">suae dispositiones</rdg>
+            <rdg wit="#B">eorum essentiae et potentie</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">de materia</rdg>
+            <rdg wit="#B">a potentiis materiae</rdg>
+          </app>
+          sunt eductae
+          <app>
+            <rdg wit="#O">cuius sunt</rdg>
+            <rdg wit="#B">ut</rdg>
+          </app>
+          formae istorum
+          <app>
+            <rdg wit="#O">inferiorum</rdg>
+            <rdg wit="#B">sensibilium <unclear>infimorum</unclear></rdg>
+          </app>
+          <app>
+            <rdg wit="#O">sed</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          quaedam
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">vero</rdg>
+          </app>
+          sunt formae medio modo se habentes quae secundum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">suam</rdg>
+          </app>
+          substantiam sunt immateriales
+          <app>
+            <rdg wit="#O">et</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          secundum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">tamen</rdg>
+          </app>
+          dispositiones
+          <app>
+            <rdg wit="#O">sunt</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          materiales
+          <app>
+            <rdg wit="#O">cuius sunt</rdg>
+            <rdg wit="#B">ut</rdg>
+          </app>
+          animae humanae unde primae formae sunt praeter considerationem
+          physicam sed a secundis formis incipit consideratio physica et
+          terminatur ad
+          <app>
+            <rdg wit="#O">tertiam</rdg>
+            <rdg wit="#B">formas ultimo dictas</rdg>
+          </app>
+          incipit enim
+          <app>
+            <rdg wit="#O">consideratio physici</rdg>
+            <rdg wit="#B">eius consideratio</rdg>
+          </app>
+          a formis
+          <app>
+            <!-- O better? Ultimus seems to refer to higher forms? -->
+            <rdg wit="#O">inferioribus</rdg>
+            <rdg wit="#B">ultimis</rdg>
+          </app>
+          et terminatur ad animam humanam ex
+          <app>
+            <rdg wit="#O">istis</rdg>
+            <rdg wit="#B">hiis</rdg>
+          </app>
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">etiam</rdg>
+          </app>
+          patet
+          <app>
+            <!-- B better? "Which" better than "that"? Both could work. -->
+            <rdg wit="#O">ulterius quod</rdg>
+            <rdg wit="#B">quem</rdg>
+          </app>
+          ordinem
+          <app>
+            <rdg wit="#O">habeat</rdg>
+            <rdg wit="#B">tenet</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">liber iste</rdg>
+            <rdg wit="#B" type="variation-inversion">iste liber</rdg>
+          </app>
+          inter
+          <app>
+            <rdg wit="#O"><unclear>libres</unclear></rdg>
+            <rdg wit="#B">libros</rdg>
+          </app>
+          naturales quia modus physicus
+          <app>
+            <!-- B better -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">et</rdg>
+          </app>
+          modus metaphysicus quodammodo sunt oppositi modus enim physicus habet
+          statum in supremo sed non
+          <app>
+            <rdg wit="#B">habet statum</rdg>
+            <rdg wit="#O" type="variation-absent"/>
+          </app>
+          in infimo habet enim statum quemadmodum abstractionis
+          <app>
+            <rdg wit="#O">qui status est supremus</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          quia aliqua sunt ita abstracta
+          <app>
+            <!-- O? B better. -->
+            <rdg wit="#O"><unclear>quod</unclear></rdg>
+            <rdg wit="#B">quid</rdg>
+          </app>
+          extendunt considerationem physicam et aliqua sunt ita abstracta quod
+          <app>
+            <rdg wit="#O">ultima</rdg> <!-- ultima ea = acc.? se extendit + acc.?-->
+            <rdg wit="#B">ultimo</rdg>
+          </app>
+          ea non
+          <app>
+            <!-- Unless se extendit + acc. is normal, B is better. -->
+            <rdg wit="#O">se extendit consideratio physica</rdg>
+            <rdg wit="#B">considerat</rdg>
+          </app>
+          sed quemadmodum concretionis
+          <app>
+            <rdg wit="#O">qui est modus infimus</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          non habet physicus statum
+          <app>
+            <!-- O better? -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">non</rdg>
+          </app>
+          enim est aliqua forma ita
+          <app>
+            <!-- I can't figure this out. -->
+            <rdg wit="#O">
+              materiae concreta quod subterfugiat considerationem physici
+            </rdg>
+            <rdg wit="#B">concreta <unclear>aut/ut</unclear> superfugiat naturalis</rdg>
+          </app>
+          immo quanto
+          <!-- As in general, B is here also clearer or more explicit -->
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">forma</rdg>
+          </app>
+          magis
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">est</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">concreta materiae</rdg>
+            <rdg wit="#B" type="variation-inversion">concreta materiae</rdg>
+          </app>
+          tanto magis
+          <app>
+            <rdg wit="#O">cadit sub eius consideratione</rdg>
+            <rdg wit="#B">sub eius consideratione cadit</rdg>
+          </app>
+          et hoc est intelligendum supposita
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">universalitate seu</rdg>
+          </app>
+          abstractione a singularibus si enim ad individua et numero singularia
+          <app>
+            <rdg wit="#B">consideramus</rdg>
+            <rdg wit="#O">velimus considerare</rdg>
+          </app>
+          hoc
+          <app>
+            <rdg wit="#O"><unclear>praeter g()ditur</unclear></rdg>
+            <rdg wit="#B">extendit</rdg>
+          </app>
+          considerationem physicam sed modus metaphysicus
+          <app>
+            <rdg wit="#O">se habet</rdg>
+            <rdg wit="#B">est</rdg>
+          </app>
+          econtrario
+          <app>
+            <rdg wit="#O">quia statum</rdg>
+            <rdg wit="#B">statum enim</rdg>
+          </app>
+          habet in
+          <app>
+            <rdg wit="#O">infimis</rdg>
+            <rdg wit="#B">infimo</rdg>
+          </app>
+          sed
+          <app>
+            <rdg wit="#O">non</rdg>
+            <rdg wit="#B" type="correction-substitution">
+              <subst>
+                <del>ad <unclear>hunc</unclear></del>
+                <add place="above-line">non</add>
+              </subst>
+            </rdg>
+          </app>
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">statum</rdg>
+          </app>
+          in supremo quia aliqua forma est ita materiae concreta quod
+          <app>
+            <rdg wit="#O">eius consideratio</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          non
+          <app>
+            <!-- O better? Consecutive? -->
+            <rdg wit="#O">pertineat</rdg>
+            <rdg wit="#B">pertinet</rdg>
+          </app>
+          ad metaphysicum sed non est aliqua forma ita abstracta
+          <app>
+            <!-- O better? Not sure I understand B. -->
+            <rdg wit="#O">quod extendat</rdg>
+            <rdg wit="#B">qua non pertineat ad</rdg>
+          </app>
+          considerationem
+          <app>
+            <rdg wit="#O">metaphysicam metaphysica enim</rdg>
+            <rdg wit="#B">quia</rdg>
+          </app>
+          est circa causas altissimas unde quanto consideratio est magis
+          abstractorum tanto magis
+          <app>
+            <rdg wit="#O"><unclear>metaphysica</unclear> est</rdg>
+            <rdg wit="#B">est metaphysica</rdg>
+          </app>
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">et</rdg>
+          </app>
+          hoc est intelligendum
+          <app>
+            <!-- O better -->
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">est</rdg>
+          </app>
+          de consideratione per artem humanam inventa si
+          <app>
+            <!-- Aliqua here in O is mirrored for the following aliqua in B below -->
+            <rdg wit="#O">qua</rdg> <!-- This must be an error for aliqua -->
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          <app>
+            <rdg wit="#O">enim</rdg>
+            <rdg wit="#B">autem</rdg>
+          </app>
+          sit
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">aliqua</rdg>
+          </app>
+          consideratio
+          <app>
+            <rdg wit="#O">abstracta</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          per
+          <!-- In this section O seems better. Well, that's a theological
+               question. Does inspiration extend or exceed metaphysics??? Is the
+               extension Avicennean? Are theology and ontology different? -->
+          <app>
+            <rdg wit="#O">inspirationem</rdg>
+            <rdg wit="#B">aspirationem</rdg>
+          </app>
+          acquisita
+          <app>
+            <rdg wit="#O">ipsa extendit</rdg>
+            <rdg wit="#B">excedit</rdg>
+          </app>
+          considerationem metaphysici
+          <app>
+            <rdg wit="#O">sed talis non est praesentis speculationis</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          sic
+          <app>
+            <rdg wit="#O">igitur</rdg>
+            <rdg wit="#B">ergo</rdg>
+          </app>
+          intelligenda sunt quae dicta sunt quod cum tres sint partes
+          <app>
+            <rdg wit="#O">essentiales philosophae</rdg>
+            <rdg wit="#B" type="variation-inversion">philosophiae essentiales</rdg>
+          </app>
+          scilicet naturalis, mathematica et divina inter
+          <app>
+            <rdg wit="#O">artes vel</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          scientias per artem humanam inventas
+          <app>
+            <!-- On this O prefers personal, B abstract. Both work. -->
+            <rdg wit="#O">metaphysicus</rdg>
+            <rdg wit="#B">metaphysica</rdg>
+          </app>
+          non recognoscit a materia scientiam superiorem physica etiam inter
+          partes physicae essentiales quem ad modum abstractionis non
+          recognoscit a
+          <app>
+            <!-- B better -->
+            <rdg wit="#O">materiae artificem</rdg>
+            <rdg wit="#B">materia scientiam</rdg>
+          </app>
+          <app>
+            <!-- B better -->
+            <rdg wit="#O"><unclear>licet</unclear> superiorem</rdg>
+            <rdg wit="#B">sed superiorem recognoscentem recognoscit</rdg>
+          </app>
+          <app>
+            <rdg wit="#O">sed</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          <!-- In this sentence they are equal -->
+          <app>
+            <rdg wit="#O">mathematicus</rdg>
+            <rdg wit="#B">mathematica</rdg>
+          </app>
+          recognoscit et
+          <app>
+            <rdg wit="#O">
+              artificem superiorem quia aliquis est qui magis abstrahit
+            </rdg>
+            <rdg wit="#B">
+              superiorem
+            </rdg>
+          </app>
+          et inferiorem quia
+          <app>
+            <rdg wit="#O">aliquis est qui</rdg>
+            <rdg wit="#B">aliqua est quae magis abstrahit et aliqua quae</rdg>
+          </app>
+          magis concrevit unde ut dictum est consideratio
+          <app>
+            <rdg wit="#O">physici</rdg>
+            <rdg wit="#B">physica</rdg>
+          </app>
+          incipit a formis infimis et terminatur ad animam
+          <app>
+            <rdg wit="#O">humanam et</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          ex hoc patet quod liber de anima
+          <app>
+            <rdg wit="#O">sextum gradum tenet</rdg>
+            <rdg wit="#B">tenet sectum gradum</rdg>
+          </app>
+          inter libros naturales quia primum gradum tenet liber physicorum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">qui est de naturali audito</rdg>
+          </app>
+          secundum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">tenet</rdg>
+          </app>
+          liber de caelo et mundo tertium
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">gradum tenet</rdg>
+          </app>
+          <app>
+            <rdg wit="#O" type="correction-addition"><add place="above-line">liber</add></rdg>
+            <rdg wit="#B">liber</rdg>
+          </app>
+          de generatione
+          <app>
+            <rdg wit="#O">et <cb ed="#O" n="b"/> corruptione</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          quartum gradum tenet liber meteorum quintum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">gradum tenet</rdg>
+          </app>
+          liber de <unclear>mineris/mineralibus</unclear> sextum
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">gradum tenet</rdg>
+          </app>
+          liber de anima
+          <app>
+            <!-- B better -->
+            <rdg wit="#O">unde primo est iste liber</rdg>
+            <rdg wit="#B">qui prior est</rdg>
+          </app>
+          dignitate
+          <app>
+            <rdg wit="#O">licet ultimus sive</rdg>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          sextus
+          <app>
+            <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">tamen</rdg>
+          </app>
+          ordine doctrinae
+          <app>
+            <rdg wit="#O">et ideo</rdg>
+            <rdg wit="#B">unde</rdg>
+          </app>
+          Philosophus
+          <app>
+            <rdg wit="#O">considerans eius dignitatem</rdg>
+            <rdg wit="#B">in prohemio huius primi</rdg>
+          </app>
+          dicit quod historia de anima
+          <app>
+            <rdg wit="#O">in primis</rdg>
+            <rdg wit="#B">primo</rdg>
+          </app>
+          est ponenda
+          <app>
+            <!-- B again more extensive -->
+            <rdg wit="#O">
+              <!-- Is "consideratio de anima physica" better? -->
+              quia ergo supponitur quod consideratio physica de anima est
+            </rdg>
+            <rdg wit="#B">
+              scilicet dignitate unde supposita communi distinctione librorum
+              naturalium alibi ponita quaerantur primo quaedam communia circa
+              librum de anima et secundum magis in speciali
+            </rdg>
+          </app>
+          .
         </p>
       </div>
     </body>
