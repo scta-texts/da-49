@@ -52,7 +52,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="la" type="translation">
     <front>
       <div xml:id="startsOn">
         <pb n="148-v" ed="#B"/><cb n="a"/>

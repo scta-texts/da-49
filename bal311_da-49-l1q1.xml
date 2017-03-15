@@ -44,7 +44,7 @@
       </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="la" type="diplomatic">
     <front>
       <div xml:id="includeList">
         <!-- I might want to make my own versions of these files -->

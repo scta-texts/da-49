@@ -35,7 +35,7 @@
      </listChange>
     </revisionDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="la" type="diplomatic">
     <front>
       <div xml:id="startsOn">
         <pb n="164-r" ed="#O"/><cb n="b"/>
