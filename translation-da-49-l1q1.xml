@@ -60,38 +60,41 @@
       </div>
     </front>
     <body>
-      <div xml:id="da-49-l1q1">
+      <div xml:id="da-49-l1q1" type="translation">
         <head>
           <supplied ana="#meta-text">
-            Question 1: Whether a science about the soul can be acquired by us
+            Question 1: Whether scientific knowledge about the soul can be
+            acquired by us
           </supplied>
         </head>
         <p xml:id="da-49-l1q1-274hkz">
-          So it is asked first whether a science about the soul can be acquired
-          by us.
+          First we must ask whether whether scientific knowledge about the soul
+          can be acquired by us.
         </p>
         <div ana="#rationes-principales-contra">
           <p xml:id="da-49-l1q1-j01jdw">
             It seems that it cannot.
           </p>
           <p xml:id="da-49-l1q1-ysmgk1" ana="#rationes-principales-contra" n="1">
-            That about which there is a science is intelligible, <seg
-            ana="#quia">since</seg> when a science is a <seg
-            ana="#habitus">state</seg> of the intellect, the object of the
-            science ought to be intelligle; but the soul is not intelligible,
-            <seg ana="#quia">since</seg> all our knowledge comes from the
-            senses, and <seg ana="#intelligere">intellection</seg> itself does
-            not take place without phantasms, but the soul is not available to
-            sense perception, nor does it create phantasms; ergo et cetera.
+            That about which there is <seg ana="#scientia">scientific
+            knowledge</seg> is intelligible, <seg ana="#quia">since</seg>, as
+            <seg ana="#scientia">scientific knowledge</seg> is a <seg
+            ana="#habitus">state</seg> of the intellect, the object of the <seg
+            ana="#scientia">knowledge</seg> ought to be intelligle; but the soul
+            is not something intelligible, <seg ana="#quia">since</seg> all our
+            <seg ana="#cognitio">knowledge</seg> has its origin in the senses,
+            and <seg ana="#intelligere">understanding</seg> itself does not take
+            place without phantasms, but the soul is not available to sense
+            perception, nor does it produce a phantasm; ergo et cetera.
           </p>
           <p xml:id="da-49-l1q1-mjzkyp" ana="#rationes-principales-contra"
              n="2">
             Further, one and the same thing cannot be moving and moved at the
             same time, <seg ana="#quia">since</seg> then the same thing would be
-            in act and potentcy in the same respect; but that which is known is
+            in act and potency with respect to the same; but that which is known is
             moving with respect to that which knows; ergo one and the same thing
             cannot be knowing and known, but that would be the case if there
-            were a science about the soul.
+            were <seg ana="#scientia">scientific knowledge</seg> about the soul.
           </p>
           <p xml:id="da-49-l1q1-mjgjs9" ana="#rationes-principales-contra"
              n="3">
@@ -123,31 +126,32 @@
         </div>
         <div ana="#rationes-principales-pro">
           <p xml:id="da-49-l1q1-o9whrl">
-            The opposite <seg ana="#patet">holds</seg> according to the
-            determination of the <name ref="#Aristotle">Philosopher</name>.
+            The opposite <seg ana="#patet">is clear from</seg> the <name
+            ref="#Aristotle">Philosopher's</name> determination.
           </p>
         </div>
         <div ana="#determinatio">
           <p xml:id="da-49-l1q1-ywem12" ana="#determinatio" n="1">
             <seg ana="#dicendum">It must be said</seg> that <seg
-            ana="#cum+subj">since</seg> science is a <seg
-            ana="#habitus">state</seg> acquired by demonstration, and three
-            elements are required for a demonstration (that is, a subject, an
-            <seg ana="#passio">attribute</seg>, and a principle by which the
-            <seg ana="#passio">attribute</seg> is ascribed to the subject),
-            where these three can be found it can be said that there is a
-            science. <seg ana="#autem">But</seg> now the soul is some sort of
-            subject which has <seg ana="#proprietas">properties</seg> and <seg
-            ana="#passio">attributes</seg>, as will be apparent below. But there
-            are some principles by which these <seg
+            ana="#cum+subj">since</seg> <seg ana="#scientia">scientific
+            knowledge</seg> is a <seg ana="#habitus">state</seg> acquired by
+            demonstration, and three elements are required for a demonstration
+            (that is, a subject, an <seg ana="#passio">attribute</seg>, and a
+            principle by which the <seg ana="#passio">attribute</seg> is
+            ascribed to the subject), where these three can be found it can be
+            said that there is a science. <seg ana="#autem">But</seg> now the
+            soul is some sort of subject which has several <seg
+            ana="#proprietas">properties</seg> and <seg
+            ana="#passio">attributes</seg>, as will be apparent below. There
+            are also some principles by which these <seg
             ana="#passio">attributes</seg> can be <seg
-            ana="#probare">proved</seg> concerning the soul. For if <seg
+            ana="#probare">proved</seg> to belong to the soul. For if <seg
             ana="#quod-quid">the definition</seg> of the soul is accepted as the
             middle term,
             <app>
               <lem>
-                by that the <seg ana="#propria-passio">property</seg> of the
-                soul can be concluded to belong to the soul
+                by that a <seg ana="#propria-passio">proper attribute</seg> of
+                the soul can be concluded to belong to the soul
               </lem>
               <note>
                 The latin reads <quote>per ipsum concludi potest propria passio
@@ -162,25 +166,25 @@
           </p>
           <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
             Further, accidents are not things by themselves but belong to
-            something else. Ergo one who knows the accidents can be led to a
+            something else. Therefore one who knows the accidents can be led to a
             <seg ana="#cognitio">knowledge</seg> about that which they belong
             to. But now many accidents that belong to the soul itself are <seg
             ana="#manifestus">obvious</seg> to us: For <seg
             ana="#artificialis">productive</seg> <seg
             ana="#operatio">activities</seg> are known to use, but they cannot
             take place without <seg ana="#intelligere">intellection</seg>, and
-            <seg ana="#intelligere">intellection</seg> procedes from some sort
+            <seg ana="#intelligere">intellection</seg> proceeds from some sort
             of <seg ana="#potentia">power</seg>, and a <seg
             ana="#potentia">power</seg> flows from the <seg
             ana="#essentia">essence</seg>; and it is the same with other <seg
             ana="#operatio">activities</seg> <supplied>such as those</supplied>
-            which procede from the irascible. Thus, by many things which are
+            which proceed from the irascible. Thus, by many things which are
             known to us we may arrive at a <seg ana="#cognitio">knowledge</seg>
             about the soul. But <seg ana="#quia">since</seg> <seg
             ana="#scire">knowing</seg> is <seg ana="#cognoscere">knowing</seg>
             through causes, and such <seg ana="#cognitio">knowledge</seg> about
             the soul proceeds by effects, not by causes, the <name
-            ref="#Aristotle">Philosopher</name> therefore, as he presents the
+            ref="#Aristotle">Philosopher</name>, as he presents the
             <seg ana="#cognitio">knowledge</seg> about the soul, calls the <seg
             ana="#cognitio">knowledge</seg>
             <cit>
@@ -195,16 +199,15 @@
             To the first argument it must be said that the minor premise is
             false. And to the <seg ana="#probatio">supporting argument</seg> it
             must be said that something is available to sense perception in two
-            ways: either by <unclear>its possession</unclear> or by privation. By
-            privation just like shadows and indivisible objects, such as a point
-            and a unity. By <unclear>possession</unclear> in two ways: either by
-            its own <seg ana="#species">species</seg> or by the <seg
-            ana="#species">species</seg> of something else; when by its own <seg
-            ana="#species">species</seg>, it is just like when a colour is seen,
+            ways: either positively or privatively. Privately like shadows and
+            indivisible objects, such as a point or a unity. Positively in two
+            ways: either by its own <seg ana="#species">species</seg> or by the
+            <seg ana="#species">species</seg> of something else; by its own <seg
+            ana="#species">species</seg>, as when a colour is seen,
             <cit>
               <quote type="paraphrase">
-                when by the <seg ana="#species">species</seg> of something else,
-                it is just like when the son of Diares is seen.
+                by the <seg ana="#species">species</seg> of something else, as
+                when the son of Diares is seen.
               </quote>
               <bibl>
                 Arist. <title ref="#Arist.DA">DA</title> II.6 418a20--22
@@ -212,11 +215,11 @@
             </cit>
             . <seg ana="#unde">Hence</seg> although the soul is not available to
             sense perception in itself, it is still available to sense
-            perception by something else, that is by its effects, and in the
-            same way,
+            perception through something else, that is through its effects, and
+            in the same way,
             <app>
               <lem>
-                although it does not produce phantasms on its own, it produces
+                although it does not produce a phantasm on its own, it produces
                 another phantasm, which may lead to <seg
                 ana="#cognitio">knowledge</seg> about it.
               </lem>
@@ -236,9 +239,8 @@
           </p>
           <p xml:id="da-49-l1q1-i9rohp" ana="#ad-rationes-contra" n="2">
             To the next it must be said that <seg ana="#motus">movement</seg> is
-            said in two ways: in one way it is the act of an imperfect object,
-            just as it is defined by the <name
-            ref="#Aristotle">Philosopher</name> in
+            said in two ways: in one way it is the act of something imperfect,
+            as it is defined by the <name ref="#Aristotle">Philosopher</name> in
             <cit>
               <ref>
                 the third book of the <title ref="#Arist.Phys">Physics</title>;
@@ -247,25 +249,25 @@
                 Arist. <title ref="#Arist.Phys">Phys.</title> III.2 201b31--33
               </bibl>
             </cit>
-            , and in another way it is the act of the perfect being, just as
-            <seg ana="#intelligere">intellection</seg> and <seg
-            ana="#sentire">cognition</seg> are said to be movement: In the first
+            , and in another way it is the act of something perfect, and in this
+            way<seg ana="#intelligere">intellection</seg> and <seg
+            ana="#sentire">cognition</seg> are said to be movement. In the first
             way the same thing cannot be moving and moved by itself, but
-            accidentally nothing prevents it, just as the sailor moves the ship
-            by himself, and in that being moved he moves himself. In the other
-            way nothing prevents the same thing from moving itself. But there is
-            although a difference: For there is one sort of substance which
+            accidentally nothing prevents this, just as the sailor moves the
+            ship by himself, and in that being moved he moves himself. In the
+            second way nothing prevents the same thing from moving itself. There
+            is however a difference: For there is one sort of substance which
             always actively <seg ana="#intelligere_ptc">knows</seg>, and such a
-            substance can <seg ana="#intelligere">know</seg> by itself, just as
-            it is the case with the first cause and the intelligences; but there
-            is another sort of substance which does not always actively <seg
-            ana="#intelligere_ptc">know</seg>, just as the human soul, and such
-            a thing does not <seg ana="#intelligere">know</seg> by itself, <seg
+            substance can <seg ana="#intelligere">know</seg> by itself, as it is
+            the case with the first cause and the intelligences; but there is
+            another sort of substance, such as the human soul, which does not
+            always actively <seg ana="#intelligere_ptc">know</seg>, and such a
+            thing does not <seg ana="#intelligere">know</seg> by itself, <seg
             ana="#quia">since</seg> it <seg ana="#intelligere">knows</seg>
             nothing except when it is actualized, and such a substance, <seg
             ana="#cum+subj">since</seg> it potentially <seg
-            ana="#intelligere_ptc">knows</seg>, is not actualized except by
-            something else, that is by a intelligible <seg
+            ana="#intelligere_ptc">knows</seg>, does not actually do so except
+            by means of something else, that is by a intelligible <seg
             ana="#species">species</seg>, and <seg ana="#ideo">therefore</seg>
             it can <seg ana="#intelligere">know</seg> itself through something
             else. For by the fact that the soul <seg
@@ -274,35 +276,35 @@
             ana="#intelligere">know</seg> its own activity, and by the activity
             it can <seg ana="#reflectere">reflect</seg> itself on its own <seg
             ana="#essentia">essence</seg>; <seg ana="#unde">hence</seg> our soul
-            in a certain way <seg ana="#intelligere">knows</seg> itself just as
-            the sailor moves the ship.
+            in a certain way <seg ana="#intelligere">knows</seg> itself the way
+            a sailor moves his ship.
           </p>
           <p xml:id="da-49-l1q1-52psh5" ana="#ad-rationes-contra" n="3">
             To the next it must be said that although the eye of the night-raven
-            cannot apprehend the light of the sun directly, it can although
+            cannot apprehend the light of the sun directly, it can nevertheless
             apprehend some brightness indirectly, and if its sight were
             discursive, then it could <seg ana="#cognoscere">know</seg> the
             light of the sun. But now, although our intellect cannot arrive at a
             perfect <seg ana="#cognitio">knowledge</seg> about the separate
             substances, some of their effects are still apparent to us by which
-            we may be led to a <seg ana="#notitia">knowledge</seg> about them,
-            and <seg ana="#quia">since</seg> our intellect is discursive, <seg
-            ana="#ideo">therefore</seg> it can arrive at some sort of <seg
-            ana="#cognitio">knowledge</seg> of them through their effects. But
-            we <seg ana="#cognoscere">know</seg> more about the soul than about
-            the separate substances, <seg ana="#quia">since</seg> the effects of
-            the soul itself, which are apparent to us, are more suited to its
-            <seg ana="#virtus">power</seg> than the effects of the separate
-            substances, which are apparent to us, are suited to their <seg
+            we are led to a <seg ana="#notitia">knowledge</seg> about them, and
+            <seg ana="#quia">since</seg> our intellect is discursive, it can
+            arrive at some sort of <seg ana="#cognitio">knowledge</seg> of them
+            through their effects. But we <seg ana="#cognoscere">know</seg> more
+            about the soul than about the separate substances, <seg
+            ana="#quia">because</seg> those effects of the soul that are
+            apparent to us, are more on the level of its <seg
+            ana="#virtus">power</seg> than the effects of the separate
+            substances, that are apparent to us, are on the level of their <seg
             ana="#virtues">power</seg>.
           </p>
           <p xml:id="da-49-l1q1-h6ks8n" ana="#ad-rationes-contra" n="4">
             To the next it must be said that our <seg
             ana="#intelligere">intellection</seg> does not take place without
-            phantasms, continuously and temporally, <seg ana="#quia">since</seg>
-            it does not take place without phantasms. But it does not <seg
-            ana="#oportere">require</seg> that all <seg
-            ana="#intelligere">intellection</seg> is continous and temporal.
+            some continuity and time, <seg ana="#quia">since</seg>
+            it does not take place without some phantasm. But it is not <seg
+            ana="#oportere">required</seg> that all <seg
+            ana="#intelligere">intellection</seg> be continous and temporal.
           </p>
         </div>
       </div>
