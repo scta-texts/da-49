@@ -87,7 +87,7 @@
             habitus intellectus, de quo est scientia oportet esse intelligibile;
             sed anima non est intelligibile, quia omnis nostra cognitio ortum
             habet a sensu,
-            <app>
+            <app xml:id="da-49-l1q1-app:pa6tn6">
               <lem>unde ipsum intelligere non est</lem>
               <rdg wit="#O">unde ipsum intelligere non est</rdg>
               <rdg wit="#B">quia nihil intelligimus</rdg>
@@ -112,13 +112,13 @@
             movens respectu cognocentis; ergo unum et idem non potest esse
             <!-- Next 2: O better as it completes the argument with the transfer
                  of predicate from the minor. -->
-            <app>
+            <app xml:id="da-49-l1q1-app:18nkzl">
               <lem>cognoscens</lem>
               <rdg wit="#O">cognoscens</rdg>
               <rdg wit="#B">movens</rdg>
             </app>
             et
-            <app>
+            <app xml:id="da-49-l1q1-app:87ko58">
               <lem>cognitum</lem>
               <rdg wit="#O">cognitum</rdg>
               <rdg wit="#B">motum</rdg>
@@ -130,7 +130,7 @@
               <rdg wit="#B" type="variation-present">sed</rdg>
             </app>
             hoc tamen contingeret si de anima
-            <app>
+            <app xml:id="da-49-l1q1-app:hptxkl">
               <lem>esset scientia</lem>
               <rdg wit="#O">esset scientia</rdg>
               <rdg wit="#B">cognitionem haberemus</rdg>
@@ -142,12 +142,12 @@
             <cit>
               <quote type="paraphrase">
                 sicut oculus
-                <app>
+                <app xml:id="da-49-l1q1-app:6ef4va">
                   <lem>nycticoracis</lem>
                   <rdg wit="#B">nycticoracis</rdg>
                   <rdg wit="#O">vespertilionis</rdg>
                 </app>
-                <app>
+                <app xml:id="da-49-l1q1-app:qzz9yj">
                   <lem type="conjecture-supplied">
                     <supplied ana="#in-vacuo">se habet</supplied>
                   </lem>
@@ -201,7 +201,7 @@
             </app>
             subiectum, passio, et
             principium per quod ostenditur passio de subiecto), ubi est
-            <app type="insubstantial">
+            <app xml:id="da-49-l1q1-app:5d63kk" type="insubstantial">
               <lem>invenire ista tria</lem>
               <rdg wit="#O">invenire ista tria</rdg>
               <rdg wit="#B" type="variation-inversioner">
@@ -210,7 +210,7 @@
               </rdg>
             </app>
             , ibi
-            <app>
+            <app xml:id="da-49-l1q1-app:eje7pm">
               <lem>contingit ponere scientiam</lem>
               <rdg wit="#O">contingit ponere scientiam</rdg>
               <rdg wit="#B">est scientiam ponere</rdg>
@@ -235,7 +235,7 @@
               <rdg wit="#B">ostendi possunt istae passiones</rdg>
             </app>
             de anima. Si enim accipiatur quod quid est animae pro medio,
-            <app>
+            <app xml:id="da-49-l1q1-app:k2lfc9">
               <!-- O more explicit/clear -->
               <lem>per ipsum</lem>
               <rdg wit="#O" type="variation-present">per ipsum</rdg>
@@ -275,7 +275,7 @@
             </app>
             non fiunt absque intelligere, et
             intelligere procedit ab aliqua potentia, et potentia
-            <app>
+            <app xml:id="da-49-l1q1-app:mqmbne">
               <lem>fluit</lem>
               <rdg wit="#O" type="variation-present">fluit</rdg>
               <rdg wit="#B" type="variation-absent"/>
@@ -292,7 +292,7 @@
                 reading in B. Based on this reading I would say that O is a
                 slightly better text
             -->
-            <app>
+            <app xml:id="da-49-l1q1-app:b1mson">
               <lem>quae nobis nota sunt</lem>
               <rdg wit="#O">quae nobis nota sunt</rdg>
               <rdg wit="#B">nobis</rdg>
@@ -310,9 +310,10 @@
               <rdg wit="#B">causam rei</rdg>
             </app>
             cognoscere
-            <!-- Auct. Arist. 35.8, cf. Arist. APo I.2 71b10-12 -->
+            <!-- Auct. Arist. 35.8, cf. Arist. APo I.2 71b10-12, cf. also
+                 Metaph. II.1 -->
             , et talis
-            <app>
+            <app xml:id="da-49-l1q1-app:gfllzy">
               <lem>cognitio de anima</lem>
               <rdg wit="#O" type="variation-present">cognitio de anima</rdg>
               <rdg wit="#B" type="variation-absent"/>
@@ -352,7 +353,7 @@
               <rdg wit="#B" type="variation-absent" />
             </app>
             ad probationem dicendum quod
-            <app>
+            <app xml:id="da-49-l1q1-app:yl5yi8">
               <lem>aliquid</lem>
               <rdg wit="#O">aliquid</rdg>
               <rdg wit="#B">aliquod</rdg>
@@ -380,7 +381,7 @@
                   <rdg wit="#O">sicut</rdg>
                   <rdg wit="#B">ut</rdg>
                 </app>
-                <app>
+                <app xml:id="da-49-l1q1-app:tjx5f0">
                   <lem>videtur</lem>
                   <rdg wit="#O" type="variation-present">videtur</rdg>
                   <rdg wit="#B" type="variation-absent"/>
@@ -391,14 +392,14 @@
             </cit>
             . Unde, licet anima non cadat
             sub sensu per
-            <app>
+            <app xml:id="da-49-l1q1-app:o6vevk">
               <!-- Here O clearly better -->
               <lem>se</lem>
               <rdg wit="#O">se</rdg>
               <rdg wit="#B">rei</rdg>
             </app>
             ,
-            <app>
+            <app xml:id="da-49-l1q1-app:r2io0f">
               <lem type="conjecture-corrected">cadit</lem>
               <rdg wit="#B #O">cadat</rdg>
             </app>
@@ -430,7 +431,6 @@
               <rdg wit="#B">motus dicitur dupliciter</rdg>
             </app>
             : uno modo est actus imperfecti,
-            <!-- I'm in doubt about the two sicuts here and in the next -->
             <app>
               <lem>sicut</lem>
               <rdg wit="#B">sicut</rdg>
@@ -454,7 +454,7 @@
               <rdg wit="#O">sic</rdg>
             </app>
             intelligere et
-            <app>
+            <app xml:id="da-49-l1q1-app:o28m47">
               <lem>cognoscere</lem>
               <rdg wit="#B">cognoscere</rdg>
               <rdg wit="#O">sentire</rdg>
@@ -475,13 +475,13 @@
               <rdg wit="#O">qua mota movet seipsum</rdg>
               <rdg wit="#B"> et motu navi movetur</rdg>
             </app>
-            <app>
+            <app xml:id="da-49-l1q1-app:3bz2f8">
               <lem n="movetur"/>
               <rdg type="variation-absent" />
               <rdg wit="#B" type="variation-present">per accidens</rdg>
             </app>
             . Secundo modo nihil prohibet idem
-            <app>
+            <app xml:id="da-49-l1q1-app:633yrw">
               <lem>movere se ipsum</lem>
               <rdg wit="#O">movere se ipsum</rdg>
               <rdg wit="#B">esse movens et motum respectu sui ipsius</rdg>
@@ -499,25 +499,25 @@
               <rdg wit="#O" type="variation-absent" />
             </app>
             potest intelligere se per se,
-            <app>
+            <app xml:id="da-49-l1q1-app:05821q">
               <lem>sicut est de prima causa et intelligentiis</lem>
               <rdg wit="#O">sed est de prima causa et intelligentiis</rdg>
               <rdg wit="#B" type="variation-absent" />
             </app>
             ; sed aliqua est
-            <app>
+            <app xml:id="da-49-l1q1-app:bnz3xq">
               <lem n="est"/>
               <rdg wit="#O" type="variation-absent"/>
               <rdg wit="#B" type="variation-present">substantia</rdg>
             </app>
             non semper actu intelligens,
-            <app>
+            <app xml:id="da-49-l1q1-app:as4rnu">
               <lem>sicut est anima humana</lem>
               <rdg wit="#O">sicut est anima humana</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             , et talis
-            <app>
+            <app xml:id="da-49-l1q1-app:1w0l0f">
               <lem n="talis"/>
               <rdg wit="#O" type="variation-absent"/>
               <rdg wit="#B" type="variation-present">substantia</rdg>
@@ -530,7 +530,7 @@
             se per se, quia nihil intelligitur nisi
             secundum quod actu est, et talis substantia, cum sit in potentia
             intelligens
-            <app>
+            <app xml:id="da-49-l1q1-app:bc6142">
               <lem>
                 non est in actu nisi per alterum, ut per speciem intelligibilem, ideo
               </lem>
@@ -553,7 +553,7 @@
               <rdg wit="#B" type="variation-absent"/>
             </app>
             supra suam essentiam;
-            <app>
+            <app xml:id="da-49-l1q1-app:99tkjl">
               <lem>
                 unde anima nostra quodammodo intelligit se sicut nauta movet navem
               </lem>
@@ -589,7 +589,7 @@
               <rdg wit="#B" type="variation-absent"/>
             </app>
             esset discursivus,
-            <app>
+            <app xml:id="da-49-l1q1-app:ss4j7m">
               <!-- O supplies the reading we had conjectured -->
               <lem>posset</lem>
               <rdg wit="#O">posset</rdg>
@@ -613,12 +613,12 @@
               <rdg wit="#O" type="correction-deletion"><del>etsi</del></rdg>
             </app>
             non
-            <app>
+            <app xml:id="da-49-l1q1-app:d8u1cl">
               <lem type="conjecture-corrected">potest</lem>
               <rdg wit="#O">posset</rdg>
               <rdg wit="#B">possit</rdg>
             </app>
-            <app>
+            <app xml:id="da-49-l1q1-app:wajnh7">
               <lem n="potest"/>
               <rdg wit="#O" type="variation-absent"/>
               <rdg wit="#B" type="variation-present">directe</rdg>
@@ -630,7 +630,7 @@
               <rdg wit="#B" type="variation-absent"/>
             </app>
             substantiarum separatarum, tamen
-            <app>
+            <app xml:id="da-49-l1q1-app:zq4kdv">
               <!-- I'm in doubt what's going on here -->
               <lem>
                 aliqui effectus earum apparent nobis,
@@ -655,7 +655,7 @@
               <rdg wit="#B">per effectus possumus</rdg>
             </app>
             in
-            <app>
+            <app xml:id="da-49-l1q1-app:yq0rb5">
               <!-- B is better here -->
               <lem>aliqualem</lem>
               <rdg wit="#B">aliqualem</rdg>
@@ -671,7 +671,7 @@
             </app>
             . Magis <pb ed="#O" n="164-v"/><cb ed="#O" n="a"/> tamen cognoscimus
             de anima quam de
-            <app>
+            <app xml:id="da-49-l1q1-app:26i4eh">
               <!-- B better here. -->
               <lem>substantiis</lem>
               <rdg wit="#B">substantiis</rdg>
@@ -684,7 +684,7 @@
               <rdg wit="#B" type="variation-absent"/>
             </app>
             animae
-            <app>
+            <app xml:id="da-49-l1q1-app:li4ovm">
               <lem>nobis apparentes</lem>
               <rdg wit="#O">nobis apparentes</rdg>
               <rdg wit="#B" type="variation-absent"/>
@@ -701,7 +701,7 @@
               <rdg wit="#O">nobis apparentes</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
-            <app>
+            <app xml:id="da-49-l1q1-app:bene1c">
               <lem>adaequant virtutem earum</lem>
               <rdg wit="#B">adaequant virtutem earum</rdg>
               <rdg wit="#O" type="variation-absent"/>
@@ -716,13 +716,13 @@
               <rdg wit="#B" type="variation-inversion">nostrum intelligere</rdg>
             </app>
             non est sine
-            <app>
               <lem>phantasmate</lem>
               <rdg wit="#B">phantasmate</rdg>
+            <app xml:id="da-49-l1q1-app:mvv35w">
               <rdg wit="#O" type="variation-absent"/>
             </app>
             , continuo et tempore, quia non est sine phantasmate. Non tamen oportet
-            <app>
+            <app xml:id="da-49-l1q1-app:l0y465">
               <!-- This, combined with next, make two quite different meanings...
                    B: not necessary that all that is known by us is continuus and
                    temporal.
@@ -734,7 +734,7 @@
               <rdg wit="#B" type="variation-present">quod</rdg>
             </app>
             omne
-            <app>
+            <app xml:id="da-49-l1q1-app:mmea7s">
               <lem>intelligere esse</lem>
               <rdg wit="#O">intelligere esse</rdg>
               <rdg wit="#B">
@@ -742,7 +742,7 @@
               </rdg>
             </app>
             continuum et
-            <app>
+            <app xml:id="da-49-l1q1-app:a7va9c">
               <lem>temporale</lem>
               <rdg wit="#O">temporale</rdg>
               <rdg wit="#B">temporalis</rdg>
