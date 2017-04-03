@@ -166,7 +166,11 @@
               intellectus humanus secundum se non est in actu. Ad cuius
               evidentiam considerandum est quod aliquis est intellectus qui est
               actus purus et perfectus, ut intellectus Dei, et ipse cognoscit se
-              ut intelligit <supplied>se</supplied> per suam essentiam et omnia
+              <app>
+                <lem type="conjecture-correction">et</lem>
+                <rdg wit="#B">ut</rdg>
+              </app>
+              intelligit per suam essentiam et omnia
               alia per se; alius est intellectus qui est in actu sed non est
               actus perfectus, ut intellectus intelligentiae, quia ipse
               intelligit se per suam essentiam, alia tamen non intelligit per
