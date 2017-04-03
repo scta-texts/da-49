@@ -541,9 +541,9 @@
             </app>
             per alterum potest
             <app type="insubstantial">
-              <lem>seipsum</lem>
-              <rdg wit="#B">seipsum</rdg>
+              <lem>se</lem>
               <rdg wit="#O">se</rdg>
+              <rdg wit="#B">seipsum</rdg>
             </app>
             intelligere. Per hoc enim quod anima intelligit obiectum per speciem
             potest intelligere suum actum, et per actum potest reflectere
@@ -716,12 +716,12 @@
               <rdg wit="#B" type="variation-inversion">nostrum intelligere</rdg>
             </app>
             non est sine
-              <lem>phantasmate</lem>
-              <rdg wit="#B">phantasmate</rdg>
             <app xml:id="da-49-l1q1-app:mvv35w">
+              <lem n="sine" />
               <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#B">phantasmate</rdg>
             </app>
-            , continuo et tempore, quia non est sine phantasmate. Non tamen oportet
+            continuo et tempore, quia non est sine phantasmate. Non tamen oportet
             <app xml:id="da-49-l1q1-app:l0y465">
               <!-- This, combined with next, make two quite different meanings...
                    B: not necessary that all that is known by us is continuus and
