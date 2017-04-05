@@ -88,8 +88,8 @@
           extendit
           <app>
             <!-- B better -->
-            <rdg wit="#O">considerando</rdg>
             <rdg wit="#B">consideratio</rdg>
+            <rdg wit="#O">considerando</rdg>
           </app>
           <app>
             <rdg wit="#O">physica sive <unclear>philosophia</unclear></rdg>
@@ -98,7 +98,9 @@
           naturalis
           <app>
             <!-- As it is here, B is better -->
-            <rdg wit="#O">quam <unclear>substantiam</unclear> de speciebus, id est formis, quae sunt quod quid est, id est quae pertinent ad rationem quiditatis,</rdg>
+            <rdg wit="#O">quam <unclear>substantiam</unclear> de speciebus, id
+            est formis, quae sunt quod quid est, id est quae pertinent ad
+            rationem quiditatis</rdg>
             <rdg wit="#B">de formis quae pertinent ad quod quid est</rdg>
           </app>
           , et
@@ -116,7 +118,7 @@
             <rdg wit="#B">quod</rdg>
           </app>
           <!-- The quality here is equivalent, but with different interpunctuation. -->
-          quemadmodum medicus considerat nervum, et fabrum aes considerat
+          quemadmodum medicus considerat nervum, et fabrum aes considerat,
           <app>
             <rdg wit="#B">ita</rdg>
             <rdg wit="#O" type="variation-absent"/>
