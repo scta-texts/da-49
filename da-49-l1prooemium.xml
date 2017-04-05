@@ -62,21 +62,18 @@
         <p xml:id="da-49-l1prooemium-gq0450">
           <app>
             <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B"><quote><supplied>B</supplied>onorum honorabilium</quote> et cetera</rdg>
+            <rdg wit="#B"><quote>Bonorum honorabilium et cetera</quote></rdg>
           </app>
           Philosophus in secundo physicorum volens investigare
           <app>
             <rdg wit="#O">et ostendere</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          terminos et limites considerationis philosophiae
+          terminos et limites considerationis physicae sive naturalis
           <app>
-            <rdg wit="#O"><unclear>vel naturalis</unclear></rdg>
-            <rdg wit="#B">sive naturalis</rdg>
-          </app>
-          <app>
+            <lem n="naturalis" />
             <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B">sic</rdg>
+            <rdg wit="#B" type="correction-deletion"><del rend="expunctuation">sic</del></rdg>
           </app>
           ait usquequo oportet physicum speciem et quod quid
           <app>
@@ -84,23 +81,19 @@
             <rdg wit="#O">est</rdg>
             <rdg wit="#B">est est</rdg>
           </app>
-          considerare id est usque ad quem <unclear>terminum</unclear> se
-          extendit
+          considerare id est usque ad quem terminum se
+          extendit consideratio
           <app>
-            <!-- B better -->
-            <rdg wit="#B">consideratio</rdg>
-            <rdg wit="#O">considerando</rdg>
-          </app>
-          <app>
-            <rdg wit="#O">physica sive <unclear>philosophia</unclear></rdg>
+            <rdg wit="#O">physica sive philosophi</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           naturalis
           <app>
             <!-- As it is here, B is better -->
-            <rdg wit="#O">quam <unclear>substantiam</unclear> de speciebus, id
-            est formis, quae sunt quod quid est, id est quae pertinent ad
-            rationem quiditatis</rdg>
+            <rdg wit="#O">
+              quam habet de speciebus, id est formis, quae sunt quod quid est,
+              id est quae pertinent ad rationem quiditatis
+            </rdg>
             <rdg wit="#B">de formis quae pertinent ad quod quid est</rdg>
           </app>
           , et
@@ -118,49 +111,61 @@
             <rdg wit="#B">quod</rdg>
           </app>
           <!-- The quality here is equivalent, but with different interpunctuation. -->
-          quemadmodum medicus considerat nervum, et fabrum aes considerat,
+          quemadmodum medicus considerat nervum et faber aes, considerat
           <app>
-            <rdg wit="#B">ita</rdg>
+            <lem n="considerat" />
             <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">ita</rdg>
           </app>
           physicus
           <app>
-            <rdg wit="#B">considerat</rdg>
+            <lem n="physicus" />
             <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">considerat</rdg>
           </app>
           formam
           <app>
-            <!-- Equal in quality: sive = /, et = & -->
+            <lem>sive</lem>
             <rdg wit="#O">sive</rdg>
             <rdg wit="#B">et</rdg>
           </app>
           speciem et quod quid est, quia non omnis consideratio nervi spectat ad
           medicum, nec quicquid
           <app>
-            <rdg wit="#O">potest considerare</rdg>
+            <lem>potest considerari</lem>
+            <rdg wit="#O">potest considerari</rdg>
             <rdg wit="#B" type="variation-inversion">considerare potest</rdg>
           </app>
           de aere pertinet ad fabrum, sic nec omnis consideratio de formis
-          pertinet ad physicum. Advidendeum igitur
-          <!-- This entry is not formally correct. But I'll put it aside for now -->
+          pertinet ad physicum. Advidendum igitur
           <app>
-            <rdg wit="#O" type="correction-transposition"><unclear>qualiter</unclear> praedicti</rdg>
+            <lem n="igitur" />
+            <rdg wit="#O" type="correction-deletion">
+              <del rend="vacat">praedicti</del>
+            </rdg>
+          </app>
+          <app>
+            <lem>qualiter</lem>
+            <rdg wit="#O">qualiter</rdg>
             <rdg wit="#B" type="correction-substitution">
               <subst>
                 <del>quaeri</del>
                 <add>qualiter</add>
               </subst>
-              praedicti
             </rdg>
           </app>
-          artifices
           <app>
-            <!-- B best? Indirekte interrogativ LS -->
+            <lem>praedicti artifices</lem>
+            <rdg wit="#O">praedicti artifices</rdg>
+            <rdg wit="#B" type="variation-inversion">artifices praedicti</rdg>
+          </app>
+          <app>
+            <lem>considerant</lem>
             <rdg wit="#O">considerant</rdg>
-            <rdg wit="#B"><unclear>considerint</unclear></rdg>
+            <rdg wit="#B">considerint</rdg>
           </app>
           de praedictis; videndum est qualis
-          <app>
+          <app xml:id="da-49-l1prooemium-app-kb3w3c">
             <rdg wit="#O">sit</rdg>
             <rdg wit="#B" type="correction-substitution">
               <subst>
@@ -185,7 +190,6 @@
           </app>
           sanitatem facere unde si de nervo
           <app>
-            <!-- B more in line with the following -->
             <rdg wit="#O">considerat</rdg>
             <rdg wit="#B">consideret</rdg>
           </app>
@@ -224,25 +228,23 @@
           </app>
           instrumentorum artificialium quaecumque consideratio
           <app>
-            <!-- O better -->
-            <rdg wit="#B">est</rdg>
             <rdg wit="#O" type="variation-absent"/>
+            <rdg wit="#B">est</rdg>
           </app>
-          aeris prout est materia
+          aeris, prout est materia
           <app>
             <rdg wit="#O">instrumentorum</rdg>
             <rdg wit="#B">vasorum</rdg>
           </app>
-          artificialium pertinet ad
+          artificialium, pertinet ad
           <app>
             <rdg wit="#O">fabrum</rdg>
             <rdg wit="#B">eius considerationem</rdg>
           </app>
           si
           <app>
-            <!-- B better -->
-            <rdg wit="#O">qua tamen sit</rdg>
             <rdg wit="#B">autem sit aliqua</rdg>
+            <rdg wit="#O">qua tamen sit</rdg>
           </app>
           <app>
             <!-- B more clear -->
@@ -251,8 +253,7 @@
           </app>
           transcendens
           <app>
-            <!-- Both not too good. -->
-            <rdg wit="#O"><unclear>declinatur</unclear></rdg>
+            <rdg wit="#O">declinat</rdg>
             <rdg wit="#B">transfugiet</rdg>
           </app>
           eius considerationem. Ex
@@ -294,18 +295,16 @@
             <rdg wit="#B">vero</rdg>
           </app>
           <app>
-            <!-- O incertain. B better -->
-            <rdg wit="#O">non <unclear>amper</unclear> movent</rdg>
+            <rdg wit="#O">non amplius movent</rdg>
             <rdg wit="#B">movent non</rdg>
           </app>
           mota non sunt physicae considerationis
           <app>
-            <rdg wit="#O">per philosophus</rdg>
+            <rdg wit="#O">per philosophum</rdg>
             <rdg wit="#B">ut dicitur in</rdg>
           </app>
           secundo physicorum
           <app>
-            <!-- B more rich? -->
             <rdg wit="#O" type="variation-absent"/>
             <rdg wit="#B">et <unclear>etiam</unclear> in tertio eiusdem</rdg>
           </app>
@@ -331,14 +330,13 @@
           </app>
           transmutationi
           <app>
-            <!-- What's going on with subiectae? -->
             <rdg wit="#O">subiectae</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           <app>
             <!-- O better: superfigiunt is not a word. -->
             <rdg wit="#O">subterfugiunt</rdg>
-            <rdg wit="#B"><unclear>superfigiunt</unclear></rdg>
+            <rdg wit="#B">superfigiunt</rdg>
           </app>
           considerationem physici
           <app>
@@ -361,7 +359,7 @@
             <rdg wit="#O">autem</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          <app>
+          <app xml:id="da-49-l1prooemium-app-6hon7s">
             <rdg wit="#O" type="correction-deletion"><del>est</del></rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
@@ -390,12 +388,18 @@
             <rdg wit="#O" type="correction-addition"><add place="above-line">possumus</add></rdg>
             <rdg wit="#B">possumus</rdg>
           </app>
-          quod tres sunt gradus formarum
+          quod tres sunt gradus formarum quaedam
           <app>
-            <rdg wit="#O">quaedem enim sunt omnino immateriales</rdg>
-            <rdg wit="#B">quaedam sunt penitus immaterialis</rdg>
+            <lem>enim</lem>
+            <rdg wit="#O">enim</rdg>
+            <rdg wit="#B" type="variation-absent"/>
           </app>
-          et secundum
+          sunt
+          <app>
+            <rdg wit="#O">omnino</rdg>
+            <rdg wit="#B">penitus</rdg>
+          </app>
+          immaterialis et secundum
           <app>
             <rdg wit="#O">dispositionem</rdg>
             <rdg wit="#B">suam substantiam</rdg>
@@ -405,21 +409,28 @@
             <rdg wit="#O">substantiam</rdg>
             <rdg wit="#B">suam dispositionem</rdg>
           </app>
+          cuiusmodi sunt
           <app>
-            <rdg wit="#O">cuius sunt intelligentia</rdg>
-            <rdg wit="#B">cuiusmodi sunt substantiae separatae</rdg>
+            <rdg wit="#O">intelligentiae</rdg>
+            <rdg wit="#B">substantiae separatae</rdg>
           </app>
           quae sunt praeter
-          <app>
-            <rdg wit="#O">materiam omnem</rdg>
-            <rdg wit="#B" type="variation-inversion">omnen materiam</rdg>
+          <app xml:id="da-49-l1prooemium-app-r1j1up">
+            <lem>omnem materiam</lem>
+            <rdg wit="#B">omnen materiam</rdg>
+            <rdg wit="#O" type="correction-inversion">
+              <subst>
+                <add>omnem materiam</add>
+                <del>materiam omnem</del>
+              </subst>
+            </rdg>
           </app>
           sensibilem et intelligibilem
           <app>
             <rdg wit="#O">per Philosophum</rdg>
             <rdg wit="#B">ut dicitur</rdg>
           </app>
-          octo Metaphysicae et quaedam sunt
+          octavo Metaphysicae et quaedam sunt
           <app>
             <rdg wit="#O" type="variation-absent"/>
             <rdg wit="#B">formae</rdg>
@@ -441,13 +452,13 @@
           </app>
           sunt eductae
           <app>
-            <rdg wit="#O">cuius sunt</rdg>
+            <rdg wit="#O">cuiusmodi sunt</rdg>
             <rdg wit="#B">ut</rdg>
           </app>
           formae istorum
           <app>
             <rdg wit="#O">inferiorum</rdg>
-            <rdg wit="#B">sensibilium <unclear>infimorum</unclear></rdg>
+            <rdg wit="#B">sensibilium <unclear>inferiorum</unclear></rdg>
           </app>
           <app>
             <rdg wit="#O">sed</rdg>
@@ -480,7 +491,7 @@
           </app>
           materiales
           <app>
-            <rdg wit="#O">cuius sunt</rdg>
+            <rdg wit="#O">cuiusmodi sunt</rdg>
             <rdg wit="#B">ut</rdg>
           </app>
           animae humanae unde primae formae sunt praeter considerationem
@@ -512,11 +523,11 @@
           </app>
           patet
           <app>
-            <!-- B better? "Which" better than "that"? Both could work. -->
-            <rdg wit="#O">ulterius quod</rdg>
-            <rdg wit="#B">quem</rdg>
+            <lem>ulterius</lem>
+            <rdg wit="#O">ulterius</rdg>
+            <rdg wit="#B" type="variation-absent"/>
           </app>
-          ordinem
+          quem ordinem
           <app>
             <rdg wit="#O">habeat</rdg>
             <rdg wit="#B">tenet</rdg>
@@ -525,42 +536,30 @@
             <rdg wit="#O">liber iste</rdg>
             <rdg wit="#B" type="variation-inversion">iste liber</rdg>
           </app>
-          inter
-          <app>
-            <rdg wit="#O"><unclear>libres</unclear></rdg>
-            <rdg wit="#B">libros</rdg>
-          </app>
-          naturales quia modus physicus
-          <app>
-            <!-- B better -->
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B">et</rdg>
-          </app>
-          modus metaphysicus quodammodo sunt oppositi modus enim physicus habet
-          statum in supremo sed non
+          inter libros naturales quia modus physicus et modus metaphysicus
+          quodammodo sunt oppositi modus enim physicus habet statum in supremo
+          sed non
           <app>
             <rdg wit="#B">habet statum</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          in infimo habet enim statum quemadmodum abstractionis
+          in infimo habet enim statum quantum ad modum abstractionis
           <app>
             <rdg wit="#O">qui status est supremus</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           quia aliqua sunt ita abstracta
           <app>
-            <!-- O? B better. -->
-            <rdg wit="#O"><unclear>quod</unclear></rdg>
+            <rdg wit="#O">quod</rdg>
             <rdg wit="#B">quid</rdg>
           </app>
-          extendunt considerationem physicam et aliqua sunt ita abstracta quod
+          excedunt considerationem physicam et aliqua sunt ita abstracta quod
           <app>
-            <rdg wit="#O">ultima</rdg> <!-- ultima ea = acc.? se extendit + acc.?-->
+            <rdg wit="#O">ultra</rdg>
             <rdg wit="#B">ultimo</rdg>
           </app>
           ea non
           <app>
-            <!-- Unless se extendit + acc. is normal, B is better. -->
             <rdg wit="#O">se extendit consideratio physica</rdg>
             <rdg wit="#B">considerat</rdg>
           </app>
@@ -569,22 +568,14 @@
             <rdg wit="#O">qui est modus infimus</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          non habet physicus statum
+          non habet physicus statum non enim est aliqua forma ita
           <app>
-            <!-- O better? -->
-            <rdg wit="#O" type="variation-absent"/>
-            <rdg wit="#B">non</rdg>
-          </app>
-          enim est aliqua forma ita
-          <app>
-            <!-- I can't figure this out. -->
             <rdg wit="#O">
               materiae concreta quod subterfugiat considerationem physici
             </rdg>
-            <rdg wit="#B">concreta <unclear>aut/ut</unclear> superfugiat naturalis</rdg>
+            <rdg wit="#B">concreta que superfugiat naturalis</rdg>
           </app>
           immo quanto
-          <!-- As in general, B is here also clearer or more explicit -->
           <app>
             <rdg wit="#O" type="variation-absent"/>
             <rdg wit="#B">forma</rdg>
@@ -596,7 +587,7 @@
           </app>
           <app>
             <rdg wit="#O">concreta materiae</rdg>
-            <rdg wit="#B" type="variation-inversion">concreta materiae</rdg>
+            <rdg wit="#B" type="variation-inversion">materiae concreta</rdg>
           </app>
           tanto magis
           <app>
@@ -615,7 +606,7 @@
           </app>
           hoc
           <app>
-            <rdg wit="#O"><unclear>praeter g()ditur</unclear></rdg>
+            <rdg wit="#O">praetergreditur</rdg>
             <rdg wit="#B">extendit</rdg>
           </app>
           considerationem physicam sed modus metaphysicus
@@ -628,12 +619,7 @@
             <rdg wit="#O">quia statum</rdg>
             <rdg wit="#B">statum enim</rdg>
           </app>
-          habet in
-          <app>
-            <rdg wit="#O">infimis</rdg>
-            <rdg wit="#B">infimo</rdg>
-          </app>
-          sed
+          habet in infimis sed
           <app>
             <rdg wit="#O">non</rdg>
             <rdg wit="#B" type="correction-substitution">
@@ -660,8 +646,7 @@
           </app>
           ad metaphysicum sed non est aliqua forma ita abstracta
           <app>
-            <!-- O better? Not sure I understand B. -->
-            <rdg wit="#O">quod extendat</rdg>
+            <rdg wit="#O">quod excedat</rdg>
             <rdg wit="#B">qua non pertineat ad</rdg>
           </app>
           considerationem
@@ -672,7 +657,7 @@
           est circa causas altissimas unde quanto consideratio est magis
           abstractorum tanto magis
           <app>
-            <rdg wit="#O"><unclear>metaphysica</unclear> est</rdg>
+            <rdg wit="#O">metaphysicalis est</rdg>
             <rdg wit="#B">est metaphysica</rdg>
           </app>
           <app>
@@ -687,8 +672,7 @@
           </app>
           de consideratione per artem humanam inventa si
           <app>
-            <!-- Aliqua here in O is mirrored for the following aliqua in B below -->
-            <rdg wit="#O">qua</rdg> <!-- This must be an error for aliqua -->
+            <rdg wit="#O">qua</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           <app>
@@ -715,10 +699,11 @@
           </app>
           acquisita
           <app>
-            <rdg wit="#O">ipsa extendit</rdg>
-            <rdg wit="#B">excedit</rdg>
+            <lem>acquisita</lem>
+            <rdg wit="#O">ipsa</rdg>
+            <rdg wit="#B" type="variation-absent"/>
           </app>
-          considerationem metaphysici
+          excedit considerationem metaphysici
           <app>
             <rdg wit="#O">sed talis non est praesentis speculationis</rdg>
             <rdg wit="#B" type="variation-absent"/>
@@ -744,24 +729,23 @@
             <rdg wit="#O">metaphysicus</rdg>
             <rdg wit="#B">metaphysica</rdg>
           </app>
-          non recognoscit a materia scientiam superiorem physica etiam inter
-          partes physicae essentiales quem ad modum abstractionis non
-          recognoscit a
+          non recognoscit aliquam scientiam superiorem physica etiam inter
+          partes philosophiae essentiales quantum ad modum abstractionis non
+          recognoscit aliquam
           <app>
-            <!-- B better -->
-            <rdg wit="#O">materiae artificem</rdg>
-            <rdg wit="#B">materia scientiam</rdg>
+            <rdg wit="#O">artificem</rdg>
+            <rdg wit="#B">scientiam</rdg>
           </app>
+          inferiorem
           <app>
             <!-- B better -->
-            <rdg wit="#O"><unclear>licet</unclear> superiorem</rdg>
+            <rdg wit="#O">licet superiorem</rdg>
             <rdg wit="#B">sed superiorem recognoscentem recognoscit</rdg>
           </app>
           <app>
             <rdg wit="#O">sed</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          <!-- In this sentence they are equal -->
           <app>
             <rdg wit="#O">mathematicus</rdg>
             <rdg wit="#B">mathematica</rdg>
@@ -780,7 +764,7 @@
             <rdg wit="#O">aliquis est qui</rdg>
             <rdg wit="#B">aliqua est quae magis abstrahit et aliqua quae</rdg>
           </app>
-          magis concrevit unde ut dictum est consideratio
+          magis concernit unde ut dictum est consideratio
           <app>
             <rdg wit="#O">physici</rdg>
             <rdg wit="#B">physica</rdg>
@@ -819,12 +803,13 @@
             <rdg wit="#O">et <cb ed="#O" n="b"/> corruptione</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          quartum gradum tenet liber meteorum quintum
+          quartum gradum tenet liber meteororum quintum
           <app>
             <rdg wit="#O" type="variation-absent"/>
             <rdg wit="#B">gradum tenet</rdg>
           </app>
-          liber de <unclear>mineris/mineralibus</unclear> sextum
+          liber de <unclear>mineris</unclear> sextum <!-- Check that mineris is
+          not a variant spelling -->
           <app>
             <rdg wit="#O" type="variation-absent"/>
             <rdg wit="#B">gradum tenet</rdg>
@@ -832,7 +817,7 @@
           liber de anima
           <app>
             <!-- B better -->
-            <rdg wit="#O">unde primo est iste liber</rdg>
+            <rdg wit="#O">unde primus est iste liber</rdg>
             <rdg wit="#B">qui prior est</rdg>
           </app>
           dignitate
@@ -860,13 +845,9 @@
             <rdg wit="#O">in primis</rdg>
             <rdg wit="#B">primo</rdg>
           </app>
-          est ponenda
+          est ponenda.
           <app>
             <!-- B again more extensive -->
-            <rdg wit="#O">
-              <!-- Is "consideratio de anima physica" better? -->
-              quia ergo supponitur quod consideratio physica de anima est
-            </rdg>
             <rdg wit="#B">
               scilicet dignitate unde supposita communi distinctione librorum
               naturalium alibi ponita quaerantur primo quaedam communia circa
