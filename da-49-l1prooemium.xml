@@ -89,10 +89,10 @@
           ait
           <cit>
             <quote type="paraphrase">
-              usquequo oportet physicum speciem et quod quid est
+              usquequo oportet physicum speciem et quod quid
               <app xml:id="da-49-l1prooemium-app-fq918k">
-                <lem n="est"/>
-                <rdg wit="#B" type="variation-present" cause="repetition">est</rdg>
+                <lem>est</lem>
+                <rdg wit="#B" type="variation-present" cause="repetition">est est</rdg>
               </app>
               considerare
             </quote>
