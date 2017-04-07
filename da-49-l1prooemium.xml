@@ -63,10 +63,20 @@
       <div xml:id="da-49-l1prooemium">
         <p xml:id="da-49-l1prooemium-gq0450">
           <app>
-            <lem wit="#B"><quote>Bonorum honorabilium et cetera</quote></lem>
+            <lem wit="#B">
+              <cit>
+                <quote type="lemma">Bonorum honorabilium et cetera</quote>
+                <bibl>
+                  <name ref="#Aristotle">Arist.</name> <title
+                  ref="#Arist.DA">DA</title> I.1 402a1.
+                </bibl>
+              </cit>
+            </lem>
+            <rdg wit="#B">Bonorum honorabilium et cetera</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          Philosophus in secundo physicorum volens investigare
+          . <name ref="#Aristotle">Philosophus</name> in secundo <title
+          ref="Arist.Ph">Physicorum</title> volens investigare
           <app>
             <lem wit="#O">et ostendere</lem>
             <rdg wit="#B" type="variation-absent"/>
@@ -76,12 +86,20 @@
             <lem n="naturalis" />
             <rdg wit="#B" type="correction-deletion"><del rend="expunctuation">sic</del></rdg>
           </app>
-          ait usquequo oportet physicum speciem et quod quid est
-          <app xml:id="da-49-l1prooemium-app-fq918k">
-            <lem n="est"/>
-            <rdg wit="#B" type="variation-present" cause="repetition">est</rdg>
-          </app>
-          considerare id est usque ad quem terminum se extendit consideratio
+          ait
+          <cit>
+            <quote type="paraphrase">
+              usquequo oportet physicum speciem et quod quid est
+              <app xml:id="da-49-l1prooemium-app-fq918k">
+                <lem n="est"/>
+                <rdg wit="#B" type="variation-present" cause="repetition">est</rdg>
+              </app>
+              considerare
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.Ph">Ph.</title> II.2 194b10--11.</bibl>
+          </cit>
+          , id est usque ad quem terminum se extendit consideratio
           <app>
             <!-- physicus + philosophus naturalis -->
             <lem wit="#O">physica sive philosophi</lem>
@@ -110,23 +128,29 @@
             <lem n="dicens" />
             <rdg wit="#B" type="variation-present">quod</rdg>
           </app>
-          quemadmodum medicus considerat nervum et faber aes, considerat
-          <app>
-            <lem n="considerat" />
-            <rdg wit="#B" type="variation-present">ita</rdg>
-          </app>
-          physicus
-          <app>
-            <lem n="physicus" />
-            <rdg wit="#B" type="variation-present">considerat</rdg>
-          </app>
-          formam
-          <app>
-            <lem>sive</lem>
-            <rdg wit="#O">sive</rdg>
-            <rdg wit="#B">et</rdg>
-          </app>
-          speciem et quod quid est, quia non omnis consideratio nervi spectat ad
+          <cit>
+            <quote type="paraphrase">
+              quemadmodum medicus considerat nervum et faber aes, considerat
+              <app>
+                <lem n="considerat" />
+                <rdg wit="#B" type="variation-present">ita</rdg>
+              </app>
+              physicus
+              <app>
+                <lem n="physicus" />
+                <rdg wit="#B" type="variation-present">considerat</rdg>
+              </app>
+              formam
+              <app>
+                <lem>sive</lem>
+                <rdg wit="#O">sive</rdg>
+                <rdg wit="#B">et</rdg>
+              </app>
+              speciem et quod quid est
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title>Ph.</title> II.2 194b11--12.</bibl>
+          </cit>
+          , quia non omnis consideratio nervi spectat ad
           medicum, nec quicquid
           <app xml:id="da-49-l1prooemium-app-zzlzy6">
             <lem>potest considerari</lem>
@@ -298,29 +322,37 @@
             <rdg wit="#B">subicitur</rdg>
           </app>
           ,
-          <app>
-            <lem>quae</lem>
-            <rdg wit="#O">quae</rdg>
-            <rdg wit="#B">quaecumque</rdg>
-          </app>
-          <app>
-            <lem>enim</lem>
-            <rdg wit="#O">enim</rdg>
-            <rdg wit="#B">vero</rdg>
-          </app>
-          <app xml:id="da-49-l1prooemium-app-q9rimq">
-            <!-- B is better here right? -->
-            <lem>movent non</lem>
-            <rdg wit="#B">movent non</rdg>
-            <rdg wit="#O">non amplius movent</rdg>
-          </app>
-          mota non sunt physicae considerationis
-          <app>
-            <lem wit="#O">per philosophum</lem>
-            <rdg wit="#O">per philosophum</rdg>
-            <rdg wit="#B">ut dicitur in</rdg>
-          </app>
-          secundo physicorum
+          <cit>
+            <quote type="paraphrase">
+              <app>
+                <lem>quae</lem>
+                <rdg wit="#O">quae</rdg>
+                <rdg wit="#B">quaecumque</rdg>
+              </app>
+              <app>
+                <lem>enim</lem>
+                <rdg wit="#O">enim</rdg>
+                <rdg wit="#B">vero</rdg>
+              </app>
+              <app xml:id="da-49-l1prooemium-app-q9rimq">
+                <!-- B is better here right? -->
+                <lem>movent non</lem>
+                <rdg wit="#B">movent non</rdg>
+                <rdg wit="#O">non amplius movent</rdg>
+              </app>
+              mota non sunt physicae considerationis
+              <app>
+                <lem wit="#O">per <name ref="#Aristotle">Philosophum</name></lem>
+                <rdg wit="#O">per philosophum</rdg>
+                <rdg wit="#B">ut dicitur in</rdg>
+              </app>
+              secundo <title ref="#Arist.Ph">Physicorum</title>.
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Ph">Ph.</title> II.7 198a26--30.
+            </bibl>
+          </cit>
           <app>
             <!-- Should B be used here? Does it look like later addition? -->
             <lem n="physicorum"/>
@@ -449,30 +481,39 @@
             <rdg wit="#O">substantiam</rdg>
             <rdg wit="#B">suam dispositionem</rdg>
           </app>
-          <app>
-            <lem>intelligentiae</lem>
-            <rdg wit="#O">intelligentiae</rdg>
-            <rdg wit="#B">substantiae separatae</rdg>
-          </app>
-          quae sunt praeter
-          <app xml:id="da-49-l1prooemium-app-r1j1up">
-            <lem>omnem materiam</lem>
-            <rdg wit="#B">omnen materiam</rdg>
-            <rdg wit="#O" type="correction-transposition">
-              <subst>
-                <add>omnem materiam</add>
-                <del>materiam omnem</del>
-              </subst>
-            </rdg>
-          </app>
-          sensibilem et intelligibilem
-          <app>
-            <lem>per Philosophum</lem>
-            <rdg wit="#O">per Philosophum</rdg>
-            <rdg wit="#B">ut dicitur</rdg>
-          </app>
-          octavo Metaphysicae et quaedam sunt
           , cuiusmodi sunt
+          <cit>
+            <quote type="paraphrase">
+              <app>
+                <lem>intelligentiae</lem>
+                <rdg wit="#O">intelligentiae</rdg>
+                <rdg wit="#B">substantiae separatae</rdg>
+              </app>
+              quae sunt praeter
+              <app xml:id="da-49-l1prooemium-app-r1j1up">
+                <lem>omnem materiam</lem>
+                <rdg wit="#B">omnen materiam</rdg>
+                <rdg wit="#O" type="correction-transposition">
+                  <subst>
+                    <add>omnem materiam</add>
+                    <del>materiam omnem</del>
+                  </subst>
+                </rdg>
+              </app>
+              sensibilem et intelligibilem
+              <app>
+                <lem>per Philosophum</lem>
+                <rdg wit="#O">per Philosophum</rdg>
+                <rdg wit="#B">ut dicitur</rdg>
+              </app>
+              octavo Metaphysicae
+            </quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> ???.
+            </bibl>
+          </cit>
+          , et quaedam sunt
           <app xml:id="da-49-l1prooemium-app-mhz0ko">
             <!-- Should B be included here? -->
             <lem n="sunt" />
