@@ -59,7 +59,7 @@
         <pb ed="#B" n="148-r"/><cb ed="#B" n="b"/>
       </div>
     </front>
-    <body>
+    <body xml:lang="la">
       <div xml:id="da-49-l1prooemium">
         <p xml:id="da-49-l1prooemium-gq0450">
           <app>
@@ -181,7 +181,7 @@
             <lem wit="#B">et</lem>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          fabri et physici. medicus
+          fabri et physici. Medicus
           <app>
             <lem wit="#O">autem</lem>
             <rdg wit="#B">enim</rdg>
@@ -190,20 +190,20 @@
             <lem wit="#O">intendit principaliter</lem>
             <rdg wit="#B">principaliter intendit</rdg>
           </app>
-          sanitatem facere unde si de nervo
+          sanitatem facere. Unde si de nervo
           <app>
             <!-- Potentialis ikke påkrævet her. -->
             <lem wit="#O">considerat</lem>
             <rdg wit="#O">considerat</rdg>
             <rdg wit="#B">consideret</rdg>
           </app>
-          hoc est ut in eo
+          , hoc est ut in eo
           <app>
             <lem wit="#O">fiat</lem>
             <rdg wit="#B">inducatur</rdg>
           </app>
           sanitas, et ideo quaecumque consideratio de nervo, prout deservit
-          sanitati, pertinet ad medicum. si
+          sanitati, pertinet ad medicum, si
           <app>
             <lem wit="#O">tamen</lem>
             <rdg wit="#B">autem</rdg>
@@ -219,7 +219,7 @@
             <rdg wit="#O">subterfugiet</rdg>
             <rdg wit="#B"><unclear>superfugiet</unclear></rdg>
           </app>
-          considerationem medici. similiter
+          considerationem medici. Similiter,
           <app>
             <lem wit="#O">quia faber</lem>
             <rdg wit="#O">quia faber</rdg>
@@ -232,7 +232,7 @@
             <lem n="materia"/>
             <rdg wit="#B" type="variation-present">rerum sive</rdg>
           </app>
-          instrumentorum artificialium quaecumque consideratio
+          instrumentorum artificialium, quaecumque consideratio
           <app xml:id="da-49-l1prooemium-app-7ozvel">
             <lem n="consideratio"/>
             <rdg wit="#B" type="variation-present">est</rdg>
@@ -247,7 +247,7 @@
             <lem wit="#O">fabrum</lem>
             <rdg wit="#B">eius considerationem</rdg>
           </app>
-          si
+          , si
           <app>
             <lem wit="#O">qua tamen sit</lem>
             <rdg wit="#B">autem sit aliqua</rdg>
@@ -258,12 +258,15 @@
             <rdg wit="#B">consideratio</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          transcendens
+          transcendens,
           <app>
             <lem wit="#O">declinat</lem>
             <rdg wit="#B"><unclear>transfugiet</unclear></rdg> <!-- really? -->
           </app>
-          eius considerationem. Ex
+          eius considerationem.
+        </p>
+        <p xml:id="da-49-l1prooemium-9m2epx">
+          Ex
           <app>
             <lem wit="#O">istis</lem>
             <rdg wit="#B">hiis</rdg>
@@ -280,11 +283,12 @@
               ad quae extendit consideratio naturalis seu physici
             </rdg>
           </app>
-          quicquid enim a physico
+          . Quicquid enim a physico
           <app>
             <lem wit="#O">est consideratum</lem>
             <rdg wit="#B">consideratur</rdg>
           </app>
+          ,
           <app xml:id="da-49-l1prooemium-app-7bgo6j">
             <lem wit="#O">motui et transmutationi</lem>
             <rdg wit="#B">motui</rdg>
@@ -322,7 +326,7 @@
             <lem n="physicorum"/>
             <rdg wit="#B" type="variation-present">et <unclear>etiam</unclear> in tertio eiusdem</rdg>
           </app>
-          formae
+          Formae
           <app>
             <lem wit="#O">igitur</lem>
             <rdg wit="#O">igitur</rdg>
@@ -362,20 +366,20 @@
             <rdg wit="#B">sive naturalis</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          sed forma quae quodammodo est immaterialis et quodammodo perfectio
+          , sed forma quae quodammodo est immaterialis et quodammodo perfectio
           materiae est de consideratione naturalis
           <app>
             <lem>sive physici</lem>
             <rdg wit="#B">seu physici</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          et est
+          , et est
           <app>
             <lem wit="#O">illud</lem>
             <rdg wit="#O">illud</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          ultimum in quod potest consideratio physica. talis
+          ultimum in quod potest consideratio physica. Talis
           <app>
             <lem wit="#O">autem</lem>
             <rdg wit="#O">autem</rdg>
@@ -385,7 +389,7 @@
             <lem n="autem"/>
             <rdg wit="#O" type="correction-deletion"><del>est</del></rdg>
           </app>
-          forma est anima humana et ideo
+          forma est anima humana, et ideo
           <app>
             <lem>ipsa</lem>
             <rdg wit="#O">ipsa</rdg>
@@ -409,13 +413,13 @@
             <rdg wit="#O">physicae</rdg>
             <rdg wit="#B">naturalis</rdg>
           </app>
-          unde distingvere
+          . Unde distingvere
           <app xml:id="da-49-l1prooemium-app-92wx9v">
             <lem>possumus</lem>
             <rdg wit="#O" type="correction-addition"><add place="above-line">possumus</add></rdg>
             <rdg wit="#B">possumus</rdg>
           </app>
-          quod tres sunt gradus formarum quaedam
+          quod tres sunt gradus formarum, quaedam
           <app>
             <lem>enim</lem>
             <rdg wit="#O">enim</rdg>
@@ -439,13 +443,12 @@
             <rdg wit="#O">dispositionem</rdg>
             <rdg wit="#B">suam substantiam</rdg>
           </app>
-          et secundum
+          , et secundum
           <app>
             <lem>substantiam</lem>
             <rdg wit="#O">substantiam</rdg>
             <rdg wit="#B">suam dispositionem</rdg>
           </app>
-          cuiusmodi sunt
           <app>
             <lem>intelligentiae</lem>
             <rdg wit="#O">intelligentiae</rdg>
@@ -469,12 +472,13 @@
             <rdg wit="#B">ut dicitur</rdg>
           </app>
           octavo Metaphysicae et quaedam sunt
+          , cuiusmodi sunt
           <app xml:id="da-49-l1prooemium-app-mhz0ko">
             <!-- Should B be included here? -->
             <lem n="sunt" />
             <rdg wit="#B" type="variation-present">formae</rdg>
           </app>
-          penitus materiales et secundum substantiam et secundum dispositionem
+          penitus materiales, et secundum substantiam et secundum dispositionem,
           quia
           <!-- Here O maintains the order or substance and disposition, B varying -->
           <app>
@@ -493,7 +497,7 @@
             <rdg wit="#O">de materia</rdg>
             <rdg wit="#B">a potentiis materiae</rdg>
           </app>
-          sunt eductae
+          sunt eductae,
           <!-- O prefers cuiusmodi where B prefers ut -->
           <app>
             <lem>cuiusmodi sunt</lem>
@@ -506,6 +510,7 @@
             <rdg wit="#O">inferiorum</rdg>
             <rdg wit="#B">sensibilium <unclear>inferiorum</unclear></rdg>
           </app>
+          ,
           <app>
             <lem>sed</lem>
             <rdg wit="#O">sed</rdg>
@@ -538,21 +543,21 @@
             <rdg wit="#O">sunt</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          materiales
+          , materiales
           <app>
             <lem>cuiusmodi sunt</lem>
             <rdg wit="#O">cuiusmodi sunt</rdg>
             <rdg wit="#B">ut</rdg>
           </app>
-          animae humanae unde primae formae sunt praeter considerationem
-          physicam sed a secundis formis incipit consideratio physica et
+          animae humanae. Unde primae formae sunt praeter considerationem
+          physicam, sed a secundis formis incipit consideratio physica et
           terminatur ad
           <app>
             <lem>tertiam</lem>
             <rdg wit="#O">tertiam</rdg>
             <rdg wit="#B">formas ultimo dictas</rdg>
           </app>
-          incipit enim
+          , incipit enim
           <app>
             <lem>consideratio physici</lem>
             <rdg wit="#O">consideratio physici</rdg>
@@ -566,7 +571,10 @@
             <rdg wit="#O">inferioribus</rdg>
             <rdg wit="#B">ultimis</rdg>
           </app>
-          et terminatur ad animam humanam ex
+          et terminatur ad animam humanam.
+        </p>
+        <p xml:id="da-49-l1prooemium-0ctxbn">
+          Ex
           <app>
             <lem>istis</lem>
             <rdg wit="#O">istis</rdg>
@@ -594,8 +602,8 @@
             <rdg wit="#O">liber iste</rdg>
             <rdg wit="#B" type="variation-inversion">iste liber</rdg>
           </app>
-          inter libros naturales quia modus physicus et modus metaphysicus
-          quodammodo sunt oppositi modus enim physicus habet statum in supremo
+          inter libros naturales quia, modus physicus et modus metaphysicus
+          quodammodo sunt oppositi. Modus enim physicus habet statum in supremo
           sed non
           <app>
             <lem n="non" />
@@ -607,7 +615,7 @@
             <rdg wit="#O">qui status est supremus</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          quia aliqua sunt ita abstracta quod excedunt considerationem physicam
+          quia aliqua sunt ita abstracta quod excedunt considerationem physicam,
           et aliqua sunt ita abstracta quod
           <app>
             <lem>ultra</lem>
@@ -620,13 +628,13 @@
             <rdg wit="#O">se extendit consideratio physica</rdg>
             <rdg wit="#B">considerat</rdg>
           </app>
-          sed quantum ad modum concretionis
+          , sed quantum ad modum concretionis,
           <app xml:id="da-49-l1prooemium-app-wxttz1">
             <lem>qui est modus infimus</lem>
             <rdg wit="#O">qui est modus infimus</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          non habet physicus statum non enim est aliqua forma ita
+          , non habet physicus statum, non enim est aliqua forma ita
           <app xml:id="da-49-l1prooemium-app-aolzt4">
             <lem wit="#O">
               materiae concreta quod subterfugiat considerationem physici
@@ -636,7 +644,7 @@
             </rdg>
             <rdg wit="#B">concreta <unclear>quae</unclear> superfugiat naturalis</rdg>
           </app>
-          immo quanto
+          . Immo quanto
           <app xml:id="da-49-l1prooemium-app-8u3yd2">
             <!-- Retaining subject and verb here like in the following parallel
                  phrase with quanto ... tanto -->
@@ -661,32 +669,32 @@
             <rdg wit="#O">cadit sub eius consideratione</rdg>
             <rdg wit="#B">sub eius consideratione cadit</rdg>
           </app>
-          et hoc est intelligendum supposita
+          , et hoc est intelligendum supposita
           <app>
             <!-- For now we will keep B's addition out -->
             <lem n="supposita"/>
             <rdg wit="#B" type="variation-present">universalitate seu</rdg>
           </app>
-          abstractione a singularibus si enim ad individua et numero singularia
+          abstractione a singularibus, si enim ad individua et numero singularia
           <app>
             <!-- B prefers indicative vs. O's subj. -->
             <lem>velimus considerare</lem>
             <rdg wit="#O">velimus considerare</rdg>
             <rdg wit="#B">consideramus</rdg>
           </app>
-          hoc
+          , hoc
           <app>
             <lem>praetergreditur</lem>
             <rdg wit="#O">praetergreditur</rdg>
             <rdg wit="#B">extendit</rdg>
           </app>
-          considerationem physicam sed modus metaphysicus
+          considerationem physicam, sed modus metaphysicus
           <app>
             <lem>se habet</lem>
             <rdg wit="#O">se habet</rdg>
             <rdg wit="#B">est</rdg>
           </app>
-          econtrario
+          econtrario,
           <app>
             <lem>quia statum</lem>
             <rdg wit="#O">quia statum</rdg>
@@ -721,7 +729,7 @@
             <rdg wit="#O">pertineat</rdg>
             <rdg wit="#B">pertinet</rdg>
           </app>
-          ad metaphysicum sed non est aliqua forma ita abstracta
+          ad metaphysicum, sed non est aliqua forma ita abstracta
           <app xml:id="da-49-l1prooemium-app-qvql9i">
             <lem>quod excedat</lem>
             <rdg wit="#O">quod excedat</rdg>
@@ -733,23 +741,24 @@
             <rdg wit="#O">metaphysicam, metaphysica enim</rdg>
             <rdg wit="#B">quia</rdg>
           </app>
-          est circa causas altissimas unde quanto consideratio est magis
-          abstractorum tanto magis
+          est circa causas altissimas. Unde quanto consideratio est magis
+          abstractorum, tanto magis
           <app xml:id="da-49-l1prooemium-app-fu9euc">
             <lem>metaphysicalis est</lem>
             <rdg wit="#O">metaphysicalis est</rdg>
             <rdg wit="#B">est metaphysica</rdg>
           </app>
+          .
           <app>
             <lem n="est"/>
             <rdg wit="#B" type="variation-present">et</rdg>
           </app>
-          hoc est intelligendum
+          Hoc est intelligendum
           <app xml:id="da-49-l1prooemium-app-si7duy">
             <lem n="intelligendum"/>
             <rdg wit="#B" type="variation-present">est</rdg>
           </app>
-          de consideratione per artem humanam inventa si
+          de consideratione per artem humanam inventa, si
           <app>
             <lem>qua</lem>
             <rdg wit="#O">qua</rdg>
@@ -777,37 +786,40 @@
             <rdg wit="#O">inspirationem</rdg>
             <rdg wit="#B">aspirationem</rdg>
           </app>
-          acquisita
+          acquisita,
           <app>
             <lem>ipsa</lem>
             <rdg wit="#O">ipsa</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          excedit considerationem metaphysici
+          excedit considerationem metaphysici,
           <app>
             <lem>sed talis non est praesentis speculationis</lem>
             <rdg wit="#O">sed talis non est praesentis speculationis</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          sic
+          .
+        </p>
+        <p xml:id="da-49-l1proomeium-6au974">
+          Sic
           <app>
             <lem>igitur</lem>
             <rdg wit="#O">igitur</rdg>
             <rdg wit="#B">ergo</rdg>
           </app>
-          intelligenda sunt quae dicta sunt quod cum tres sint partes
+          intelligenda sunt quae dicta sunt, quod cum tres sint partes
           <app>
             <lem>essentiales philosophiae</lem>
             <rdg wit="#O">essentiales philosophiae</rdg>
             <rdg wit="#B" type="variation-inversion">philosophiae essentiales</rdg>
           </app>
-          scilicet naturalis, mathematica et divina inter
+          (scilicet naturalis, mathematica et divina) inter
           <app>
             <lem>artes vel</lem>
             <rdg wit="#O">artes vel</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          scientias per artem humanam inventas
+          scientias per artem humanam inventas,
           <app>
             <!-- On this O prefers personal, B abstract. Both work. Personal
                  maybe more in line with previous discussion of physicus -->
@@ -815,7 +827,7 @@
             <rdg wit="#O">metaphysicus</rdg>
             <rdg wit="#B">metaphysica</rdg>
           </app>
-          non recognoscit aliquam scientiam superiorem physica etiam inter
+          non recognoscit aliquam scientiam superiorem, physica etiam inter
           partes philosophiae essentiales quantum ad modum abstractionis non
           recognoscit aliquam
           <app>
@@ -823,12 +835,13 @@
             <rdg wit="#O">artificem</rdg>
             <rdg wit="#B">scientiam</rdg>
           </app>
-          inferiorem
+          inferiorem --
           <app>
             <lem>licet superiorem</lem>
             <rdg wit="#O">licet superiorem</rdg>
             <rdg wit="#B">sed superiorem recognoscentem recognoscit</rdg>
           </app>
+          ,
           <app>
             <lem>sed</lem>
             <rdg wit="#O">sed</rdg>
@@ -842,22 +855,22 @@
           recognoscit et
           <app>
             <lem>
-              artificem superiorem quia aliquis est qui magis abstrahit
+              artificem superiorem, quia aliquis est qui magis abstrahit
             </lem>
             <rdg wit="#O">
-              artificem superiorem quia aliquis est qui magis abstrahit
+              artificem superiorem, quia aliquis est qui magis abstrahit
             </rdg>
             <rdg wit="#B">
               superiorem
             </rdg>
           </app>
-          et inferiorem quia
+          , et inferiorem, quia
           <app>
             <lem>aliquis est qui</lem>
             <rdg wit="#O">aliquis est qui</rdg>
             <rdg wit="#B">aliqua est quae magis abstrahit et aliqua quae</rdg>
           </app>
-          magis concernit unde ut dictum est consideratio
+          magis concernit. Unde, ut dictum est, consideratio
           <app>
             <lem>physici</lem>
             <rdg wit="#O">physici</rdg>
@@ -869,13 +882,13 @@
             <rdg wit="#O">humanam et</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          ex hoc patet quod liber de anima
+          , ex hoc patet quod liber de anima
           <app>
             <lem>sextum gradum tenet</lem>
             <rdg wit="#O">sextum gradum tenet</rdg>
             <rdg wit="#B">tenet sextum gradum</rdg>
           </app>
-          inter libros naturales quia primum gradum tenet liber physicorum
+          inter libros naturales, quia primum gradum tenet liber physicorum,
           <!-- In this section, B is more explicit, but does not add anything
                that is not clear from the text. I don't know if I should include
                it. -->
@@ -888,7 +901,7 @@
             <lem n="secundum"/>
             <rdg wit="#B" type="variation-present">tenet</rdg>
           </app>
-          liber de caelo et mundo tertium
+          liber de caelo et mundo, tertium
           <app>
             <lem n="tertium"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
@@ -904,25 +917,25 @@
             <rdg wit="#O">et <cb ed="#O" n="b"/> corruptione</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          quartum gradum tenet liber meteororum quintum
+          , quartum gradum tenet liber meteororum, quintum
           <app>
             <lem n="quintum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
-          liber de <unclear>mineris</unclear> sextum <!-- Check that mineris is
+          liber de <unclear>mineris</unclear>, sextum <!-- Check that mineris is
           not a variant spelling -->
           <app>
             <lem n="sextum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
-          liber de anima
+          liber de anima.
           <!-- Two different constructions: Separate (O) or subordinate (B) phrase -->
           <app>
-            <lem>unde primus est iste liber</lem>
-            <rdg wit="#O">unde primus est iste liber</rdg>
+            <lem>Unde primus est iste liber</lem>
+            <rdg wit="#O">Unde primus est iste liber</rdg>
             <rdg wit="#B">qui prior est</rdg>
           </app>
-          dignitate
+          dignitate,
           <app>
             <lem>licet ultimus sive</lem>
             <rdg wit="#O">licet ultimus sive</rdg>
@@ -933,7 +946,7 @@
             <lem n="sextus"/>
             <rdg wit="#B" type="variation-present">tamen</rdg>
           </app>
-          ordine doctrinae
+          ordine doctrinae,
           <app>
             <lem>et ideo</lem>
             <rdg wit="#O">et ideo</rdg>
@@ -953,7 +966,7 @@
             <rdg wit="#O">in primis</rdg>
             <rdg wit="#B">primo</rdg>
           </app>
-          est ponenda.
+          est ponenda
           <app xml:id="da-49-l1prooemium-app-s7qv1i">
             <lem n="ponenda"/>
             <rdg wit="#B">scilicet dignitate</rdg>
