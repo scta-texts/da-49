@@ -213,7 +213,7 @@
           </app>
           <app>
             <lem wit="#O">intendit principaliter</lem>
-            <rdg wit="#B">principaliter intendit</rdg>
+            <rdg wit="#B" type="variation-inversion">principaliter intendit</rdg>
           </app>
           sanitatem facere. Unde si de nervo
           <app>
@@ -348,7 +348,6 @@
               mota non sunt physicae considerationis
               <app>
                 <lem wit="#O">per <name ref="#Aristotle">Philosophum</name></lem>
-                <rdg wit="#O">per philosophum</rdg>
                 <rdg wit="#B">ut dicitur in</rdg>
               </app>
               secundo <title ref="#Arist.Ph">Physicorum</title>.
@@ -411,7 +410,7 @@
           , sed forma quae quodammodo est immaterialis et quodammodo perfectio
           materiae est de consideratione naturalis
           <app>
-            <lem>sive physici</lem>
+            <lem>seu physici</lem>
             <rdg wit="#B">seu physici</rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
@@ -458,8 +457,8 @@
           . Unde distingvere
           <app xml:id="da-49-l1prooemium-app-92wx9v">
             <lem>possumus</lem>
-            <rdg wit="#O" type="correction-addition"><add place="above-line">possumus</add></rdg>
             <rdg wit="#B">possumus</rdg>
+            <rdg wit="#O" type="correction-addition"><add place="above-line">possumus</add></rdg>
           </app>
           quod tres sunt gradus formarum, quaedam
           <app>
@@ -502,7 +501,7 @@
               quae sunt praeter
               <app xml:id="da-49-l1prooemium-app-r1j1up">
                 <lem>omnem materiam</lem>
-                <rdg wit="#B">omnen materiam</rdg>
+                <rdg wit="#B">omnem materiam</rdg>
                 <rdg wit="#O" type="correction-transposition">
                   <subst>
                     <add>omnem materiam</add>
@@ -542,7 +541,7 @@
           <app>
             <lem>suae dispositiones</lem>
             <rdg wit="#O">suae dispositiones</rdg>
-            <rdg wit="#B">eorum essentiae et potentie</rdg>
+            <rdg wit="#B">eorum essentiae et potentiae</rdg>
           </app>
           <app>
             <lem>de materia</lem>
@@ -664,13 +663,13 @@
             <lem n="non" />
             <rdg wit="#B" type="variation-present">habet statum</rdg>
           </app>
-          in infimo, habet enim statum quantum ad modum abstractionis
+          in infimo, habet enim statum quantum ad modum abstractionis,
           <app>
             <lem>qui status est supremus</lem>
             <rdg wit="#O">qui status est supremus</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          quia aliqua sunt ita abstracta quod excedunt considerationem physicam,
+          , quia aliqua sunt ita abstracta quod excedunt considerationem physicam,
           et aliqua sunt ita abstracta quod
           <app>
             <lem>ultra</lem>
@@ -793,7 +792,9 @@
             <rdg wit="#B">pertinet</rdg>
             <note>Is O's subjunctive better? Ita ... quod as consecutive?</note>
           </app>
-          ad metaphysicum, sed non est aliqua forma ita abstracta
+          ad
+          <pb ed="#B" n="148v"/><cb ed="#B" n="a"/>
+          metaphysicum, sed non est aliqua forma ita abstracta
           <app xml:id="da-49-l1prooemium-app-qvql9i">
             <lem>quod excedat</lem>
             <rdg wit="#O">quod excedat</rdg>
@@ -942,20 +943,22 @@
           </app>
           incipit a formis infimis et terminatur ad animam
           <app>
-            <lem>humanam et</lem>
-            <rdg wit="#O">humanam et</rdg>
+            <lem>humanam, et</lem>
+            <rdg wit="#O">humanam, et</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          , ex hoc patet quod liber de anima
+          ex hoc patet quod liber de anima
           <app>
             <lem>sextum gradum tenet</lem>
             <rdg wit="#O">sextum gradum tenet</rdg>
             <rdg wit="#B">tenet sextum gradum</rdg>
           </app>
           inter libros naturales, quia primum gradum tenet liber physicorum,
-          <!-- In this section, B is more explicit, but does not add anything
-               that is not clear from the text. I don't know if I should include
-               it. -->
+          <!--
+              In this section, B is more explicit, but does not add anything
+              that is not clear from the text. I don't know if I should include
+              it.
+          -->
           <app>
             <lem n="physicorum"/>
             <rdg wit="#B" type="variation-present">qui est de naturali audito</rdg>
@@ -972,13 +975,12 @@
           </app>
           <app xml:id="da-49-l1prooemium-app-5zqpf9">
             <lem>liber</lem>
-            <rdg wit="#O" type="correction-addition"><add place="above-line">liber</add></rdg>
             <rdg wit="#B">liber</rdg>
+            <rdg wit="#O" type="correction-addition"><add place="above-line">liber</add></rdg>
           </app>
           de generatione
           <app>
-            <lem>et <cb ed="#O" n="b"/> corruptione</lem>
-            <rdg wit="#O">et <cb ed="#O" n="b"/> corruptione</rdg>
+            <lem wit="O">et <cb ed="#O" n="b"/> corruptione</lem>
             <rdg wit="#B" type="variation-absent"/>
           </app>
           , quartum gradum tenet liber meteororum, quintum
@@ -986,8 +988,12 @@
             <lem n="quintum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
-          liber de <unclear>mineris</unclear>, sextum <!-- Check that mineris is
-          not a variant spelling -->
+          liber de
+          <app>
+            <lem type="conjecture-corrected">mineralibus</lem>
+            <rdg wit="#B #O">mineris</rdg>
+          </app>
+          , sextum
           <app>
             <lem n="sextum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
