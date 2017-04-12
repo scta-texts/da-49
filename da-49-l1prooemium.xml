@@ -101,7 +101,6 @@
           </cit>
           , id est usque ad quem terminum se extendit consideratio
           <app>
-            <!-- physicus + philosophus naturalis -->
             <lem wit="#O">physica sive philosophi</lem>
             <rdg wit="#B" type="variation-absent"/>
           </app>
@@ -118,6 +117,7 @@
             <lem>respondet</lem>
             <rdg wit="#O">respondet</rdg>
             <rdg wit="#B"><unclear>respondet</unclear></rdg>
+            <note>Not sure about reading in B.</note>
           </app>
           <app>
             <lem wit="#O">ibidem</lem>
@@ -189,6 +189,7 @@
             <lem>considerant</lem>
             <rdg wit="#O">considerant</rdg>
             <rdg wit="#B">considerint</rdg> <!-- Really? -->
+            <note>Does B really read <mentioned>considerint</mentioned>?</note>
           </app>
           de praedictis; videndum est qualis
           <app xml:id="da-49-l1prooemium-app-kb3w3c">
@@ -220,6 +221,7 @@
             <lem wit="#O">considerat</lem>
             <rdg wit="#O">considerat</rdg>
             <rdg wit="#B">consideret</rdg>
+            <note>Is the subjunctive required here (as in B)?</note>
           </app>
           , hoc est ut in eo
           <app>
@@ -242,6 +244,7 @@
             <lem wit="#O">subterfugiet</lem>
             <rdg wit="#O">subterfugiet</rdg>
             <rdg wit="#B"><unclear>superfugiet</unclear></rdg>
+            <note>B unclear: superfugiet?</note>
           </app>
           considerationem medici. Similiter,
           <app>
@@ -250,6 +253,7 @@
             <rdg wit="#B">
               <unclear>q..</unclear> faber <add place="above-line">quia</add>
             </rdg>
+            <note>B: What is going on here?</note>
           </app>
           considerat de materia
           <app>
@@ -286,6 +290,7 @@
           <app>
             <lem wit="#O">declinat</lem>
             <rdg wit="#B"><unclear>transfugiet</unclear></rdg> <!-- really? -->
+            <note>Does B really read <mentioned>transfugiet</mentioned>?</note>
           </app>
           eius considerationem.
         </p>
@@ -335,10 +340,10 @@
                 <rdg wit="#B">vero</rdg>
               </app>
               <app xml:id="da-49-l1prooemium-app-q9rimq">
-                <!-- B is better here right? -->
                 <lem>movent non</lem>
                 <rdg wit="#B">movent non</rdg>
                 <rdg wit="#O">non amplius movent</rdg>
+                <note>B is better here right?</note>
               </app>
               mota non sunt physicae considerationis
               <app>
@@ -356,7 +361,12 @@
           <app>
             <!-- Should B be used here? Does it look like later addition? -->
             <lem n="physicorum"/>
-            <rdg wit="#B" type="variation-present">et <unclear>etiam</unclear> in tertio eiusdem</rdg>
+            <rdg wit="#B" type="variation-present">et <unclear>etiam</unclear>
+            in tertio eiusdem</rdg>
+            <note>
+              B adds an extra reference. How do I evaluated that? Could it be a
+              later addition?
+            </note>
           </app>
           Formae
           <app>
@@ -518,6 +528,7 @@
             <!-- Should B be included here? -->
             <lem n="sunt" />
             <rdg wit="#B" type="variation-present">formae</rdg>
+            <note>Should B's <mentioned>formae</mentioned> be included?</note>
           </app>
           penitus materiales, et secundum substantiam et secundum dispositionem,
           quia
@@ -611,6 +622,8 @@
             <lem>inferioribus</lem>
             <rdg wit="#O">inferioribus</rdg>
             <rdg wit="#B">ultimis</rdg>
+            <note>O seems better here. B's <mentioned>ultimis</mentioned> sounds
+            like a reference to higher, immaterial, forms?</note>
           </app>
           et terminatur ad animam humanam.
         </p>
@@ -637,6 +650,7 @@
             <lem>habeat</lem>
             <rdg wit="#O">habeat</rdg>
             <rdg wit="#B">tenet</rdg>
+            <note>Subjunctive prefereable right?</note>
           </app>
           <app>
             <lem>liber iste</lem>
@@ -683,7 +697,10 @@
             <rdg wit="#O">
               materiae concreta quod subterfugiat considerationem physici
             </rdg>
-            <rdg wit="#B">concreta <unclear>quae</unclear> superfugiat naturalis</rdg>
+            <rdg wit="#B">
+              concreta <unclear>quae</unclear> superfugiat naturalis
+            </rdg>
+            <note>I'm in doubt about what B reads here.</note>
           </app>
           . Immo quanto
           <app xml:id="da-49-l1prooemium-app-8u3yd2">
@@ -752,12 +769,17 @@
                 <add>non habent</add>
               </subst>
             </rdg>
+            <note>
+              What does it say in B? Does it look like correction from
+              <mentioned>aliud habeunt</mentioned> to <mentioned>non
+              habent</mentioned>???
+            </note>
           </app>
           <app>
             <lem n="non"/>
             <rdg wit="#B" type="variation-present">statum</rdg>
           </app>
-          in supremo quia aliqua forma est ita materiae concreta quod
+          in supremo, quia aliqua forma est ita materiae concreta quod
           <app>
             <lem>eius consideratio</lem>
             <rdg wit="#O">eius consideratio</rdg>
@@ -769,6 +791,7 @@
             <lem>pertineat</lem>
             <rdg wit="#O">pertineat</rdg>
             <rdg wit="#B">pertinet</rdg>
+            <note>Is O's subjunctive better? Ita ... quod as consecutive?</note>
           </app>
           ad metaphysicum, sed non est aliqua forma ita abstracta
           <app xml:id="da-49-l1prooemium-app-qvql9i">
