@@ -346,11 +346,13 @@
                 <note>B is better here right?</note>
               </app>
               mota non sunt physicae considerationis
-              <app>
-                <lem wit="#O">per <name ref="#Aristotle">Philosophum</name></lem>
-                <rdg wit="#B">ut dicitur in</rdg>
-              </app>
-              secundo <title ref="#Arist.Ph">Physicorum</title>.
+              <ref>
+                <app>
+                  <lem wit="#O">per <name ref="#Aristotle">Philosophum</name></lem>
+                  <rdg wit="#B">ut dicitur in</rdg>
+                </app>
+                secundo <title ref="#Arist.Ph">Physicorum</title>.
+              </ref>
             </quote>
             <bibl>
               <name ref="#Aristotle">Arist.</name> <title
