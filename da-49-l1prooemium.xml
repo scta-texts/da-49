@@ -88,13 +88,13 @@
           </app>
           ait
           <cit>
-            <quote type="paraphrase">
+            <quote>
               usquequo oportet physicum speciem et quod quid
               <app xml:id="da-49-l1prooemium-app-fq918k">
                 <lem>est</lem>
                 <rdg wit="#B" type="variation-present" cause="repetition">est est</rdg>
               </app>
-              considerare
+              considerare?
             </quote>
             <bibl><name ref="#Aristotle">Arist.</name> <title
             ref="#Arist.Ph">Ph.</title> II.2 194b10--11.</bibl>
