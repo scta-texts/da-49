@@ -191,7 +191,10 @@
             <rdg wit="#B">considerint</rdg> <!-- Really? -->
             <note>Does B really read <mentioned>considerint</mentioned>?</note>
           </app>
-          de praedictis; videndum est qualis
+          de praedictis.
+        </p>
+        <p xml:id="da-49-l1prooemium-x40gxa">
+          Videndum est qualis
           <app xml:id="da-49-l1prooemium-app-kb3w3c">
             <lem wit="#O">sit</lem>
             <rdg wit="#B" type="correction-substitution">
@@ -292,10 +295,7 @@
             <rdg wit="#B"><unclear>transfugiet</unclear></rdg> <!-- really? -->
             <note>Does B really read <mentioned>transfugiet</mentioned>?</note>
           </app>
-          eius considerationem.
-        </p>
-        <p xml:id="da-49-l1prooemium-9m2epx">
-          Ex
+          eius considerationem. Ex
           <app>
             <lem wit="#O">istis</lem>
             <rdg wit="#B">hiis</rdg>
@@ -454,7 +454,10 @@
             <rdg wit="#O">physicae</rdg>
             <rdg wit="#B">naturalis</rdg>
           </app>
-          . Unde distingvere
+          .
+        </p>
+        <p xml:id="da-49-prooemium-wmz6z4">
+          Unde distingvere
           <app xml:id="da-49-l1prooemium-app-92wx9v">
             <lem>possumus</lem>
             <rdg wit="#B">possumus</rdg>
@@ -472,7 +475,7 @@
             <rdg wit="#O">omnino</rdg>
             <rdg wit="#B">penitus</rdg>
           </app>
-          immateriales et secundum
+          immateriales, et secundum
           <!--
               That B mirrors the order below (penitus materialies ...), does
               that testify to it's quality? Is he generally symmetrical in his
@@ -484,7 +487,7 @@
             <rdg wit="#O">dispositionem</rdg>
             <rdg wit="#B">suam substantiam</rdg>
           </app>
-          , et secundum
+          et secundum
           <app>
             <lem>substantiam</lem>
             <rdg wit="#O">substantiam</rdg>
@@ -522,7 +525,7 @@
               ref="#Arist.Metaph">Metaph.</title> ???.
             </bibl>
           </cit>
-          , et quaedam sunt
+          ; et quaedam sunt
           <app xml:id="da-49-l1prooemium-app-mhz0ko">
             <!-- Should B be included here? -->
             <lem n="sunt" />
@@ -561,7 +564,7 @@
             <rdg wit="#O">inferiorum</rdg>
             <rdg wit="#B">sensibilium <unclear>inferiorum</unclear></rdg>
           </app>
-          ,
+          ;
           <app>
             <lem>sed</lem>
             <rdg wit="#O">sed</rdg>
@@ -572,7 +575,7 @@
             <lem n="quaedam" />
             <rdg wit="#B" type="variation-present">vero</rdg>
           </app>
-          sunt formae medio modo se habentes quae secundum
+          sunt formae medio modo se habentes, quae secundum
           <app>
             <lem n="secundum" />
             <rdg wit="#B" type="variation-present">suam</rdg>
@@ -594,7 +597,7 @@
             <rdg wit="#O">sunt</rdg>
             <rdg wit="#B" type="variation-absent"/>
           </app>
-          , materiales
+          materiales,
           <app>
             <lem>cuiusmodi sunt</lem>
             <rdg wit="#O">cuiusmodi sunt</rdg>
@@ -745,7 +748,7 @@
             <rdg wit="#O">praetergreditur</rdg>
             <rdg wit="#B">extendit</rdg>
           </app>
-          considerationem physicam, sed modus metaphysicus
+          considerationem physicam. Sed modus metaphysicus
           <app>
             <lem>se habet</lem>
             <rdg wit="#O">se habet</rdg>
