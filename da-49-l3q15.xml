@@ -15,7 +15,6 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Michael</publisher>
         <availability status="free">
           <p>Published under a <ref
           target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
@@ -31,6 +30,18 @@
         </listWit>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
         <change when="2016-05-17" who="#" status="draft" n="2016.05">
