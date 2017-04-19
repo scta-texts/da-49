@@ -36,11 +36,11 @@
     </fileDesc>
     <encodingDesc>
       <schemaRef
-          n="lbp-diplomatic-1.0.0"
-          url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+          n="lbp-critical-1.0.0"
+          url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/critical.rng">
       </schemaRef>
       <editorialDecl>
-        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a critical edition</p>
         <p>The transcription has been normalized to classical orthography.</p>
       </editorialDecl>
     </encodingDesc>
