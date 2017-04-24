@@ -206,7 +206,7 @@
             <lem wit="#O">intendit principaliter</lem>
             <rdg wit="#B" type="variation-inversion">principaliter intendit</rdg>
           </app>
-          sanitatem facere. Unde si de nervo
+          sanitatem facere, unde si de nervo
           <app>
             <lem wit="#O">considerat</lem>
             <rdg wit="#O">considerat</rdg>
@@ -228,6 +228,7 @@
             <lem wit="#O">istam</lem>
             <rdg wit="#B">de nervo</rdg>
           </app>
+          ,
           <app>
             <!-- Does B really read superfugiet? -->
             <lem wit="#O">subterfugiet</lem>
@@ -504,12 +505,13 @@
                 <rdg wit="#O">per Philosophum</rdg>
                 <rdg wit="#B">ut dicitur</rdg>
               </app>
-              octavo Metaphysicae
+              octavo <title ref="#Arist.Metaph">Metaphysicae</title>
             </quote>
             <bibl>
               <name ref="#Aristotle">Arist.</name> <title
-              ref="#Arist.Metaph">Metaph.</title> ???.
+              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?)
             </bibl>
+            <note>, cf. VI.1 1026a10--18.</note>
           </cit>
           ; et quaedam sunt
           <app xml:id="da-49-l1prooemium-app-mhz0ko">
@@ -869,11 +871,11 @@
           </app>
           non recognoscit aliquam scientiam superiorem, physica etiam inter
           partes philosophiae essentiales quantum ad modum abstractionis non
-          recognoscit aliquam
+          recognoscit
           <app>
-            <lem>artificem</lem>
-            <rdg wit="#O">artificem</rdg>
-            <rdg wit="#B">scientiam</rdg>
+            <lem>aliquem artificem</lem>
+            <rdg wit="#O">aliquem artificem</rdg>
+            <rdg wit="#B">aliquam scientiam</rdg>
           </app>
           inferiorem --
           <app>
@@ -992,25 +994,34 @@
             <rdg wit="#O">et ideo</rdg>
             <rdg wit="#B">unde</rdg>
           </app>
-          Philosophus
-          <!-- B more explicit by having reference here in stead of qualifying
-               participle (the content of which is given at the ind with sc. dignitate) -->
-          <app xml:id="da-49-l1prooemium-app-i9l0a0">
-            <lem>considerans eius dignitatem</lem>
-            <rdg wit="#O">considerans eius dignitatem</rdg>
-            <rdg wit="#B">in prohemio huius primi</rdg>
-          </app>
-          dicit quod historia de anima
-          <app>
-            <lem>in primis</lem>
-            <rdg wit="#O">in primis</rdg>
-            <rdg wit="#B">primo</rdg>
-          </app>
-          est ponenda
-          <app xml:id="da-49-l1prooemium-app-s7qv1i">
-            <lem n="ponenda"/>
-            <rdg wit="#B" type="variation-present">scilicet dignitate</rdg>
-          </app>
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosophus</name>
+              <!-- B more explicit by having reference here in stead of qualifying
+                   participle (the content of which is given at the ind with sc. dignitate) -->
+              <app xml:id="da-49-l1prooemium-app-i9l0a0">
+                <lem>considerans eius dignitatem</lem>
+                <rdg wit="#O">considerans eius dignitatem</rdg>
+                <rdg wit="#B">in prohemio huius primi</rdg>
+              </app>
+              dicit
+            </ref>
+            <quote type="paraphrase">
+              quod historia de anima
+              <app>
+                <lem>in primis</lem>
+                <rdg wit="#O">in primis</rdg>
+                <rdg wit="#B">primo</rdg>
+              </app>
+              est ponenda
+              <app xml:id="da-49-l1prooemium-app-s7qv1i">
+                <lem n="ponenda"/>
+                <rdg wit="#B" type="variation-present">scilicet dignitate</rdg>
+              </app>
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.DA">DA</title> I.1 402a1--7.</bibl>
+          </cit>
           .
         </p>
       </div>

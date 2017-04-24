@@ -69,46 +69,55 @@
               ref="#Arist.DA">DA</title> I.1 402a1.
             </bibl>
           </cit>
-          . In the second book of <title ref="Arist.Ph">Physics</title> the
-          <name ref="#Aristotle">Philosopher</name> says, as he intends to
+          . In the second book of <title ref="Arist.Ph">Physics</title>, as he intends to
           investigate and present the boundaries and limits of the study of
-          physics or the natural philosopher,
+          physics or the natural philosopher, the
+          <name ref="#Aristotle">Philosopher</name> says
           <cit>
             <quote>
-              to which extent ought the natural philosopher investigate the
-              species and essence?
+              to which extent the natural philosopher ought to investigate the
+              species and essence
             </quote>
             <bibl><name ref="#Aristotle">Arist.</name> <title
             ref="#Arist.Ph">Ph.</title> II.2 194b10--11.</bibl>
           </cit>
-          , <abbr>viz.</abbr> what are the limits of the study of physics or the
+          , <abbr>viz.</abbr> what the limits are of the study of physics or the
           natural philosopher, which is concerned with species,
           <abbr>viz.</abbr> forms, which are the essences, <abbr>viz.</abbr>
-          which are relevant to the definition of the essence. He answers in the
-          same passage that in whichever way the doctor investigates nerves and
-          the metallurgist bronze, so does the natural philosopher investigate
-          the form or species and essence, as not any consideration of nerves
+          which are relevant to the definition of the essence. He answers
+          <cit>
+            <ref>
+              in the same passage
+            </ref>
+            <quote type="paraphrase">
+              that in whichever way the doctor investigates nerves and the
+              metallurgist bronze, so does the natural philosopher investigate
+              the form or species and essence,
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title>Ph.</title> II.2 194b11--12.</bibl>
+          </cit>
+          as not any consideration of nerves
           pertains to the doctor, nor does whatever thing which can be known
           about bronze pertain to the metallurgist, and similarly is not every
           consideration of forms pertinent to the natural philosopher. We must
-          therefore consider how the mentioned artificers investigate the
+          therefore consider how these artificers investigate the
           mentioned subjects.
         </p>
         <p xml:id="translation-da-49-prooemium-1zdal1">
-          We must consider what the different subject matters of the doctor, the
+          Let us consider what the different subject matters of the doctor, the
           metallurgist and the natural philosopher are. A doctor primarily seeks
-          to produce good health. Then, when he investigates nerves, it aims at
-          the production of good health, therefore whichever consideration of
+          to produce good health, so when he investigates nerves, it aims at the
+          production of good health, therefore whichever consideration of
           nerves, insofar as it strives for good health, pertains to the doctor,
           but if there is some other consideration that goes beyond this, it
           supersedes the doctor's investigation. Similarly, as the metallurgist
           focuses on the matter of artificial instruments, whichever
           investigation of bronze, insofar as it is the matter of artificial
           instruments, pertains to the metallurgist, but if there is some
-          consideration that goes beyond this, it shuns his consideration. From
+          consideration that goes beyond this, it evades his consideration. From
           this it is apparent what the object of the natural philosopher's
-          knowledge and to which limit it extends. For whatever is considered by
-          a natural philosopher is characterized by movement and change,
+          knowledge is and to which limit it extends. For whatever is considered
+          by a natural philosopher is characterized by movement and change,
           <cit>
             <quote type="paraphrase">
               for the things which move but are not moved do not fall within the
@@ -126,27 +135,38 @@
           . Hence entirely immaterial forms which are not bound to the motion of
           matter and change of subjects, evade the subject matter of the
           physicist or natural philosopher. But forms which in one way are
-          immaterial and in another way are the perfection of matter do fall
+          immaterial and in another way are the actuality of matter do fall
           within the subject matter of the natural philosopher or physicist, and
-          that is the limit to which the physical consideration extends.
+          that is the limit to which the physical consideration extends. But the
+          human soul is that sort of form, and hence it is the limit and end of
+          physical investigation.
         </p>
         <p xml:id="translation-da-49-prooemium-jon4qo">
           And from this we can establish that there are three types of forms.
           For some are entirely immaterial, both with respect to their
-          disposition and substance, of which type the intelligences which exist
-          without any sensible or intelligible matter according to the <name
-          ref="#Aristotle">Philosopher</name> in book eight of <title
-          ref="#Arist.Metaph">Metaphysics</title>; and some are entirely
-          material, both with respect to their substance and disposition, since
-          their substances and dispositions are realized from matter, of which
-          type the forms of the lower beings are; but some are forms of a medial
-          character which are immaterial with respect to their substance and
-          material with respect to their disposition, of which type the human
-          souls are. Hence the first forms are beyond the subject matter of the
-          natural philosopher, but the physical investigation begins with the
-          second forms and terminate with the third, for the subject matter of the
-          natural philosopher begins with the inferior forms and terminates with
-          the human soul.
+          disposition and substance, and the intelligences, which exist without
+          any sensible or intelligible matter
+          <cit>
+            <ref>
+              according to the <name ref="#Aristotle">Philosopher</name> in book
+              eight of <title ref="#Arist.Metaph">Metaphysics</title>,
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?)
+            </bibl>
+          </cit>
+          are of this sort; and some
+          are entirely material, both with respect to their substance and
+          disposition, since their substances and dispositions are realized from
+          matter, and the forms of the lower beings are of this sort; but some are
+          forms of a medial character which are immaterial with respect to their
+          substance and material with respect to their disposition, and the
+          human souls are of this sort. Hence the first forms are beyond the subject
+          matter of the natural philosopher, but the physical investigation
+          begins with the second forms and terminate with the third, for the
+          subject matter of the natural philosopher begins with the inferior
+          forms and stops with the human soul.
         </p>
         <p xml:id="translation-da-49-prooemium-arr3uu">
           From this it is further apparent which rank this book holds among the
@@ -179,17 +199,17 @@
           present reflections are not of that sort.
         </p>
         <p xml:id="translation-da-49-prooemium-gurt68">
-          Hence in this way we should understand what has been said, that when
-          there are three essential parts of philosophy (namely natural
+          Hence let us understand what has been said in the following way, that
+          when there are three essential parts of philosophy (namely natural
           philosophy, mathematics, and divine science) among the arts or
           sciences invented through human inquisition, the metaphysician does
           not recognize any other higher science, but in terms of the level of
           abstraction natural philosophy does not recognize any other lower
-          science within the essential parts of philosophy, although there is a
+          practitioner within the essential parts of philosophy, although there is a
           higher one, but the mathematician recognizes both a higher practice,
           since there is a more abstract one, and a lower, since there is one
           more concrete. Hence, as it has been said, the natural philosopher's
-          subject matter takes its beginning with the lower forms and terminate
+          subject matter takes its beginning with the lower forms and ends
           with the human soul, and from this it is apparent that <title
           ref="#Arist.DA">On the soul</title> holds the sixth place within the
           books on natural philosophy, for <title
@@ -200,10 +220,19 @@
           ref="#Ps-Arist.Min">On minerals</title> the fifth, and <title
           ref="#Arist.DA">On the soul</title> the sixth. It is therefore the
           first in order of dignity, although it is the final or sixth in the
-          doctrinal order, and hence the <name
-          ref="#Aristotle">Philosopher</name> says, with a view to its dignity,
-          that the description of the soul should be ranked among the first
-          sciences.
+          doctrinal order, and hence the
+          <cit>
+            <ref>
+              <name
+                  ref="#Aristotle">Philosopher</name> says, with a view to its dignity,
+            </ref>
+            <quote type="paraphrase">
+              that the description of the soul should be ranked among the first
+              sciences.
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.DA">DA</title> I.1 402a1--7.</bibl>
+          </cit>
         </p>
       </div>
     </body>
