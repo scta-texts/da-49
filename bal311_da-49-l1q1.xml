@@ -51,28 +51,29 @@
       </div>
     </front>
     <body>
-      <div xml:id="itemdid">
+      <div xml:id="bal311_da-49-l1q1">
         <head><suppplied>Quaestio 1</suppplied></head>
         <add place="marginLeft">Questio</add>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-sdfl1o">
           Queratur
           <lb ed="#B"/>nunc primo utrum de anima possit nobis adquiri sciencia. Videtur quod non.
         </p>
-        <p><add place="marginLeft">Argumentum</add>
+        <p xml:id="bal311_da-49-l1q1-sf02lg">
+          <note place="marginLeft">Argumentum</note>
           Illud
           <lb ed="#B"/>de quo est sciencia est intelligibile, quia cum sciencia sit habitus intellectus
           <lb ed="#B"/>de quo est sciencia, oportet esse intelligibile; sed anima non est intelligibile,
           <lb ed="#B"/>quia omnis nostra cognicio ortum habet a sensu, quia nihil intelligimus sine
           <lb ed="#B"/>fantasmate, sed anima sub sensu non cadit, nec fantasma facit. Ergo et cetera.
         </p>
-        <p>
-          <add place="marginLeft">Argumentum</add>
+        <p xml:id="bal311_da-49-l1q1-slfoq3">
+          <note place="marginLeft">Argumentum</note>
           <lb ed="#B"/>Praeterea. Unum et idem non potest esse simul movens et motum, quia
           <lb ed="#B"/>si sic, esset idem actu et potentia respectu eiusdem, sed cognitum est movens respectu
           <lb ed="#B"/>cognocentis, ergo unum et idem non potest esse movens et motum, sed hoc
           <lb ed="#B"/>tamen contingeret si de anima cognicionem haberemus.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-saøof9">
           <add place="marginLeft">Argumentum</add>
           Praeterea.
           <lb ed="#B"/>Sicut oculus nictocoracis <choice><sic><space extent="8" unit="chars" reason="rasura" /></sic><supplied>se habet</supplied></choice> ad lumen solis,<note>Nycticorax: From Metaph. 993b9 (nycteris).</note> sic in<lb ed="#B"/>tellectus
@@ -80,17 +81,17 @@
           <lb ed="#B"/>anima humana, sed oculus nicti<del rend="punct">o</del>coracis non potest apprehendere
           <lb ed="#B"/>lumen solis, ergo et cetera.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-saøo12">
           <add place="marginLeft">Argumentum</add>
           <lb ed="#B"/>Praeterea. Nostrum intelligere est cum continuo
           <lb ed="#B"/>et tempore, sed anima, cum sit indivisibilis et perpetua nec est continua
           <lb ed="#B"/>nec temporalis, ergo et cetera.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-aæfov0">
           <add place="marginLeft">Oppositum</add>
           Oppositum patet per Philosophum.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-alæbai">
           <add place="marginLeft">Solucio</add>
           Dicendum quod
           <lb ed="#B"/>cum sciencia sit habitus adquisitus per demonstracionem et ad demonstracionem tria
@@ -101,7 +102,7 @@
           quod quid est anime pro medio, concludi potest propria passio eius de
           <lb ed="#B"/>anima, et ita de anima potest esse aliqualis sciencia.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-aoqo29">
           Praeterea. Accidencia non sunt
           <lb ed="#B"/>encia per se, sed in alio. Qui <space extent="3" unit="chars" reason="empty"  /> ergo cognoscit accidencia, manu<lb ed="#B"/>duci
           potest in cognicionem eius cuius sunt. Nunc autem multa accidencia
@@ -113,7 +114,7 @@
           <lb ed="#B"/>non per causam. Ideo Philosophus talem cognicionem tradens de anima ipsam
           <lb ed="#B"/>vocat ystoriam. Extensive tamen dici potest sciencia.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-xovow0">
           Ad primum argumentum
           <lb ed="#B"/><add place="marginLeft">Solucio primi</add> dicendum per interempcionem minoris. Ad probacionem dicendum quod aliquod cadit
           <cb n="b"/><lb ed="#B"/>in sensu dupliciter: Aut per positionem aut per privacionem. Per privacionem
@@ -124,7 +125,7 @@
           <lb ed="#B"/>alterum, ut per sui effectus. Eodem modo, licet per se fantasma non faciat,
           <lb ed="#B"/>aliquid tamen fantasma facit quod in eius cognicionem ducere potest.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-apqeo1">
           <add place="marginRight">Secundo ibi</add>
           Ad
           <lb ed="#B"/>secundum dicendum quod motus dicitur dupliciter: Uno modo est actus inperfecti, sicut dif<lb ed="#B"/>finitur
@@ -141,7 +142,7 @@
           <lb ed="#B"/>speciem potest intelligere suum actum et per actum potest reflect<lb ed="#B"/>tere
           supra suam essenciam.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-apqp19">
           <add place="marginRight">Solucio tercii</add>
           Ad tercium dicendum quod licet oculus nic<lb ed="#B"/>ticoracis
           non possit apprehendere directe lumen solis, aliquem
@@ -154,7 +155,7 @@
           <lb ed="#B"/>adequant virtutem eius quam effectus substantiarum separatarum adequant virtu<lb ed="#B"/>tem 
           earum.
         </p>
-        <p>
+        <p xml:id="bal311_da-49-l1q1-vlao14">
           <add place="marginRight">Solucio quarta</add>
           Ad aliud dicendum quod nostrum intelligere non est sine fantasmate
           <lb ed="#B"/>continuo et tempore, quia non est sine phantasmate non tamen oportet quod omne
