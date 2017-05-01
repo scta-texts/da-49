@@ -46,10 +46,8 @@
   </teiHeader>
   <text xml:lang="la" type="diplomatic">
     <front>
-      <div xml:id="includeList">
-        <!-- I might want to make my own versions of these files -->
-        <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/workscited.xml" xpointer="worksCited"></xi:include>
-        <xi:include href="/Users/michael/Documents/PhD/transcriptions/tools/lists/prosopography.xml" xpointer="prosopography"></xi:include>
+      <div type="starts-on">
+        <pb n="148-v" ed="#B"/><cb n="a"/>
       </div>
     </front>
     <body>
@@ -57,7 +55,6 @@
         <head><suppplied>Quaestio 1</suppplied></head>
         <add place="marginLeft">Questio</add>
         <p>
-          <pb n="148-v" ed="#B"/><cb n="a"/>
           Queratur
           <lb ed="#B"/>nunc primo utrum de anima possit nobis adquiri sciencia. Videtur quod non.
         </p>
