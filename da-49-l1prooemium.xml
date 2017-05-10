@@ -326,14 +326,11 @@
                 <rdg wit="#B">vero</rdg>
               </app>
               <app xml:id="da-49-l1prooemium-app-q9rimq">
-                <lem>movent non</lem>
-                <rdg wit="#B">movent non</rdg>
-                <rdg wit="#O">non amplius movent
-                <note>Aegidius uses the phrase <mentioned>non amplius mota
-                movent</mentioned> in similar passage</note>
-                </rdg>
+                <lem type="conjecture-correction">non amplius mota movent</lem>
+                <rdg wit="#O">non amplius movent mota</rdg>
+                <rdg wit="#B">movent non mota</rdg>
               </app>
-              mota non sunt physicae considerationis
+              non sunt physicae considerationis
               <ref>
                 <app>
                   <lem wit="#O">per <name ref="#Aristotle">Philosophum</name></lem>
