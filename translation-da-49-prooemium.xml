@@ -53,14 +53,9 @@
     </revisionDesc>
   </teiHeader>
   <text xml:lang="en" type="translation">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#O" n="164-r"/><cb ed="#O" n="a"/>
-        <pb ed="#B" n="148-r"/><cb ed="#B" n="b"/>
-      </div>
-    </front>
     <body>
       <div xml:id="translation-da-49-l1prooemium">
+        <head>Prologue</head>
         <p xml:id="translation-da-49-l1prooemium-gq0450">
           <cit>
             <quote type="lemma">Of good and honourable things et cetera</quote>
@@ -148,11 +143,11 @@
           <cit>
             <ref>
               according to the <name ref="#Aristotle">Philosopher</name> in
-              <title ref="#Arist.Metaph">Metaphysics</title> VIII,
+              <title ref="#Arist.Metaph">Metaphysics</title> VIII
             </ref>
             <bibl>
               <name ref="#Aristotle">Arist.</name> <title
-              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?)
+              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?).
             </bibl>
           </cit>
           . Some are entirely material, both with respect to their substance and

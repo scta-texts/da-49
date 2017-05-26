@@ -61,6 +61,9 @@
     </front>
     <body xml:lang="la">
       <div xml:id="da-49-l1prooemium">
+        <head type="meta-text">
+          <supplied ana="#meta-text">Prooemium</supplied>
+        </head>
         <p xml:id="da-49-l1prooemium-gq0450">
           <app>
             <lem wit="#B">
@@ -240,7 +243,7 @@
             <lem wit="#O">quia faber</lem>
             <rdg wit="#O">quia faber</rdg>
             <rdg wit="#B">
-              vero faber <add place="above-line">quia</add>
+              vero faber quia
             </rdg>
             <witDetail wit="#B">sed <mentioned>vero</mentioned> cum rasura 1 lit. et
             <mentioned>quia</mentioned> supra lin. scr.</witDetail>
@@ -326,7 +329,7 @@
                 <rdg wit="#B">vero</rdg>
               </app>
               <app xml:id="da-49-l1prooemium-app-q9rimq">
-                <lem type="conjecture-correction">non amplius mota movent</lem>
+                <lem type="conjecture-corrected">non amplius mota movent</lem>
                 <rdg wit="#O">non amplius movent mota</rdg>
                 <rdg wit="#B">movent non mota</rdg>
               </app>
@@ -922,7 +925,8 @@
             <rdg wit="#O">sextum gradum tenet</rdg>
             <rdg wit="#B">tenet sextum gradum</rdg>
           </app>
-          inter libros naturales, quia primum gradum tenet liber physicorum,
+          inter libros naturales, quia primum gradum tenet liber
+          <title ref="#Arist.Ph.">Physicorum</title>,
           <!--
               In this section, B is more explicit, but does not add anything
               that is not clear from the text. I don't know if I should include
@@ -937,37 +941,44 @@
             <lem n="secundum"/>
             <rdg wit="#B" type="variation-present">tenet</rdg>
           </app>
-          liber de caelo et mundo, tertium
+          liber <title ref="#Arist.Cael">De caelo et mundo</title>, tertium
           <app>
             <lem n="tertium"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
           <app xml:id="da-49-l1prooemium-app-5zqpf9">
-            <lem>liber</lem>
-            <rdg wit="#B">liber</rdg>
-            <rdg wit="#O" type="correction-addition"><add place="above-line">liber</add></rdg>
+            <lem wit="#B">liber</lem>
+            <rdg wit="#O" type="correction-addition">
+              <add place="above-line">liber</add>
+            </rdg>
           </app>
-          de generatione
-          <app>
-            <lem wit="O">et <cb ed="#O" n="b"/> corruptione</lem>
-            <rdg wit="#B" type="variation-absent"/>
-          </app>
-          , quartum gradum tenet liber meteororum, quintum
+          <title ref="#Arist.GC">
+            De generatione
+            <app>
+              <lem wit="O">et <cb ed="#O" n="b"/> corruptione</lem>
+              <rdg wit="#B" type="variation-absent"/>
+            </app>
+          </title>
+          , quartum gradum tenet liber
+          <title ref="#Arist.Met">Meteororum</title>, quintum
           <app>
             <lem n="quintum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
-          liber de
-          <app>
-            <lem type="conjecture-corrected">mineralibus</lem>
-            <rdg wit="#B #O">mineris</rdg>
-          </app>
+          liber
+          <title ref="#Arist.Min">
+            De
+            <app>
+              <lem type="conjecture-corrected">mineralibus</lem>
+              <rdg wit="#B #O">mineris</rdg>
+            </app>
+          </title>
           , sextum
           <app>
             <lem n="sextum"/>
             <rdg wit="#B" type="variation-present">gradum tenet</rdg>
           </app>
-          liber de anima.
+          liber <title ref="#Arist.DA">De anima</title>.
           <!-- Two different constructions: Separate (O) or subordinate (B) phrase -->
           <app>
             <lem>Unde primus est iste liber</lem>
