@@ -332,7 +332,7 @@
                 <rdg wit="#B">vero</rdg>
               </app>
               <app xml:id="da-49-l1prooemium-app-q9rimq">
-                <lem type="conjecture-corrected">non amplius mota movent</lem>
+                <lem type="conjecture-corrected"><corr>non amplius mota movent</corr></lem>
                 <rdg wit="#O">non amplius movent mota</rdg>
                 <rdg wit="#B">movent non mota</rdg>
               </app>
@@ -972,7 +972,7 @@
           <title ref="#Arist.Min">
             De
             <app>
-              <lem type="conjecture-corrected">mineralibus</lem>
+              <lem type="conjecture-corrected"><corr>mineralibus</corr></lem>
               <rdg wit="#B #O">mineris</rdg>
             </app>
           </title>
