@@ -49,20 +49,12 @@
     </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="translation">
-    <front>
-      <div xml:id="starts-on">
-        <pb ed="#B" n="174-v" /><cb ed="#B" n="a"/>
-      </div>
-    </front>
     <body>
       <div xml:id="itemdid">
         <head>
-          <supplied ana="#meta-text">
-            Question 15: Whether the intellect <seg
-            ana="#intelligere">knows</seg> itself by its <seg
-            ana="#essentia">essence</seg> or through something else just as it knows
-            other things
-          </supplied>
+          Question 15: Whether the intellect <seg ana="#intelligere">knows</seg>
+          itself by its <seg ana="#essentia">essence</seg> or through something
+          else just as it knows other things
         </head>
         <p xml:id="da-49-l3q15-h7abaq">
           It is asked whether the intellect <seg ana="#intelligere">knows</seg>
@@ -149,7 +141,7 @@
                 just like other things
               </quote>
               <bibl ana="arist.DA.3.4.430a2">
-                Arist. <title ref="#Arist.DA">DA</title>, III.4 430a2
+                Arist. <title ref="#Arist.DA">DA</title>, III.4 430a2.
               </bibl>
             </cit>
             ; but it does not <seg ana="#intelligere">know</seg> other things through
@@ -260,7 +252,7 @@
             these ways differ, <seg ana="#quia">since</seg> the presence of the
             intellect that is actualized in an activity suffices for the first
             <seg ana="#cognitio">cognition</seg>, but for the second <seg
-            ana="#cognitio">cognition</seg> a subtle and distinguishing
+            ana="#cognitio">cognition</seg> a subtle and diligent
             inquisition is required, and for this reason many have been ignorant
             about the nature of the intellect and many have gone wrong about it.
           </p>
@@ -293,7 +285,7 @@
                 exactly as things are separable from matter so they are with
                 respect to the intellect.
               </quote>
-              <bibl>Arist. <title ref="#Arist.DA">De anima</title> III.4 429b21--2</bibl>
+              <bibl>Arist. <title ref="#Arist.DA">De anima</title> III.4 429b21--2.</bibl>
             </cit>
             , but that which is known in actuality and the intellect are the
             same, just as that which is perceptible in actuality and the sense.
