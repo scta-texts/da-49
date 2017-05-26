@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,16 +10,18 @@
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
       <editionStmt>
-        <edition n="2016.05">
-          <date when="2016-17-05">May 17, 2016</date>
+        <edition n="0.1.1-dev">
+          <date when="2017-05-26"/>
         </edition>
       </editionStmt>
       <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives on the Aristotelian Tradition
+          </ref>
+        </authority>
         <availability status="free">
-          <p>Published under a <ref
-          target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
-          Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
-          <date when="2016-17-05">May 17, 2016</date>
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
         </availability>
       </publicationStmt>
       <sourceDesc>
@@ -41,7 +43,7 @@
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-critical-1.0.0"
-                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
       </schemaRef>
       <editorialDecl>
         <p>
@@ -54,11 +56,12 @@
       <listChange>
         <change when="2016-05-17" who="#" status="draft" n="2016.05">
           <p>Created file for the first time.</p>
-          <note type="status">
-            <note type="collobaration">Yes</note>
-            <note type="validating-schema">lbp-0.0.1</note>
-            <note type="transcription-type">documentary</note>
-          </note>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
+          <p>Encoding corrections.</p>
         </change>
       </listChange>
     </revisionDesc>
@@ -95,7 +98,7 @@
           suam essentiam an per aliud sicut intelligit alia.
         </p>
         <div ana="#rationes-principales-contra">
-          <p xml:id="da-49-l3q15-kr6i2n" type="rationes-principales">
+          <p xml:id="da-49-l3q15-kr6i2n">
             Quod per suam essentiam videtur.
           </p>
           <p xml:id="da-49-l3q15-ttgne1" ana="#rationes-principales-contra" n="1">
@@ -148,9 +151,9 @@
             Praeterea, actio intelligendi provenit ex unione intelligibilis cum
             intellectu; sed nihil magis unitur
             <app>
-              <lem type="conjecture-corrected">intellectui</lem>
+              <lem type="conjecture-corrected"><corr>intellectui</corr></lem>
               <rdg wit="#B">
-                intel <space reason="erasure" extent="3" unit="letters" />
+                intel
               </rdg>
               <rdg source="#A" type="variation-absent"/>
               <witDetail wit="#B">cum ras. 3 litt.</witDetail>
@@ -307,7 +310,7 @@
               </cit>
               , et ideo, quia materia est ens in potentia,
               <app>
-                <lem type="conjecture-corrected">materiam</lem>
+                <lem type="conjecture-corrected"><corr>materiam</corr></lem>
                 <rdg wit="#B">in materia</rdg>
                 <rdg source="#A">tunc materiam</rdg>
               </app>
@@ -333,7 +336,7 @@
                   intelligibilia entia separata et intellectum nostrum
                   intelligibilem secundum quod participat ipsa intelligibilia,
                 </quote>
-                <bibl>Cf. <name reF="#Aquinas">Aquinas</name>, <title
+                <bibl>Cf. <name ref="#Aquinas">Aquinas</name>, <title
                 ref="#Aquin.ST">ST</title> I q. 87, a. 1, resp. p. 429a.</bibl>
               </cit>
               sic, cum <name ref="#Aristotle">Philosophus</name> ponit
@@ -376,30 +379,32 @@
               extrinsici sicut aedificare, sed est perfectio ipsius intellectus.
             </p>
           </div>
-          <p xml:id="da-49-l3q15-g6oie8" ana="#determinatio" n="2">
-            Sed istum actum potest intelligere dupliciter. Uno modo in
-            particulari, ut cum actu percipit se intelligere, et alio modo in
-            universali, ut cum per obiectum investigat propriam eius
-            operationem. Et eodem modo per actum potest intelligere suam
-            essentiam dupliciter: Uno modo in particulari, ut cum intelligit
-            quod habet,
-            <app>
-              <lem type="conjecture-corrected">ut</lem>
-              <rdg wit="#B" source="#A">vel</rdg>
-            </app>
-            cum <name
-            ref="#Socrates">Socrates</name> percipit se habere intellectum per hoc
-            quod actu intelligit, et alio modo in universali, ut cum inquirit
-            naturam intellectus per suam operationem. Et isti modi differunt, quia
-            ad primam cognitionem sufficit praesentia intellectus actu operantis,
-            sed ad secundam cognitionem requiritur subtilis et diligens
-            inquisitio, et ideo multi naturam intellectus ignoraverunt et multi
-            <app>
-              <lem wit="#B">circa</lem>
-              <rdg source="#A">essentiam</rdg>
-            </app>
-            ipsam erraverunt.
-          </p>
+          <div ana="#determinatio" n="2">
+            <p xml:id="da-49-l3q15-g6oie8">
+              Sed istum actum potest intelligere dupliciter. Uno modo in
+              particulari, ut cum actu percipit se intelligere, et alio modo in
+              universali, ut cum per obiectum investigat propriam eius
+              operationem. Et eodem modo per actum potest intelligere suam
+              essentiam dupliciter: Uno modo in particulari, ut cum intelligit
+              quod habet,
+              <app>
+                <lem type="conjecture-corrected"><corr>ut</corr></lem>
+                <rdg wit="#B" source="#A">vel</rdg>
+              </app>
+              cum <name
+              ref="#Socrates">Socrates</name> percipit se habere intellectum per hoc
+              quod actu intelligit, et alio modo in universali, ut cum inquirit
+              naturam intellectus per suam operationem. Et isti modi differunt, quia
+              ad primam cognitionem sufficit praesentia intellectus actu operantis,
+              sed ad secundam cognitionem requiritur subtilis et diligens
+              inquisitio, et ideo multi naturam intellectus ignoraverunt et multi
+              <app>
+                <lem wit="#B">circa</lem>
+                <rdg source="#A">essentiam</rdg>
+              </app>
+              ipsam erraverunt.
+            </p>
+          </div>
         </div>
         <div ana="#ad-rationes-contra">
           <p xml:id="da-49-l3q15-qo6iip" ana="#ad-rationes-contra" n="1">
@@ -463,9 +468,9 @@
             in actu et sensus non sunt idem nisi quia eadem est forma utriusque,
             quia species
             <app>
-              <lem type="conjecture-corrected">quae</lem>
+              <lem type="conjecture-corrected"><corr>quae</corr></lem>
               <rdg wit="#B">
-                q <space reason="erasure" extent="2" unit="letters" />
+                q
               </rdg>
               <rdg source="#A">ut</rdg>
               <witDetail wit="#B">cum ras. 2 litt.</witDetail>
@@ -513,7 +518,7 @@
             dicendum est quod actio intelligendi causatur ex unione
             obiecti cum intellectu, sed licet nihil magis uniatur intellectui
             <app>
-              <lem type="conjecture-corrected">quam</lem>
+              <lem type="conjecture-corrected"><corr>quam</corr></lem>
               <rdg wit="#B" source="#A">quod</rdg>
             </app>
             ipse sibi, non tamen unietur sibi ut obiectum, quia obiectum
