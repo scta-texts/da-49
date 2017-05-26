@@ -52,6 +52,9 @@
         <change when="2017-05-26" status="out-for-review" n="0.1.0">
           <p>The text has been sent for review.</p>
         </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
+          <p>Encoding corrections.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -754,7 +757,9 @@
                 <add>non</add>
               </subst>
             </rdg>
-            <rdgWit w="#B">fortasse <mentioned>hunc</mentioned> in habet corr.</rdgWit>
+            <witDetail wit="#B">
+              sed fortasse <mentioned>hunc</mentioned> in <mentioned>habet</mentioned> corr.
+            </witDetail>
           </app>
           <app>
             <lem n="non"/>
