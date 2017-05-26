@@ -1,4 +1,6 @@
-<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -17,6 +19,11 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives on the Aristotelian Tradition
+          </ref>
+        </authority>
         <availability status="free">
           <p>Published under a <ref
           target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
@@ -33,7 +40,7 @@
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-critical-1.0.0"
-                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
       </schemaRef>
       <editorialDecl>
         <p>
@@ -52,9 +59,9 @@
   </teiHeader>
   <text xml:lang="la" type="critical">
     <front>
-      <div xml:id="startsOn">
-        <pb n="148-v" ed="#B"/><cb n="a"/>
-        <pb n="164-r" ed="#O"/><cb n="b"/>
+      <div xml:id="starts-on">
+        <pb n="148-v" ed="#B"/><cb ed="#B" n="a"/>
+        <pb n="164-r" ed="#O"/><cb ed="#O" n="b"/>
       </div>
     </front>
     <body>
@@ -72,8 +79,7 @@
           </app>
           quaeratur
           <app>
-            <lem n="quaeratur"/>
-            <rdg wit="#O" type="variation-absent" />
+            <lem wit="#O" n="quaeratur"/>
             <rdg wit="#B" type="variation-present">nunc</rdg>
           </app>
           primo utrum de anima possit nobis acquiri scientia.
@@ -126,7 +132,7 @@
             ,
             <app>
               <lem n="motum"/>
-              <rdg wit="#O" type="variation-absent"/>
+              <rdg wit="#O" />
               <rdg wit="#B" type="variation-present">sed</rdg>
             </app>
             hoc tamen contingeret si de anima
@@ -151,7 +157,7 @@
                   <lem type="conjecture-supplied">
                     <supplied ana="#in-vacuo">se habet</supplied>
                   </lem>
-                  <rdg wit="#B" type="variation-absent">
+                  <rdg wit="#B">
                     <space extent="8" unit="letters" />
                   </rdg>
                   <rdg wit="#O" type="variation-absent"/>
@@ -167,7 +173,7 @@
             , de quorum numero est anima,
             <app>
               <lem>saltim</lem>
-              <rdg wit="#O" type="variation-present">saltim</rdg>
+              <rdg wit="#O">saltim</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             humana; sed oculus nycticoracis non potest apprehendere lumen solis;
@@ -196,7 +202,7 @@
             demonstrationem, et ad demonstrationem tria requirantur (
             <app>
               <lem>scilicet</lem>
-              <rdg wit="#O" type="variation-present">scilicet</rdg>
+              <rdg wit="#O">scilicet</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             subiectum, passio, et
@@ -224,7 +230,7 @@
             cuius sunt
             <app>
               <lem>multae</lem>
-              <rdg wit="#O" type="variation-present">multae</rdg>
+              <rdg wit="#O">multae</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             proprietates et passiones, ut patebit inferius. Sunt etiam
@@ -238,13 +244,13 @@
             <app xml:id="da-49-l1q1-app-k2lfc9">
               <!-- O more explicit/clear -->
               <lem>per ipsum</lem>
-              <rdg wit="#O" type="variation-present">per ipsum</rdg>
+              <rdg wit="#O">per ipsum</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             concludi potest propria passio eius de anima, et ita de anima potest
             <app>
               <lem>aliquid sciri sive</lem>
-              <rdg wit="#O" type="variation-present">aliquid sciri sive</rdg>
+              <rdg wit="#O">aliquid sciri sive</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             esse aliqualis scientia.
@@ -264,20 +270,20 @@
             animae nobis sunt manifesta: Operationes
             <app>
               <lem>enim</lem>
-              <rdg wit="#O" type="variation-present">enim</rdg>
+              <rdg wit="#O">enim</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             artificiales nobis notae sunt, quae
             <app>
               <lem>tamen</lem>
-              <rdg wit="#O" type="variation-present">tamen</rdg>
+              <rdg wit="#O">tamen</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             non fiunt absque intelligere, et
             intelligere procedit ab aliqua potentia, et potentia
             <app xml:id="da-49-l1q1-app-mqmbne">
               <lem>fluit</lem>
-              <rdg wit="#O" type="variation-present">fluit</rdg>
+              <rdg wit="#O">fluit</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             ab essentia;
@@ -315,13 +321,13 @@
             , et talis
             <app xml:id="da-49-l1q1-app-gfllzy">
               <lem>cognitio de anima</lem>
-              <rdg wit="#O" type="variation-present">cognitio de anima</rdg>
+              <rdg wit="#O">cognitio de anima</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             procedit per effectus
             <app>
               <lem>et</lem>
-              <rdg wit="#O" type="variation-present">et</rdg>
+              <rdg wit="#O">et</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             non per causam, ideo <name ref="#Aristotle">Philosophus</name> talem
@@ -349,7 +355,7 @@
             .
             <app>
               <lem>Et</lem>
-              <rdg wit="#O" type="variation-present">Et</rdg>
+              <rdg wit="#O">Et</rdg>
               <rdg wit="#B" type="variation-absent" />
             </app>
             ad probationem dicendum quod
@@ -383,7 +389,7 @@
                 </app>
                 <app xml:id="da-49-l1q1-app-tjx5f0">
                   <lem>videtur</lem>
-                  <rdg wit="#O" type="variation-present">videtur</rdg>
+                  <rdg wit="#O">videtur</rdg>
                   <rdg wit="#B" type="variation-absent"/>
                 </app>
                 <name ref="#Diares"> Diari</name> filius
@@ -400,7 +406,7 @@
             </app>
             ,
             <app xml:id="da-49-l1q1-app-r2io0f">
-              <lem type="conjecture-corrected">cadit</lem>
+              <lem type="conjecture-corrected"><corr>cadit</corr></lem>
               <rdg wit="#B #O">cadat</rdg>
             </app>
             tamen sub sensu per alterum, ut per sui effectus,
@@ -411,8 +417,7 @@
             </app>
             eodem modo, licet per se phantasma non faciat,
             <app>
-              <lem>aliud</lem>
-              <rdg type="conjecture-correction">aliud</rdg>
+              <lem type="conjecture-corrected"><corr>aliud</corr></lem>
               <rdg wit="#O #B">aliquid</rdg>
             </app>
             tamen phantasma facit, quod in eius cognitionem ducere potest.
@@ -476,8 +481,7 @@
               <rdg wit="#B"> et motu navi movetur</rdg>
             </app>
             <app xml:id="da-49-l1q1-app-3bz2f8">
-              <lem n="movetur"/>
-              <rdg type="variation-absent" />
+              <lem wit="#O" n="movetur"/>
               <rdg wit="#B" type="variation-present">per accidens</rdg>
             </app>
             . Secundo modo nihil prohibet idem
@@ -489,13 +493,13 @@
             . Sed tamen differentia est: aliqua
             <app>
               <lem>enim</lem>
-              <rdg wit="#O" type="variation-present">enim</rdg>
+              <rdg wit="#O">enim</rdg>
               <rdg wit="#B" type="variation-absent"/>
             </app>
             est substantia semper actu intelligens, et talis
             <app>
               <lem>substantia</lem>
-              <rdg wit="#B" type="variation-present">substantia</rdg>
+              <rdg wit="#B">substantia</rdg>
               <rdg wit="#O" type="variation-absent" />
             </app>
             potest intelligere se per se,
@@ -506,8 +510,7 @@
             </app>
             ; sed aliqua est
             <app xml:id="da-49-l1q1-app-bnz3xq">
-              <lem n="est"/>
-              <rdg wit="#O" type="variation-absent"/>
+              <lem wit="#O" n="est"/>
               <rdg wit="#B" type="variation-present">substantia</rdg>
             </app>
             non semper actu intelligens,
@@ -518,8 +521,7 @@
             </app>
             , et talis
             <app xml:id="da-49-l1q1-app-1w0l0f">
-              <lem n="talis"/>
-              <rdg wit="#O" type="variation-absent"/>
+              <lem wit="#O" n="talis"/>
               <rdg wit="#B" type="variation-present">substantia</rdg>
             </app>
             <app>
@@ -608,19 +610,17 @@
             </app>
             intellectus noster
             <app>
-              <lem n="noster"/>
-              <rdg wit="#B" type="variation-absent"/>
+              <lem wit="#B" n="noster"/>
               <rdg wit="#O" type="correction-deletion"><del>etsi</del></rdg>
             </app>
             non
             <app xml:id="da-49-l1q1-app-d8u1cl">
-              <lem type="conjecture-corrected">potest</lem>
+              <lem type="conjecture-corrected"><corr>potest</corr></lem>
               <rdg wit="#O">posset</rdg>
               <rdg wit="#B">possit</rdg>
             </app>
             <app xml:id="da-49-l1q1-app-wajnh7">
-              <lem n="potest"/>
-              <rdg wit="#O" type="variation-absent"/>
+              <lem wit="#O" n="potest"/>
               <rdg wit="#B" type="variation-present">directe</rdg>
             </app>
             in cognitionem
@@ -691,8 +691,7 @@
             </app>
             magis adaequant virtutem eius quam effectus
             <app>
-              <lem n="effectus"/>
-              <rdg wit="#B" type="variation-absent"/>
+              <lem wit="#B" n="effectus"/>
               <rdg wit="#O" type="variation-present">quae</rdg>
             </app>
             substantiarum separatarum
@@ -717,8 +716,7 @@
             </app>
             non est sine
             <app xml:id="da-49-l1q1-app-mvv35w">
-              <lem n="sine" />
-              <rdg wit="#O" type="variation-absent"/>
+              <lem wit="#O" n="sine" />
               <rdg wit="#B">phantasmate</rdg>
             </app>
             continuo et tempore, quia non est sine phantasmate. Non tamen oportet
@@ -729,8 +727,7 @@
                    O: not necessary that all knowing is continuus and temporal.
                    I think O is better here, and also fits the argument better: Some
                    acts of thought don't require temporality.-->
-              <lem n="oportet"/>
-              <rdg wit="#O" type="variation-absent"/>
+              <lem wit="#O" n="oportet"/>
               <rdg wit="#B" type="variation-present">quod</rdg>
             </app>
             omne
