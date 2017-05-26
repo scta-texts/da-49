@@ -578,18 +578,16 @@
               <ref>
                 <name ref="#Plato">Plato</name>
               </ref>
-              <cit>
-                <quote type="paraphrase">primum movens movere seipsum</quote>
-                <note>
-                  A possible ultimate sources for this could be <bibl> <name
-                  ref="#Plato">Pl.</name>, <title ref="#Pl.Laws">Lg.</title>
-                  X.894c--95b </bibl> and <title
-                  ref="#Pl.Phaedrus">Phdr.</title> 245c5--9, but neither of
-                  these texts were available in the Latin tradition.
-                </note>
-              </cit>
+              <quote type="paraphrase">primum movens movere seipsum</quote>
+              <!-- <note> -->
+              <!--   A possible ultimate sources for this could be <bibl> <name -->
+              <!--   ref="#Plato">Pl.</name>, <title ref="#Pl.Laws">Lg.</title> -->
+              <!--   X.894c-\-95b </bibl> and <title -->
+              <!--   ref="#Pl.Phaedrus">Phdr.</title> 245c5-\-9, but neither of -->
+              <!--   these texts were available in the Latin tradition. -->
+              <!-- </note> -->
               quia primum movens posuit esse animam et operationes eius, sicut
-              amare et gaudere, et huiusmodi posuit esse motum eius.
+              amare et gaudere et huiusmodi, posuit esse motum eius.
             </p>
           </div>
         </div>
