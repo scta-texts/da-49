@@ -13,8 +13,8 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition n="0.1.0-dev">
-          <date when="2016-11-13">November 13, 2016</date>
+        <edition n="0.1.1-dev">
+          <date when="2017-05-26"/>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -53,6 +53,12 @@
       <listChange>
         <change when="2016-11-13" status="draft" n="0.1.0">
           <p>First draft of finished edition.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
+          <p>Encoding corrections.</p>
         </change>
       </listChange>
     </revisionDesc>
