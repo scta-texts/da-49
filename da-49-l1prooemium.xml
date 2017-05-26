@@ -46,8 +46,11 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2017-02-28" who="#" status="draft" n="2017.02">
+        <change when="2017-02-28" status="draft" n="2017.02">
           <p>Created file for the first time.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
         </change>
       </listChange>
     </revisionDesc>
