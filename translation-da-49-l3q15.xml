@@ -1,4 +1,7 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -8,12 +11,17 @@
         <editor role="translator">Michael Stenskjær Christensen</editor>
       </titleStmt>
       <editionStmt>
-        <edition n="0.1.0-dev">
-          <date when="2016-11-13">November 13, 2016</date>
+        <edition n="0.1.1-dev">
+          <date when="2017-05-26"/>
         </edition>
       </editionStmt>
       <publicationStmt>
         <publisher>Michael Stenskjær Christensen</publisher>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives on the Aristotelian Tradition
+          </ref>
+        </authority>
         <availability status="free">
           <p>Published under a <ref
           target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
@@ -31,7 +39,7 @@
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-critical-1.0.0"
-                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
       </schemaRef>
       <editorialDecl>
         <p>
@@ -45,10 +53,19 @@
         <change when="2016-11-13" status="draft" n="0.1.0">
           <p>First draft of finished edition.</p>
         </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
+          <p>Encoding corrections.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="translation">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
     <body>
       <div xml:id="itemdid">
         <head>
@@ -62,7 +79,7 @@
           just as it <seg ana="#intelligere">knows</seg> other things.
         </p>
         <div ana="#rationes-principales-contra">
-          <p xml:id="da-49-l3q15-kr6i2n" type="rationes-principales">
+          <p xml:id="da-49-l3q15-kr6i2n">
             It seems that it <supplied>knows itself</supplied> through its <seg
             ana="#essentia">essence</seg>.
           </p>
@@ -235,27 +252,29 @@
               intellect itself.
             </p>
           </div>
-          <p xml:id="da-49-l3q15-g6oie8" ana="#determinatio" n="2">
-            But this activity it can understand in two ways. In one way in the
-            particular, such as when it perceives that it is itself actually
-            <seg ana="#intelligere">knowing</seg>, and in another way in the
-            universal, such as when it investigates its own particular function
-            through its object. And in the same way it can <seg
-            ana="#intelligere">know</seg> its own <seg
-            ana="#essentia">essence</seg> through its activity in two ways: In
-            one way as a particular, such as when it <seg
-            ana="#intelligere">knows</seg> that which it has, such as when <name
-            ref="#Socrates">Socrates</name> perceives that he has an intellect
-            by the fact that he <seg ana="#intelligere">knows</seg> in
-            actuality, and in another way as a universal, such as when it
-            inquires about the nature of the intellect through its function. And
-            these ways differ, <seg ana="#quia">since</seg> the presence of the
-            intellect that is actualized in an activity suffices for the first
-            <seg ana="#cognitio">cognition</seg>, but for the second <seg
-            ana="#cognitio">cognition</seg> a subtle and diligent
-            inquisition is required, and for this reason many have been ignorant
-            about the nature of the intellect and many have gone wrong about it.
-          </p>
+          <div ana="#determinatio" n="2">
+            <p xml:id="da-49-l3q15-g6oie8">
+              But this activity it can understand in two ways. In one way in the
+              particular, such as when it perceives that it is itself actually
+              <seg ana="#intelligere">knowing</seg>, and in another way in the
+              universal, such as when it investigates its own particular function
+              through its object. And in the same way it can <seg
+              ana="#intelligere">know</seg> its own <seg
+              ana="#essentia">essence</seg> through its activity in two ways: In
+              one way as a particular, such as when it <seg
+              ana="#intelligere">knows</seg> that which it has, such as when <name
+              ref="#Socrates">Socrates</name> perceives that he has an intellect
+              by the fact that he <seg ana="#intelligere">knows</seg> in
+              actuality, and in another way as a universal, such as when it
+              inquires about the nature of the intellect through its function. And
+              these ways differ, <seg ana="#quia">since</seg> the presence of the
+              intellect that is actualized in an activity suffices for the first
+              <seg ana="#cognitio">cognition</seg>, but for the second <seg
+              ana="#cognitio">cognition</seg> a subtle and diligent
+              inquisition is required, and for this reason many have been ignorant
+              about the nature of the intellect and many have gone wrong about it.
+            </p>
+          </div>
         </div>
         <div ana="#ad-rationes-contra">
           <p xml:id="da-49-l3q15-qo6iip" ana="#ad-rationes-contra" n="1">
