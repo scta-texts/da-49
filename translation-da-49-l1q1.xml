@@ -53,19 +53,11 @@
     </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="translation">
-    <front>
-      <div xml:id="startsOn">
-        <pb n="148-v" ed="#B"/><cb n="a"/>
-        <pb n="164-r" ed="#O"/><cb n="b"/>
-      </div>
-    </front>
     <body>
       <div xml:id="da-49-l1q1" type="translation">
         <head>
-          <supplied ana="#meta-text">
-            Question 1: Whether scientific knowledge about the soul can be
-            acquired by us
-          </supplied>
+          Question 1: Whether scientific knowledge about the soul can be
+          acquired by us
         </head>
         <p xml:id="da-49-l1q1-274hkz">
           First we must ask whether whether scientific knowledge about the soul
@@ -142,26 +134,14 @@
             said that there is a science. <seg ana="#autem">But</seg> now the
             soul is some sort of subject which has several <seg
             ana="#proprietas">properties</seg> and <seg
-            ana="#passio">attributes</seg>, as will be apparent below. There
-            are also some principles by which these <seg
+            ana="#passio">attributes</seg>, as will be apparent below. There are
+            also some principles by which these <seg
             ana="#passio">attributes</seg> can be <seg
             ana="#probare">proved</seg> to belong to the soul. For if <seg
             ana="#quod-quid">the definition</seg> of the soul is accepted as the
-            middle term,
-            <app>
-              <lem>
-                by that a <seg ana="#propria-passio">proper attribute</seg> of
-                the soul can be concluded to belong to the soul
-              </lem>
-              <note>
-                The latin reads <quote>per ipsum concludi potest propria passio
-                eius de anima</quote>. It is ambiguous to me what the
-                <mentioned>eius</mentioned> qualifies, but it is here
-                interpreted to qualify <mentioned>passio</mentioned> and refer
-                to the soul.
-              </note>
-            </app>
-            , and in this way something can be known about the soul or there can
+            middle term, by that a <seg ana="#propria-passio">proper
+            attribute</seg> of the soul can be concluded to belong to the soul ,
+            and in this way something can be known about the soul or there can
             be some sort of science about the soul.
           </p>
           <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
