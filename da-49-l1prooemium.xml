@@ -10,9 +10,8 @@
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
       <editionStmt>
-        <edition n="2017.02">
-          <title><!-- title [{ms-identifier} Transcription] --></title>
-          <date when="2017-02-27">February 27, 2017</date>
+        <edition n="0.1.1-dev">
+          <date when="2017-05-26"/>
         </edition>
       </editionStmt>
       <publicationStmt>
