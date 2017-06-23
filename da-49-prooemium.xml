@@ -251,12 +251,10 @@
           considerationem medici. Similiter,
           <app>
             <lem wit="#O">quia faber</lem>
-            <rdg wit="#O">quia faber</rdg>
             <rdg wit="#B">
               vero faber quia
             </rdg>
-            <witDetail wit="#B">sed <mentioned>vero</mentioned> cum rasura 1 lit. et
-            <mentioned>quia</mentioned> supra lin. scr.</witDetail>
+            <witDetail wit="#B">sed <mentioned>quia</mentioned> supra lin. scr.</witDetail>
           </app>
           considerat de materia
           <app>
@@ -762,7 +760,7 @@
               </subst>
             </rdg>
             <witDetail wit="#B">
-              sed fortasse <mentioned>hunc</mentioned> in <mentioned>habet</mentioned> corr.
+              vel fortasse in <mentioned>habet</mentioned> corr.
             </witDetail>
           </app>
           <app>
