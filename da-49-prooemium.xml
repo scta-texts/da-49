@@ -205,7 +205,12 @@
             <lem wit="#B">et</lem>
             <rdg wit="#O" type="variation-absent"/>
           </app>
-          fabri et physici. Medicus
+          fabri
+          <app xml:id="da-49-prooemium-app-z4n2nb">
+            <lem wit="#O">et physici</lem>
+            <rdg wit="#B" type="variation-absent"/>
+          </app>
+          . Medicus
           <app>
             <lem wit="#O">autem</lem>
             <rdg wit="#B">enim</rdg>
