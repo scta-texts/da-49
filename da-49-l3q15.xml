@@ -103,12 +103,12 @@
           </p>
           <p xml:id="da-49-l3q15-ttgne1" ana="#rationes-principales-contra" n="1">
             Quia quae intelliguntur ab intellectu intelliguntur per aliud quam
-            per suam essentiam, ut per speciem; sed intelligibile,
+            per suam essentiam, ut per speciem; sed intelligibile
             <app>
               <lem n="intelligibile"/>
               <rdg source="#A" type="conjecture-supplied"><supplied>numquam</supplied></rdg> <!-- Problem: This is not indicated to be an conjecture. He simply writes it as if it was in the manuscript! -->
             </app>
-            inquantum intelligibile, est unum specie; si ergo intellectus esset
+            , inquantum intelligibile, est unum specie; si ergo intellectus esset
             <app>
               <lem wit="#B">intelligibilis</lem>
               <rdg source="#A">intelligibile</rdg>
@@ -167,13 +167,13 @@
               <rdg wit="#B">aut</rdg>
               <rdg source="#A">aliter</rdg>
             </app>
-            ergo per suam essentiam,
+            ergo per suam essentiam
             <app>
               <lem>aut</lem>
               <rdg wit="#B">aut</rdg>
               <rdg source="#A">aliter</rdg>
             </app>
-            per speciem,
+            per speciem
             <app>
               <lem>aut</lem>
               <rdg wit="#B">aut</rdg>
