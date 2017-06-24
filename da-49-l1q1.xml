@@ -315,10 +315,9 @@
               <rdg wit="#B">possunt</rdg>
             </app>
             in cognitionem animae. Quia tamen scire est
-            <app>
-              <lem>per causam</lem>
+            <app xml:id="da-49-l1q1-app-3bjjzt">
+              <lem wit="#B">causam rei</lem>
               <rdg wit="#O">per causam</rdg>
-              <rdg wit="#B">causam rei</rdg>
             </app>
             cognoscere
             <!-- Auct. Arist. 35.8, cf. Arist. APo I.2 71b10-12, cf. also
