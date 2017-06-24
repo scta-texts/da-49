@@ -111,7 +111,6 @@
             Praeterea, unum et idem non potest esse simul movens et motum, quia
             <app>
               <lem n="quia"/>
-              <rdg wit="#O" />
               <rdg wit="#B" type="variation-present">si</rdg>
             </app>
             sic
@@ -133,12 +132,11 @@
             <app xml:id="da-49-l1q1-app-87ko58">
               <lem>cognitum</lem>
               <rdg wit="#O">cognitum</rdg>
-              <rdg wit="#B">motum</rdg>
+              <rdg wit="#B">motum sed</rdg>
             </app>
             ,
             <app>
-              <lem n="motum"/>
-              <rdg wit="#O" />
+              <lem n="cognitum"/>
               <rdg wit="#B" type="variation-present">sed</rdg>
             </app>
             hoc tamen contingeret si de anima
@@ -167,6 +165,7 @@
                     <space extent="8" unit="letters" />
                   </rdg>
                   <rdg wit="#O" type="variation-absent"/>
+                  <witDetail wit="#B">spat. vac. 8 litt.</witDetail>
                 </app>
                 ad lumen solis, sic intellectus noster ad ea quae sunt
                 manifestissima in natura
@@ -484,11 +483,7 @@
             <app>
               <lem>qua mota movet seipsum</lem>
               <rdg wit="#O">qua mota movet seipsum</rdg>
-              <rdg wit="#B"> et motu navi movetur</rdg>
-            </app>
-            <app xml:id="da-49-l1q1-app-3bz2f8">
-              <lem wit="#O" n="movetur"/>
-              <rdg wit="#B" type="variation-present">per accidens</rdg>
+              <rdg wit="#B"> et motu navi movetur per accidens</rdg>
             </app>
             . Secundo modo nihil prohibet idem
             <app xml:id="da-49-l1q1-app-633yrw">
@@ -637,7 +632,6 @@
             </app>
             substantiarum separatarum, tamen
             <app xml:id="da-49-l1q1-app-zq4kdv">
-              <!-- I'm in doubt what's going on here -->
               <lem>
                 aliqui effectus earum apparent nobis,
                 <app>
@@ -648,8 +642,8 @@
                 </app>
               </lem>
               <rdg wit="#O" ana="#lemma">
-                aliqui effectus earum apparent nobis <add place="right-margin">per
-                quos manuducimur in earum notitiam</add>
+                aliqui effectus earum apparent nobis, per quos manuducimur in
+                earum notitiam
               </rdg>
               <rdg wit="#B">potest in effectus earum</rdg>
             </app>
@@ -723,7 +717,7 @@
             non est sine
             <app xml:id="da-49-l1q1-app-mvv35w">
               <lem wit="#O" n="sine" />
-              <rdg wit="#B">phantasmate</rdg>
+              <rdg wit="#B" type="variation-present">phantasmate</rdg>
             </app>
             continuo et tempore, quia non est sine phantasmate. Non tamen oportet
             <app xml:id="da-49-l1q1-app-l0y465">
