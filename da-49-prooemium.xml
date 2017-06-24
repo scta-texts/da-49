@@ -798,13 +798,9 @@
           <app xml:id="da-49-l1prooemium-app-fu9euc">
             <lem>metaphysicalis est</lem>
             <rdg wit="#O">metaphysicalis est</rdg>
-            <rdg wit="#B">est metaphysica</rdg>
+            <rdg wit="#B">est metaphysica et</rdg>
           </app>
           .
-          <app>
-            <lem n="est"/>
-            <rdg wit="#B" type="variation-present">et</rdg>
-          </app>
           Hoc est intelligendum
           <app xml:id="da-49-l1prooemium-app-si7duy">
             <lem n="intelligendum"/>
