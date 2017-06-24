@@ -519,8 +519,8 @@
             </app>
             , et talis
             <app xml:id="da-49-l1q1-app-1w0l0f">
-              <lem wit="#O" n="talis"/>
-              <rdg wit="#B" type="variation-present">substantia</rdg>
+              <lem wit="#B">substantia</lem>
+              <rdg wit="#O" type="variation-absent"/>
             </app>
             <app>
               <lem>non intelligit</lem>
