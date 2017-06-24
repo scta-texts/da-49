@@ -441,9 +441,8 @@
             </app>
             : uno modo est actus imperfecti,
             <app>
-              <lem>sicut</lem>
+              <lem wit="#O">et sic</lem>
               <rdg wit="#B">sicut</rdg>
-              <rdg wit="#O">et sic</rdg>
             </app>
             definitur
             <app>
@@ -456,11 +455,10 @@
               <bibl>Arist. <title ref="#Arist.Phys">Phys.</title> III.2
               201b31--33.</bibl>
             </cit>
-            alio modo est actus perfecti,
+            alio modo est actus perfecti;
             <app>
-              <lem>sicut</lem>
+              <lem wit="#O">sic</lem>
               <rdg wit="#B">sicut</rdg>
-              <rdg wit="#O">sic</rdg>
             </app>
             intelligere et
             <app xml:id="da-49-l1q1-app-o28m47">
