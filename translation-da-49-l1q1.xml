@@ -56,6 +56,12 @@
         <change when="2016-11-13" status="draft" n="0.1.0">
           <p>First draft of finished edition.</p>
         </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-07-24" status="out-for-review" n="0.1.1">
+          <p>Make review changes.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -81,17 +87,17 @@
             That about which there is <seg ana="#scientia">scientific
             knowledge</seg> is intelligible, <seg ana="#quia">since</seg>, as
             <seg ana="#scientia">scientific knowledge</seg> is a <seg
-            ana="#habitus">state</seg> of the intellect, the object of the <seg
+            ana="#habitus">state</seg> of the intellect, the object of <seg
             ana="#scientia">knowledge</seg> ought to be intelligle; but the soul
             is not something intelligible, <seg ana="#quia">since</seg> all our
             <seg ana="#cognitio">knowledge</seg> has its origin in the senses,
-            and <seg ana="#intelligere">understanding</seg> itself does not take
-            place without phantasms, but the soul is not available to sense
+            and <seg ana="#intelligere">understanding</seg> as such does not
+            take place without phantasms, but the soul is not available to sense
             perception, nor does it produce a phantasm; ergo et cetera.
           </p>
           <p xml:id="da-49-l1q1-mjzkyp" ana="#rationes-principales-contra"
              n="2">
-            Further, one and the same thing cannot be moving and moved at the
+            Furthermore, one and the same thing cannot be moving and moved at the
             same time, <seg ana="#quia">since</seg> then the same thing would be
             in act and potency with respect to the same; but that which is known is
             moving with respect to that which knows; ergo one and the same thing
@@ -100,14 +106,15 @@
           </p>
           <p xml:id="da-49-l1q1-mjgjs9" ana="#rationes-principales-contra"
              n="3">
-            Further,
+            Furthermore,
             <cit>
               <quote type="paraphrase">
                 <phr type="#analogy">
                   just as the eye of the night-raven <seg
-                  ana="#se-habet">stands</seg> to the light of the sun, so does
-                  our intellect <seg ana="#se-habet">stand</seg> to those things
-                  which are most <seg ana="#manifestissima">clear</seg> in nature,
+                  ana="#se-habet">stands</seg> to the light of the sun, so our
+                  intellect <seg ana="#se-habet">stands</seg> to those things
+                  which are most <seg ana="#manifestissima">clear</seg> in
+                  nature,
                 </phr>
               </quote>
               <bibl>
@@ -121,7 +128,7 @@
           </p>
           <p xml:id="da-49-l1q1-xdpfxs" ana="#rationes-principales-contra"
              n="4">
-            Further, our <seg ana="#intelligere">intellection</seg> is
+            Furthermore, our <seg ana="#intelligere">intellection</seg> is
             continuous and temporal; but the soul, since it is indivisible and
             perpetual, is neither continuous nor temporal; ergo et cetera.
           </p>
@@ -155,28 +162,28 @@
             be some sort of science about the soul.
           </p>
           <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
-            Further, accidents are not things by themselves but belong to
-            something else. Therefore one who knows the accidents can be led to a
-            <seg ana="#cognitio">knowledge</seg> about that which they belong
-            to. But now many accidents that belong to the soul itself are <seg
-            ana="#manifestus">obvious</seg> to us: For <seg
+            Furthermore, accidents are not things by themselves but belong to
+            something else. Therefore one who knows the accidents can be led to
+            a <seg ana="#cognitio">knowledge</seg> about that to which they
+            belong. But now many accidents that belong to the soul itself are
+            <seg ana="#manifestus">obvious</seg> to us: For <seg
             ana="#artificialis">productive</seg> <seg
-            ana="#operatio">activities</seg> are known to use, but they cannot
+            ana="#operatio">activities</seg> are known to us, but they cannot
             take place without <seg ana="#intelligere">intellection</seg>, and
             <seg ana="#intelligere">intellection</seg> proceeds from some sort
             of <seg ana="#potentia">power</seg>, and a <seg
             ana="#potentia">power</seg> flows from the <seg
             ana="#essentia">essence</seg>; and it is the same with other <seg
             ana="#operatio">activities</seg> <supplied>such as those</supplied>
-            which proceed from the irascible. Thus, by many things which are
-            known to us we may arrive at a <seg ana="#cognitio">knowledge</seg>
-            about the soul. But <seg ana="#quia">since</seg> <seg
-            ana="#scire">knowing</seg> is <seg ana="#cognoscere">knowing</seg>
-            through causes, and such <seg ana="#cognitio">knowledge</seg> about
-            the soul proceeds by effects, not by causes, the <name
-            ref="#Aristotle">Philosopher</name>, as he presents the
-            <seg ana="#cognitio">knowledge</seg> about the soul, calls the <seg
-            ana="#cognitio">knowledge</seg>
+            which proceed from the irascible part. Thus, by many things which
+            are known to us we may arrive at a <seg
+            ana="#cognitio">knowledge</seg> about the soul. But <seg
+            ana="#quia">since</seg> <seg ana="#scire">knowing</seg> is <seg
+            ana="#cognoscere">knowing</seg> through causes, and such <seg
+            ana="#cognitio">knowledge</seg> about the soul proceeds by effects,
+            not by causes, the <name ref="#Aristotle">Philosopher</name>, as he
+            presents the <seg ana="#cognitio">knowledge</seg> about the soul,
+            calls the <seg ana="#cognitio">knowledge</seg>
             <cit>
               <quote>an account</quote>
               <bibl>Arist. <title ref="#Arist.DA">DA</title> I.1 402a4.</bibl>
@@ -189,7 +196,7 @@
             To the first argument it must be said that the minor premise is
             false. And to the <seg ana="#probatio">supporting argument</seg> it
             must be said that something is available to sense perception in two
-            ways: either positively or privatively. Privately like shadows and
+            ways: either positively or privatively. Privatively like shadows and
             indivisible objects, such as a point or a unity. Positively in two
             ways: either by its own <seg ana="#species">species</seg> or by the
             <seg ana="#species">species</seg> of something else; by its own <seg
@@ -205,59 +212,44 @@
             </cit>
             . <seg ana="#unde">Hence</seg> although the soul is not available to
             sense perception in itself, it is still available to sense
-            perception through something else, that is through its effects, and
-            in the same way,
-            <app>
-              <lem>
-                although it does not produce a phantasm on its own, it produces
-                another phantasm, which may lead to <seg
-                ana="#cognitio">knowledge</seg> about it.
-              </lem>
-              <note>
-                The Latin reads: <quote>licet per se phantasma non faciat, aliud
-                [aliquid MS] tamen phantasma facit, quod in eius cognitionem
-                ducere potest.</quote> We must understand this to mean
-                that the although there cannot be a phantasm of the soul, as it
-                is not perceptible, it produces an external activity that may
-                yield phantasms by which we can acquire knowledge about the
-                soul as origin of those activities. The manuscript reading
-                <mentioned>something</mentioned> is thus replaced by
-                <mentioned>another</mentioned> to emphasise the externality
-                (but not contingency) of the produced activities.
-              </note>
-            </app>
+            perception through something else, namely through its effects, and
+            in the same way, although it does not produce a phantasm on its own,
+            it produces another phantasm, which may lead to <seg
+            ana="#cognitio">knowledge</seg> about it.
           </p>
           <p xml:id="da-49-l1q1-i9rohp" ana="#ad-rationes-contra" n="2">
-            To the next it must be said that <seg ana="#motus">movement</seg> is
-            said in two ways: in one way it is the act of something imperfect,
-            as it is defined by the <name ref="#Aristotle">Philosopher</name> in
+            To the next argument it must be said that <seg
+            ana="#motus">movement</seg> is said in two ways: in one way it is
+            the act of something imperfect, as it is defined by the <name
+            ref="#Aristotle">Philosopher</name> in
             <cit>
               <ref>
-                the third book of the <title ref="#Arist.Phys">Physics</title>;
+                the third book of the <title ref="#Arist.Phys">Physics</title>
               </ref>
               <bibl>
                 Arist. <title ref="#Arist.Phys">Phys.</title> III.2 201b31--33.
               </bibl>
             </cit>
             , and in another way it is the act of something perfect, and in this
-            way<seg ana="#intelligere">intellection</seg> and <seg
-            ana="#sentire">cognition</seg> are said to be movement. In the first
-            way the same thing cannot be moving and moved by itself, but
+            way <seg ana="#intelligere">intellection</seg> and <seg
+            ana="#sentire">cognition</seg> are said to be movements. In the
+            first way the same thing cannot be moving and moved by itself, but
             accidentally nothing prevents this, just as the sailor moves the
-            ship by himself, and in that being moved he moves himself. In the
-            second way nothing prevents the same thing from moving itself. There
-            is however a difference: For there is one sort of substance which
-            always actively <seg ana="#intelligere_ptc">knows</seg>, and such a
-            substance can <seg ana="#intelligere">know</seg> by itself, as it is
-            the case with the first cause and the intelligences; but there is
-            another sort of substance, such as the human soul, which does not
-            always actively <seg ana="#intelligere_ptc">know</seg>, and such a
-            thing does not <seg ana="#intelligere">know</seg> by itself, <seg
+            ship by himself, and insofar as the ship is moved he moves
+            himself. In the second way nothing prevents the same thing from
+            moving itself. There is however a difference: For there is one sort
+            of substance which always actively <seg
+            ana="#intelligere_ptc">knows</seg>, and such a substance can <seg
+            ana="#intelligere">know</seg> by itself, as it is the case with the
+            first cause and the intelligences; but there is another sort of
+            substance, such as the human soul, which does not always actively
+            <seg ana="#intelligere_ptc">know</seg>, and such a thing does not
+            <seg ana="#intelligere">know</seg> by itself, <seg
             ana="#quia">since</seg> it <seg ana="#intelligere">knows</seg>
             nothing except when it is actualized, and such a substance, <seg
             ana="#cum+subj">since</seg> it potentially <seg
             ana="#intelligere_ptc">knows</seg>, does not actually do so except
-            by means of something else, that is by a intelligible <seg
+            by means of something else, that is by means of an intelligible <seg
             ana="#species">species</seg>, and <seg ana="#ideo">therefore</seg>
             it can <seg ana="#intelligere">know</seg> itself through something
             else. For by the fact that the soul <seg
@@ -270,10 +262,10 @@
             a sailor moves his ship.
           </p>
           <p xml:id="da-49-l1q1-52psh5" ana="#ad-rationes-contra" n="3">
-            To the next it must be said that although the eye of the night-raven
-            cannot apprehend the light of the sun directly, it can nevertheless
-            apprehend some brightness indirectly, and if its sight were
-            discursive, then it could <seg ana="#cognoscere">know</seg> the
+            To the next argument it must be said that although the eye of the
+            night-raven cannot apprehend the light of the sun directly, it can
+            nevertheless apprehend some brightness indirectly, and if its sight
+            were discursive, then it could <seg ana="#cognoscere">know</seg> the
             light of the sun. But now, although our intellect cannot arrive at a
             perfect <seg ana="#cognitio">knowledge</seg> about the separate
             substances, some of their effects are still apparent to us by which
@@ -289,10 +281,10 @@
             ana="#virtues">power</seg>.
           </p>
           <p xml:id="da-49-l1q1-h6ks8n" ana="#ad-rationes-contra" n="4">
-            To the next it must be said that our <seg
+            To the next argument it must be said that our <seg
             ana="#intelligere">intellection</seg> does not take place without
-            some continuity and time, <seg ana="#quia">since</seg>
-            it does not take place without some phantasm. But it is not <seg
+            continuity and time, <seg ana="#quia">since</seg> it does not take
+            place without a phantasm. But it is not <seg
             ana="#oportere">required</seg> that all <seg
             ana="#intelligere">intellection</seg> be continous and temporal.
           </p>
