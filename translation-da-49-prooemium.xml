@@ -54,6 +54,9 @@
         <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
           <p>Encoding corrections.</p>
         </change>
+        <change when="2017-07-24" status="out-for-review" n="0.1.2">
+          <p>Make review changes.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -99,7 +102,7 @@
             </quote>
             <bibl><name ref="#Aristotle">Arist.</name> <title>Ph.</title> II.2 194b11--12.</bibl>
           </cit>
-          for not just any consideration of nerves pertains to the doctor, nor
+          . For not just any consideration of nerves pertains to the doctor, nor
           does whatever thing that can be known about metal pertain to the
           smith, and similarly not every consideration of forms pertains to the
           natural philosopher. We must therefore consider how these artificers
@@ -109,17 +112,17 @@
           Let us consider what the different subject matters of the doctor, the
           smith and the natural philosopher are. A doctor primarily seeks to
           produce good health in them, so when he investigates nerves, it aims
-          at the production of good health, therefore every consideration of
+          at the production of good health; therefore every investigation of
           nerves pertains to the doctor, insofar as it strives for good health,
           but if there is some other consideration that goes beyond this, it
           supersedes the doctor's investigation. Similarly, as the smith focuses
-          on the matter of artificial instruments, any investigation of metal,
-          qua the matter of artificial instruments, pertains to the smith, but
-          if there is some consideration that goes beyond this, it stays beyond
-          his purveiw. From this it is apparent of what sort object of the
-          natural philosopher's knowledge is and to which limit it extends. For
-          whatever is considered by a natural philosopher is characterized by
-          movement and change,
+          on matter of artificial instruments, any investigation of metal, qua
+          the matter of artificial instruments, pertains to the smith, but if
+          there is some consideration that goes beyond this, it stays beyond his
+          purveiw. From this it is apparent of what sort of object the natural
+          philosopher's knowledge is and to which limit it extends. For whatever
+          is considered by a natural philosopher is characterized by movement
+          and change,
           <cit>
             <quote type="paraphrase">
               for things which move but are not moved do not fall within the
@@ -135,7 +138,7 @@
             </bibl>
           </cit>
           . Hence entirely immaterial forms which are not linked to matter which
-          is subject to change motion and change, escape the purview of the
+          is subject to motion and change, escape the purview of the
           physicist or natural philosopher. But forms which in one way are
           immaterial and in another way are the perfection of matter do fall
           within the purview of the natural philosopher or physicist, and
@@ -159,65 +162,64 @@
             </bibl>
           </cit>
           . Some are entirely material, both with respect to their substance and
-          disposition, since their substances and dispositions are educed from
+          disposition, since their substances and dispositions are drawn from
           matter, and the forms of the things here below are of this sort. But
           some are forms of a medial character which are immaterial with respect
           to their substance and material with respect to their dispositions,
           and the human souls are of this sort. Hence the first forms are beyond
           the purview of the natural philosopher, but the physical study begins
           with the second forms and terminates with the third, for the study of
-          the natural philosopher begins with the lower forms and stops with
+          the natural philosopher begins with the lower forms and ends with
           the human soul.
         </p>
         <p xml:id="translation-da-49-prooemium-arr3uu">
-          From this it is further apparent which place this book holds among the
-          books on natural philosophy, as the physical and the metaphysical mode
-          of investigation in some way are opposed each other. For the natural
-          philosopher's mode of investigation has an upper stopping point but
-          not a lower one, for it has a stopping point with reference to the
-          level of abstraction, which is an upper area, since some are so
-          abstract that they exceed the physical study, and some are so abstract
-          that the physical subject matter does not extend beyond them. But with
-          reference to the level of concreteness, which is a low level, the
-          natural philosopher does not have a stopping point, for there is no
-          form so concreted with matter it evades the natural philosopher's
-          subject matter. Thus the more concreted a form is with matter, the
-          more it falls within his subject matter, and this must be understood
-          in such a way that the abstraction from singular items is presupposed,
-          for if we look to things individual and numerically singular, that
-          exceeds the natural philosopher's subject matter. But the contrary
-          holds for metaphysician's mode of investigation, since it has a lower
-          stopping point but not an upper one, because some form is so concrete
-          with respect to matter that the consideration of it does not pertain
-          to the metaphysician, but there is no form so abstract that it exceeds
+          From this it is furthermore clear which place this book holds among
+          the books on natural philosophy, as the physical and the metaphysical
+          mode of investigation in some way are opposed each other. For the
+          natural philosopher's mode of investigation has an upper limit but not
+          a lower one, for it has a limit with regard to the level of
+          abstraction, which is the upper limit, since some things are so
+          abstract that they are beyond physical study, and some are so abstract
+          that physical study does not go beyond them. But with regard to the
+          level of concreteness, which is the lower level, the natural
+          philosopher does not have a limit, for there is no form so concreted
+          with matter it falls outside the natural philosopher's subject matter.
+          Thus the more concreted a form is with matter, the more it falls
+          within his subject matter, and this must be understood in such a way
+          that the abstraction from singular items is presupposed, for if we
+          look to things individual and numerically singular, they fall outside
+          of the natural philosopher's subject matter. But the contrary holds
+          for the metaphysician's mode of investigation, since it has a lower
+          limit but not an upper one, because some forms are so concrete with
+          respect to matter that the consideration of them does not pertain to
+          the metaphysician, but there is no form so abstract that it exceeds
           the metaphysician's consideration, for metaphysics is concerned with
           the highest causes. Hence the more an investigation is concerned with
           abstract things, the more metaphysical it is. This must be understood
-          with reference to a study based on human inquisition, for if there is
-          some abstract study which is acquired through inspiration, it
-          exceeds the metaphysician's subject matter, but that sort of
-          consideration is not within the purview of the present investigation.
+          with reference to a study based on human inquiry, for if there is
+          some abstract study which is acquired through inspiration, it exceeds
+          the metaphysician's subject matter, but that sort of consideration is
+          not within the purview of the present investigation.
         </p>
         <p xml:id="translation-da-49-prooemium-gurt68">
           Hence let us understand what has been said in the following way, that
           when there are three essential parts of philosophy (namely natural
           philosophy, mathematics, and divine science) among the arts or
-          sciences found through human inquisition, the metaphysician does
-          not recognize any other higher, but in terms of the level of
-          abstraction natural philosophy does not recognize any other lower
-          specialist within the essential parts of philosophy, although there is a
-          higher one, but the mathematician recognizes both a higher practice,
-          since there is a more abstract one, and a lower, since there is one
-          more concrete. Hence, as it has been said, the natural philosopher's
-          subject matter takes its beginning with the lower forms and ends
-          with the human soul, and from this it is apparent that <title
-          ref="#Arist.DA">On the soul</title> holds the sixth place within the
-          books on natural philosophy, for <title
-          ref="#Arist.Ph">Physics</title> holds the first place, <title
-          ref="#Arist.Cael">On the heavens and earth</title> the second, <title
-          ref="#Arist.GC">On generation and corruption</title> the third, <title
-          ref="#Arist.Met">Meteorology</title> the fourth, <title
-          ref="#Ps-Arist.Min">On minerals</title> the fifth, and <title
+          sciences found through human inquiry, the metaphysician does not
+          recognize any higher science, but in terms of the level of abstraction
+          natural philosophy does not recognize any lower practitioner within
+          the essential parts of philosophy, although there is a higher one, but
+          the mathematician recognizes both a higher practice, since there is a
+          more abstract one, and a lower, since there is one more concrete.
+          Hence, as it has been said, the natural philosopher's subject matter
+          takes its beginning with the lower forms and ends with the human soul,
+          and from this it is clear that <title ref="#Arist.DA">On the
+          soul</title> holds the sixth place within the books on natural
+          philosophy, for <title ref="#Arist.Ph">Physics</title> holds the first
+          place, <title ref="#Arist.Cael">On the heavens and earth</title> the
+          second, <title ref="#Arist.GC">On generation and corruption</title>
+          the third, <title ref="#Arist.Met">Meteorology</title> the fourth,
+          <title ref="#Ps-Arist.Min">On minerals</title> the fifth, and <title
           ref="#Arist.DA">On the soul</title> the sixth. It is therefore the
           first in order of dignity, although it is the last or sixth in the
           order of teaching, and hence the
