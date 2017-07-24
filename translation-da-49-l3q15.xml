@@ -59,6 +59,9 @@
         <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
           <p>Encoding corrections.</p>
         </change>
+       <change when="2017-07-24" status="out-for-review" n="0.1.1">
+          <p>Make review changes.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
@@ -89,7 +92,7 @@
             the intellect are <seg ana="#intelligere">known</seg> through
             something other than their <seg ana="#essentia">essence</seg>,
             namely their <seg ana="#species">species</seg>; but what is
-            intelligible, in so far as it is intelligible, is one in <seg
+            intelligible, insofar as it is intelligible, is one in <seg
             ana="#species">species</seg>; <seg ana="#ergo">thus</seg> if the
             intellect were intelligible through something else just as other
             things are, and <seg ana="#cum+ind">when</seg> the intellect,
@@ -99,33 +102,34 @@
           </p>
           <p xml:id="da-49-l3q15-z4t4fo" ana="#rationes-principales-contra"
              n="2">
-            Further, in beings that are separate from matter that which knows
-            and that which is known are identical; but the intellect is separate
-            from matter; <seg ana="#ergo">thus</seg> in the intellect that which
-            <seg ana="#intelligere">knows</seg> and what is known are identical,
-            thus it <seg ana="#intelligere">knows</seg> itself through itself.
+            Furthermore, in beings that are separate from matter that which
+            knows and that which is known are identical; but the intellect is
+            separate from matter; <seg ana="#ergo">thus</seg> in the intellect
+            what <seg ana="#intelligere">knows</seg> and what is known are
+            identical, thus it <seg ana="#intelligere">knows</seg> itself
+            through itself.
           </p>
           <p xml:id="da-49-l3q15-bd4395" ana="#rationes-principales-contra"
              n="3">
-            Further, intelligence and human intellect agree in the genus of
+            Furthermore, intelligence and human intellect agree in the genus of
             intelligible objects; but an intelligence <seg
             ana="#intelligere">knows</seg> itself through its <seg
-            ana="#essentia">essence</seg>; <seg ana="#ergo">hence</seg> the human
-            intellect <supplied>does too</supplied>.
+            ana="#essentia">essence</seg>; <seg ana="#ergo">hence</seg> the
+            human intellect <supplied>does too</supplied>.
           </p>
           <p xml:id="da-49-l3q15-ytwlis" ana="#rationes-principales-contra"
              n="4">
-            Further, the act of <seg ana="#intelligere">knowing</seg> arises
+            Furthermore, the act of <seg ana="#intelligere">knowing</seg> arises
             from the unity of the intelligible and the intellect; but nothing is
-            more united with the intellect than itself with itself; <seg
+            more united with the intellect than the intellect with itself; <seg
             ana="#ergo">thus</seg> it cannot <seg ana="#intelligere">know</seg>
             <supplied>itself</supplied> through anything but itself.
           </p>
           <p xml:id="da-49-l3q15-a5w2gi" ana="#rationes-principales-contra"
              n="5">
-            Further, the intellect <seg ana="#intelligere">knows</seg> itself.
-            <seg ana="#ergo">Thus</seg> it either does so through its own <seg
-            ana="#essentia">essence</seg>, through a <seg
+            Furthermore, the intellect <seg ana="#intelligere">knows</seg>
+            itself. <seg ana="#ergo">Thus</seg> it either does so through its
+            own <seg ana="#essentia">essence</seg>, through a <seg
             ana="#species">species</seg>, or through its activity; but it does
             so neither through a <seg ana="#species">species</seg> nor through
             its own activity; <seg ana="#ergo">hence</seg> it must do so through
@@ -139,9 +143,9 @@
             <seg ana="#ergo">But then</seg> it will either <seg
             ana="#intelligere">know</seg> that activity or not <seg
             ana="#intelligere">know</seg> it. If it does not know it, the same
-            would hold for the first, if it does know it, <seg
+            would hold for the first activity, if it does know it, <seg
             ana="#ergo">then</seg> it will be through another activity, and in
-            this way it will be possible to proceed to infinity. Further, a
+            this way it will be possible to proceed to infinity. Furthermore, a
             particular sense does not sense its activity, <seg
             ana="#ergo">thus</seg> neither does the intellect <seg
             ana="#intelligere">know</seg> its activity.
@@ -174,28 +178,28 @@
               It must be said that the intellect does not <seg
               ana="#intelligere">know</seg> itself through its <seg
               ana="#essentia">essence</seg>, and the reason for that is: Nothing
-              is know except in insofar as it actually is, hence nothing is
-              true as something that is available to the cognition of the
-              intellect, except in accordance with its actuality, as the <name
+              is known except insofar as it actually is, hence nothing that is
+              available to the cognition of the intellect is true, except in
+              accordance with its actuality, as the <name
               ref="#Aristotle">Philosopher</name> says in the ninth book of the
               <title ref="#Arist.Metaph">Metaphysics</title>.
               <cit>
                 <quote type="paraphrase">
                   Indeed, just as sight does not see nor <seg
                   ana="#cognoscere">know</seg> something potentially coloured
-                  but something actually coloured, in the same way does the
-                  intellect not know
+                  but something actually coloured, so the intellect does not
+                  know
                 </quote>
                 <bibl>Arist. <title ref="#Arist.Metaph">Metaph.</title>, IX.9
                 1051a29--31, cf. <title ref="#Auct.Arist">Auct. Arist.</title>
                 (ed. Hamesse), 6.234.</bibl>
               </cit>
               , and therefore, <seg ana="#quia">since</seg> matter is being in
-              potentiality, it does not known except through the form through
-              which it is actualized. To better see this it must taken into
-              consideration that there is an intellect which is pure and perfect
-              actuality, such as the intellect of God, and it <seg
-              ana="#cognoscere">cognized</seg> itself and <seg
+              potentiality, the intellect does not know it except through the
+              form through which it is actualized. To better see this it must
+              taken into consideration that there is an intellect which is pure
+              and perfect actuality, such as the intellect of God, and it <seg
+              ana="#cognoscere">cognizes</seg> itself and <seg
               ana="#intelligere">knows</seg> <supplied>itself</supplied> through
               its <seg ana="#essentia">essence</seg> and all other things
               through itself; there is another intellect which is in actuality
@@ -207,7 +211,7 @@
               intellect is not in actuality through itself, and is therefore
               called possible, <seg ana="#quia">since</seg> through itself it is
               in potentiality, and is therefore not itself that by which it is
-              known. But it is itself that by which if knows; indeed just as
+              known. But it is itself that by which it knows; indeed just as
               <name ref="#Plato">Plato</name> held that
               <cit>
                 <quote type="paraphrase">
@@ -245,8 +249,8 @@
               first known as concerns the intellect is its actuality, which is
               its final perfection. <seg ana="#quia">Since</seg> <seg
               ana="#intelligere">knowing</seg> is not an activity that has an
-              effect outside itself, such as heating and building, but rather
-              remains in the operating subject, therefore <seg
+              effect outside itself, such as heating and building do, but rather
+              remains in the operating subject, <seg
               ana="#intelligere">knowing</seg> is not a perfection of some
               external thing as is building, but is the perfection of the
               intellect itself.
@@ -257,29 +261,29 @@
               But this activity it can understand in two ways. In one way in the
               particular, such as when it perceives that it is itself actually
               <seg ana="#intelligere">knowing</seg>, and in another way in the
-              universal, such as when it investigates its own particular function
-              through its object. And in the same way it can <seg
+              universal, such as when it investigates its own particular
+              function through its object. And in the same way it can <seg
               ana="#intelligere">know</seg> its own <seg
               ana="#essentia">essence</seg> through its activity in two ways: In
               one way as a particular, such as when it <seg
-              ana="#intelligere">knows</seg> that which it has, such as when <name
-              ref="#Socrates">Socrates</name> perceives that he has an intellect
-              by the fact that he <seg ana="#intelligere">knows</seg> in
-              actuality, and in another way as a universal, such as when it
-              inquires about the nature of the intellect through its function. And
-              these ways differ, <seg ana="#quia">since</seg> the presence of the
-              intellect that is actualized in an activity suffices for the first
-              <seg ana="#cognitio">cognition</seg>, but for the second <seg
-              ana="#cognitio">cognition</seg> a subtle and diligent
-              inquisition is required, and for this reason many have been ignorant
-              about the nature of the intellect and many have gone wrong about it.
+              ana="#intelligere">knows</seg> that which it has, such as when
+              <name ref="#Socrates">Socrates</name> perceives that he has an
+              intellect by the fact that he <seg ana="#intelligere">knows</seg>
+              in actuality, and in another way as a universal, such as when it
+              inquires about the nature of the intellect through its function.
+              And these ways differ, <seg ana="#quia">since</seg> the presence
+              of the intellect that is actualized in an activity suffices for
+              the first <seg ana="#cognitio">cognition</seg>, but for the second
+              <seg ana="#cognitio">cognition</seg> a subtle and diligent inquiry
+              is required, and for this reason many have been ignorant of the
+              nature of the intellect and many have gone wrong about it.
             </p>
           </div>
         </div>
         <div ana="#ad-rationes-contra">
           <p xml:id="da-49-l3q15-qo6iip" ana="#ad-rationes-contra" n="1">
             To the first argument it must be said that the intellect and that
-            which is known are the same in actuality, but not intellect and that
+            which is known in actuality are the same, but not intellect and that
             which is known in potentiality. Now, the intelligible species is the
             immediate principle of knowing. Hence whatever has in it an actually
             intelligible species, can know, but whichever species is in the
@@ -293,12 +297,12 @@
             that it is intelligible, and it is not in this way in other things.
           </p>
           <p xml:id="da-49-l3q15-438wxb" ana="#ad-rationes-contra" n="2">
-            To the second argument it must be said that these things are said to
+            To the second argument it must be said that those things are said to
             be separate from matter which are known in actuality. Hence,
             <cit>
               <ref>
                 the <name ref="#Aristotle">Philosopher</name> says in the third
-                book of <title ref="#Arist.DA">De anima</title>
+                book of <title ref="#Arist.DA">De anima</title> that
               </ref>
               <quote type="paraphrase">
                 exactly as things are separable from matter so they are with
@@ -322,37 +326,38 @@
             To the third argument it must be said that the intellect of an
             intelligence is perfect actuality because it always is actualized.
             For in itself is has connate species. But by itself our intellect is
-            in potentiality, i.e. a “possible” <supplied>intellect</supplied>,
+            in potentiality, i.e. “possible” <supplied>intellect</supplied>,
             and the agent intellect itself, insofar as it is actualized, is the
-            actualization of the intelligible things, and not an intellect
+            actualization of the intelligible things, and not intellect
             before it <seg ana="#intelligere">knows</seg>.
           </p>
           <p xml:id="da-49-l3q15-pp01nh" ana="#ad-rationes-contra" n="4">
-            To the fourth it must be said that the act of knowing is caused by
-            the union of the object and the intellect, but although nothing is
-            more united with the intellect than it is with itself, it still
-            cannot be united with itself as an object, because the object of our
-            intellect is the nature of a thing that is outside the soul, and
-            that cannot be united with the intellect except through a species.
+            To the fourth argument it must be said that the act of knowing is
+            caused by the union of the object and the intellect, but although
+            nothing is more united with the intellect than it is with itself, it
+            still cannot be united with itself as an object, because the object
+            of our intellect is the nature of a thing that is outside the soul,
+            and that cannot be united with the intellect except through a
+            species.
           </p>
           <div ana="#ad-rationes-contra" n="5">
             <p xml:id="da-49-l3q15-9twekw">
-              To the final argument it must be said that it knows itself both
-              through a species and through an activity, but not through its own
-              species, as the argument proves, but through a species which
-              belongs to something else. Similarly it <seg
+              To the final argument it must be said that the intellect knows
+              itself both through a species and through an activity, but not
+              through its own species, as the argument proves, but through a
+              species which belongs to something else. Similarly, it <seg
               ana="#intelligere">knows</seg> itself through its own activity,
               and it knows that activity through still another activity.
-              Therefore it must be understood that there is an intellect which
+              Therefore, it must be understood that there is an intellect which
               is its own <seg ana="#intelligere">knowing</seg>, and therefore it
-              knows its own essence and own knowing through a unitary activity,
-              <seg ana="#quia">because</seg> they are the same, namely the
-              intellect of God. And there is another intellect which is not its
-              own knowing, but through its essence is an object of its own
+              knows its own essence and knowing through a unitary activity, <seg
+              ana="#quia">because</seg> they are the same, namely the intellect
+              of God. And there is another intellect which is not its own
+              knowing, but which through its essence is an object of its own
               knowing, namely the intellect of an intelligence, and although its
               knowing and its essence differ, it still knows its own essence and
-              own knowing through a unitary act, since knowing is the perfection
-              of its essence, and a thing and its perfection are known through a
+              knowing through a unitary act, since knowing is the perfection of
+              its essence, and a thing and its perfection are known through a
               unitary act. But the human intellect is neither its own knowing
               nor is its essence an object of its own knowing, and therefore it
               cannot know the object and its own knowing through a unitary act,
@@ -360,11 +365,11 @@
               knowing the stone is not the perfection of the stone, but it is
               the perfection of the intellect, and therefore it is not possible
               to know the stone and the knowing itself through a unitary act.
-              Hence by this it must be said to the argument that it knows its
-              own activity and its object through a different activity, and it
-              knows that activity by an act, and thus ad infinitum, and it is
-              not inconvenient to proceed ad infinitum in activities of the
-              intellect and reason.
+              Hence, in this way it must be said to the argument that the
+              intellect knows its own activity and its object through a
+              different activity, and it knows that activity by an act, and thus
+              ad infinitum, and it is not problematic to proceed ad infinitum
+              in activities of the intellect and reason.
             </p>
             <p xml:id="da-49-l1q1-acort9">
               To the second proof it must be said that a sense senses by an
@@ -375,7 +380,7 @@
               perfectly capable of turning itself on itself, and therefore Plato
               said that the first mover moves itself, because he held that the
               first mover is the soul, and held that its functions -- liking,
-              rejoycing etc. -- are its movement.
+              rejoicing etc. -- are its movement.
             </p>
           </div>
         </div>
