@@ -193,7 +193,7 @@
         <div ana="#rationes-principales-pro">
           <p xml:id="da-49-l1q1-o9whrl">
             Oppositum patet per
-            <app type="insubstantial">
+            <app>
               <lem>determinationem <name ref="#Aristotle">Philosophi</name></lem>
               <rdg wit="#O">determinationem <name ref="#Aristotle">Philosophi</name></rdg>
               <rdg wit="#B">Philosophum</rdg>
@@ -212,7 +212,7 @@
             </app>
             subiectum, passio, et
             principium per quod ostenditur passio de subiecto), ubi est
-            <app xml:id="da-49-l1q1-app-5d63kk" type="insubstantial">
+            <app xml:id="da-49-l1q1-app-5d63kk">
               <lem>invenire ista tria</lem>
               <rdg wit="#O">invenire ista tria</rdg>
               <rdg wit="#B" type="variation-inversioner">
@@ -227,7 +227,7 @@
               <rdg wit="#B">est scientiam ponere</rdg>
             </app>
             . Nunc autem anima
-            <app type="insubstantial">
+            <app>
               <lem>quoddam subiectum est</lem>
               <rdg wit="#O">quoddam subiectum est</rdg>
               <rdg wit="#B">est quoddam ens</rdg>
@@ -240,7 +240,7 @@
             </app>
             proprietates et passiones, ut patebit inferius. Sunt etiam
             principia per quae
-            <app type="insubstantial">
+            <app>
               <lem>istae passiones probari possunt</lem>
               <rdg wit="#O">istae passiones probari possunt</rdg>
               <rdg wit="#B">ostendi possunt istae passiones</rdg>
@@ -262,7 +262,7 @@
           </p>
           <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
             Praeterea, accidentia non sunt
-            <app type="insubstantial">
+            <app>
               <lem>per se entia</lem>
               <rdg wit="#O" type="variation-inversion">per se entia</rdg>
               <rdg wit="#B">
@@ -434,7 +434,7 @@
               <rdg wit="#B">secundum</rdg>
             </app>
             dicendum quod
-            <app type="insubstantial">
+            <app>
               <lem>dupliciter dicitur motus</lem>
               <rdg wit="#O">dupliciter dicitur motus</rdg>
               <rdg wit="#B">motus dicitur dupliciter</rdg>
@@ -540,7 +540,7 @@
               <rdg wit="#B">per speciem alterius</rdg>
             </app>
             per alterum potest
-            <app type="insubstantial">
+            <app>
               <lem>se</lem>
               <rdg wit="#O">se</rdg>
               <rdg wit="#B">seipsum</rdg>
