@@ -63,6 +63,9 @@
         <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
           <p>Encoding corrections.</p>
         </change>
+        <change when="2017-07-25" status="out-for-review" n="0.2.0">
+          <p>Revised for second review.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
