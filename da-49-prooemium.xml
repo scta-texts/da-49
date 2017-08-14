@@ -43,7 +43,7 @@
         <p>The transcription has been normalized to classical orthography.</p>
       </editorialDecl>
     </encodingDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
       <listChange>
         <change when="2017-02-28" status="draft" n="2017.02">
           <p>Created file for the first time.</p>
@@ -56,6 +56,9 @@
         </change>
         <change when="2017-07-25" status="out-for-review" n="0.2.0">
           <p>Revised for second review.</p>
+        </change>
+        <change when="2017-08-14" status="published" n="1.0.0">
+          <p>Published on http://cimagl.saxo.ku.dk/download/86/86christensen79-131.pdf.</p>
         </change>
       </listChange>
     </revisionDesc>
