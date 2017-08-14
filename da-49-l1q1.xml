@@ -49,7 +49,7 @@
         </p>
       </editorialDecl>
     </encodingDesc>
-    <revisionDesc status="draft">
+    <revisionDesc status="published">
       <listChange>
         <change when="2016-11-13" status="draft" n="0.1.0">
           <p>First draft of finished edition.</p>
@@ -62,6 +62,9 @@
         </change>
         <change when="2017-07-25" status="out-for-review" n="0.2.0">
           <p>Revised for second review.</p>
+        </change>
+        <change when="2017-08-14" status="published" n="1.0.0">
+          <p>Published on http://cimagl.saxo.ku.dk/download/86/86christensen79-131.pdf.</p>
         </change>
       </listChange>
     </revisionDesc>
