@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Johannes Dinsdale</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1.1-dev">
+          <date when="2017-05-26"/>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+        <date when="2017-04-12">April 12, 2017</date>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="O" n="oriel33">Oxford, Oriel College Library 33, ff. 164r-182v</witness>
+          <witness xml:id="B" n="bal">Oxford, Balliol College 311, ff. 148r--181v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef
+          n="lbp-diplomatic-1.0.0"
+          url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition</p>
+        <p>The transcription has been normalized to classical orthography.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="published">
+      <listChange>
+        <change when="2017-04-12" status="draft" n="2017.04">
+          <p>Created file for the first time.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.1-dev">
+          <p>Encoding corrections.</p>
+        </change>
+        <change when="2017-07-24" status="out-for-review" n="0.1.2">
+          <p>Make review changes.</p>
+        </change>
+        <change when="2017-08-14" status="published" n="1.0.0">
+          <p>Published on http://cimagl.saxo.ku.dk/download/86/86christensen79-131.pdf.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en" type="translation">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="translation-da-49-l1prooemium">
+        <head>Prologue</head>
+        <p xml:id="translation-da-49-l1prooemium-gq0450">
+          <cit>
+            <quote type="lemma">Of good and honourable things et cetera</quote>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.DA">DA</title> I.1 402a1.
+            </bibl>
+          </cit>
+          . In the second book of <title ref="Arist.Ph">Physics</title>, as he intends to
+          investigate and present the boundaries and limits of the study of
+          physics and of the natural philosopher, the
+          <name ref="#Aristotle">Philosopher</name> says
+          <cit>
+            <quote type="paraphrase">
+              to which extent the natural philosopher ought to investigate the
+              species and essence
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.Ph">Ph.</title> II.2 194b10--11.</bibl>
+          </cit>
+          , <abbr>viz.</abbr> what the limits are of the study of physics or of
+          the natural philosopher concerning species,
+          <abbr>i.e.</abbr> forms, which are the essences, <abbr>i.e.</abbr>
+          which are relevant to the definition of the essence. He answers
+          <cit>
+            <ref>
+              in the same passage
+            </ref>
+            <quote type="paraphrase">
+              that just as the doctor investigates nerves and the smith metal,
+              so the natural philosopher investigates the form or species and
+              essence,
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title>Ph.</title> II.2 194b11--12.</bibl>
+          </cit>
+          . For not just any consideration of nerves pertains to the doctor, nor
+          does whatever thing that can be known about metal pertain to the
+          smith, and similarly not every consideration of forms pertains to the
+          natural philosopher. We must therefore consider how these artificers
+          investigate the mentioned subjects.
+        </p>
+        <p xml:id="translation-da-49-prooemium-1zdal1">
+          Let us consider what the different subject matters of the doctor, the
+          smith and the natural philosopher are. A doctor primarily seeks to
+          produce good health in them, so when he investigates nerves, it aims
+          at the production of good health; therefore every investigation of
+          nerves pertains to the doctor, insofar as it strives for good health,
+          but if there is some other consideration that goes beyond this, it
+          supersedes the doctor's investigation. Similarly, as the smith focuses
+          on matter of artificial instruments, any investigation of metal, qua
+          the matter of artificial instruments, pertains to the smith, but if
+          there is some consideration that goes beyond this, it stays beyond his
+          purveiw. From this it is apparent of what sort of object the natural
+          philosopher's knowledge is and to which limit it extends. For whatever
+          is considered by a natural philosopher is characterized by movement
+          and change,
+          <cit>
+            <quote type="paraphrase">
+              for things which move but are not moved do not fall within the
+              natural philosopher's purview
+            </quote>
+            <ref>
+              according to the <name ref="#Aristotle">Philosopher</name> in
+              <title ref="#Arist.Ph">Physics</title> II
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Ph">Ph.</title> II.7 198a26--30.
+            </bibl>
+          </cit>
+          . Hence entirely immaterial forms which are not linked to matter which
+          is subject to motion and change, escape the purview of the
+          physicist or natural philosopher. But forms which in one way are
+          immaterial and in another way are the perfection of matter do fall
+          within the purview of the natural philosopher or physicist, and
+          that is the limit to which the physical study extends. But the
+          human soul is that sort of form, and hence it is the limit and end of
+          physical study.
+        </p>
+        <p xml:id="translation-da-49-prooemium-jon4qo">
+          And from this we can establish that there are three types of forms.
+          For some are entirely immaterial, both with respect to their
+          disposition and substance, and such are the intelligences, which exist
+          without any sensible or intelligible matter
+          <cit>
+            <ref>
+              according to the <name ref="#Aristotle">Philosopher</name> in
+              <title ref="#Arist.Metaph">Metaphysics</title> VIII
+            </ref>
+            <bibl>
+              <name ref="#Aristotle">Arist.</name> <title
+              ref="#Arist.Metaph">Metaph.</title> VIII.5 1044b27--29(?).
+            </bibl>
+          </cit>
+          . Some are entirely material, both with respect to their substance and
+          disposition, since their substances and dispositions are drawn from
+          matter, and the forms of the things here below are of this sort. But
+          some are forms of a medial character which are immaterial with respect
+          to their substance and material with respect to their dispositions,
+          and the human souls are of this sort. Hence the first forms are beyond
+          the purview of the natural philosopher, but the physical study begins
+          with the second forms and terminates with the third, for the study of
+          the natural philosopher begins with the lower forms and ends with
+          the human soul.
+        </p>
+        <p xml:id="translation-da-49-prooemium-arr3uu">
+          From this it is furthermore clear which place this book holds among
+          the books on natural philosophy, as the physical and the metaphysical
+          mode of investigation in some way are opposed each other. For the
+          natural philosopher's mode of investigation has an upper limit but not
+          a lower one, for it has a limit with regard to the level of
+          abstraction, which is the upper limit, since some things are so
+          abstract that they are beyond physical study, and some are so abstract
+          that physical study does not go beyond them. But with regard to the
+          level of concreteness, which is the lower level, the natural
+          philosopher does not have a limit, for there is no form so concreted
+          with matter it falls outside the natural philosopher's subject matter.
+          Thus the more concreted a form is with matter, the more it falls
+          within his subject matter, and this must be understood in such a way
+          that the abstraction from singular items is presupposed, for if we
+          look to things individual and numerically singular, they fall outside
+          of the natural philosopher's subject matter. But the contrary holds
+          for the metaphysician's mode of investigation, since it has a lower
+          limit but not an upper one, because some forms are so concrete with
+          respect to matter that the consideration of them does not pertain to
+          the metaphysician, but there is no form so abstract that it exceeds
+          the metaphysician's consideration, for metaphysics is concerned with
+          the highest causes. Hence the more an investigation is concerned with
+          abstract things, the more metaphysical it is. This must be understood
+          with reference to a study based on human inquiry, for if there is
+          some abstract study which is acquired through inspiration, it exceeds
+          the metaphysician's subject matter, but that sort of consideration is
+          not within the purview of the present investigation.
+        </p>
+        <p xml:id="translation-da-49-prooemium-gurt68">
+          Hence let us understand what has been said in the following way, that
+          when there are three essential parts of philosophy (namely natural
+          philosophy, mathematics, and divine science) among the arts or
+          sciences found through human inquiry, the metaphysician does not
+          recognize any higher science, but in terms of the level of abstraction
+          natural philosophy does not recognize any lower practitioner within
+          the essential parts of philosophy, although there is a higher one, but
+          the mathematician recognizes both a higher practice, since there is a
+          more abstract one, and a lower, since there is one more concrete.
+          Hence, as it has been said, the natural philosopher's subject matter
+          takes its beginning with the lower forms and ends with the human soul,
+          and from this it is clear that <title ref="#Arist.DA">On the
+          soul</title> holds the sixth place within the books on natural
+          philosophy, for <title ref="#Arist.Ph">Physics</title> holds the first
+          place, <title ref="#Arist.Cael">On the heavens and earth</title> the
+          second, <title ref="#Arist.GC">On generation and corruption</title>
+          the third, <title ref="#Arist.Met">Meteorology</title> the fourth,
+          <title ref="#Ps-Arist.Min">On minerals</title> the fifth, and <title
+          ref="#Arist.DA">On the soul</title> the sixth. It is therefore the
+          first in order of dignity, although it is the last or sixth in the
+          order of teaching, and hence the
+          <cit>
+            <ref>
+              <name ref="#Aristotle">Philosopher</name> says, with a view to its
+              dignity,
+            </ref>
+            <quote type="paraphrase">
+              that the description of the soul should be ranked among the first
+              sciences.
+            </quote>
+            <bibl><name ref="#Aristotle">Arist.</name> <title
+            ref="#Arist.DA">DA</title> I.1 402a1--7.</bibl>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
