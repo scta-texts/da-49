@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../tools/schema/lombardpress-schema.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Johannes Dinsdale</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="2016.05">
+          <title><!-- title [{ms-identifier} Transcription] --></title>
+          <date when="2016-05-23">May 23, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael</publisher>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+          <date when="2016-05-23">May 23, 2016</date
+>      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="O">Oxford, Oriel College 33, ff. 164r--182v</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-05-23" who="#" status="draft" n="2016.05">
+          <p>Created file for the first time.</p>
+        </change>
+     </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="diplomatic">
+    <front>
+      <div xml:id="startsOn">
+        <pb n="164-r" ed="#O"/><cb n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="oriel33_da-49-l1q1">
+        <note place="margin-right">Questio</note>
+        <p>
+          <unclear>Item</unclear> queratur primo utrum de anima possit nobis adquiri sciencia
+          <lb ed="#O"/> videtur quod non<pc type="punctus-medius"/>
+        </p>
+        <p>
+          illud de quo est sciencia est intelligibile<pc type="punctus"/> quia cum sciencia sit habitus
+          <lb ed="#O"/> intellectus de quo est sciencia oportet esse intelligibile sed anima non est intelligibile<pc type="punctus"/> quia omnis
+          <lb ed="#O"/> nostra cognicio ortum habet a sensu<pc type="punctus"/> unde ipsum intelligere non est sine fantasmate<pc type="punctus"/>
+          <lb ed="#O"/> sed anima sub sensu non cadit nec fantasma facit ergo et cetera
+        </p>
+        <p>
+          praeterea unum et
+          <lb ed="#O"/> idem non potest esse simul movens et motum quia sic idem esset in actu et potentia
+          <lb ed="#O"/> respectu eiusdem sed cognitum est movens respectu cognoscentis ergo unum et idem <unclear>modo?</unclear>
+          <lb ed="#O"/> non potest esse cognoscens et cognitum<pc type="punctus"/> hoc tamen contingeret si de anima
+          <lb ed="#O"/> esset sciencia<pc type="punctus"/>
+        </p>
+        <p>
+          praeterea sicut oculus vespertilionis ad lumen solis sic intellectus
+          <lb ed="#O"/> noster ad ea que sunt manifestissima in natura de quorum numero est anima <unclear>et virtus</unclear>
+          <lb ed="#O"/> humana<pc type="punctus"/> sed oculus nicticoratis non potest <unclear>apprehendere</unclear> lumen solis ergo et cetera
+        </p>
+        <p>
+          <lb ed="#O"/> praeterea nostrum intelligere est cum continuo et tempore <unclear>sed</unclear> anima cum sit indivisibilis et
+          <lb ed="#O"/> perpetua nec est continua nec temporalis ergo et cetera<pc type="punctus"/>
+        </p>
+        <p>
+          Oppositum patet per
+          determina<lb ed="#O"/>tionem philosophi<pc type="punctus"/>
+        </p>
+        <p>
+          dicendum quod cum sciencia sit <unclear>habitus</unclear> adquisitus per <unclear>demonstracionem</unclear>
+          <lb ed="#O"/> et ad demonstracionem tria requirantur scilicet subiectum passio et principium per quod ostenditur
+          <lb ed="#O"/> passio de subiecto<pc type="punctus"/> ubi est invenire ista tria ibi contingit ponere scienciam nunc
+          <lb ed="#O"/> autem anima quoddam <unclear>subiectum</unclear> est<pc type="punctus"/> cuius sunt multe proprietates et passiones ut patebit
+          <lb ed="#O"/> inferius sunt etiam principia per que iste passiones probari possunt de anima<pc type="punctus"/>
+          <lb ed="#O"/> si enim accipiatur quod quid est anime pro medio<pc type="punctus"/> per ipsum concludi potest propria
+          <lb ed="#O"/> passio eius de anima<pc type="punctus"/> et ita de anima potest aliquid sciri sive esse
+          <lb ed="#O"/> aliqualis sciencia<pc type="punctus"/>
+        </p>
+        <p>
+          praeterea accidencia non sunt per se encia<pc type="punctus"/> sed in alio qui ergo cognoscit
+          <lb ed="#O"/> accidencia manuduci potest in cognicionem eius cuius sunt nunc autem multa accidencia
+          <lb ed="#O"/> ipsius anime nobis sunt manifesta<pc type="punctus"/> operaciones enim artificiales nobis note
+          <lb ed="#O"/> sunt que tamen non fiunt absque intelligere et intelligere procedit
+          <lb ed="#O"/> ab aliqua potentia<pc type="punctus"/> et potentia fluit ab essencia<pc type="punctus"/> et <unclear>sic</unclear> est de aliis
+          <lb ed="#O"/> operationibus que procedunt ab irascibili<pc type="punctus"/> unde per multa que nobis
+          <lb ed="#O"/> nota sunt devenire possumus <add place="above-line">in cognicionem</add> anime<pc type="punctus"/> quia tamen scire
+          <lb ed="#O"/> est per causam cognoscere<pc type="punctus"/> et talis cognicio de anima procedit per
+          ef<lb ed="#O"/>fectus et non per causam ideo philosophus talem cognicionem tradens de anima
+          <lb ed="#O"/> istam cognicionem nominat ystoriam<pc type="punctus"/> extensive tamen dici potest sciencia<pc type="punctus"/>
+        </p>
+        <p>
+          <lb ed="#O"/> Ad primum argumentum dicendum quod minor est falsa <pc type="virgula"/> et ad probacionem dicendum quod aliquid
+          ca<lb ed="#O"/>dit in sensu dupliciter<pc type="punctus"/> aut per positionem<pc type="punctus"/> aut privacionem<pc type="punctus"/><pc type="virgula"/> per privacionem sicud
+          <lb ed="#O"/> tenebra et indivisibilia ut punctum et unitas<pc type="punctus"/><pc type="virgula"/> per positionem <unclear>contingit</unclear> dupliciter
+          <lb ed="#O"/> aut per speciem sui<pc type="punctus"/> aut per speciem alterius<pc type="punctus"/><pc type="virgula"/> per speciem sui
+          <lb ed="#O"/> sicud color videtur <pc type="virgula"/> per speciem alterius sicud videtur diarri
+          fili<lb ed="#O"/>us <pc type="virgula"/> unde licet anima non cadat sub sensu per se<pc type="punctus"/> cadat tamen sub
+          <lb ed="#O"/> sensu per alterum<pc type="punctus"/> ut per sui effectus<pc type="punctus">.</pc> et eodem modo licet per se
+          <lb ed="#O"/> fantasma non faciat<pc type="punctus"/> aliquid tamen fantasma facit quod in cognicionem
+          <lb ed="#O"/> eius potest ducere<pc type="punctus"/>
+        </p>
+        <p>
+          <pc type="punctus-medius"/> Ad aliud dicendum quod dupliciter dicitur motus<pc type="punctus"/> uno
+          <lb ed="#O"/> modo est actus inperfecti<pc type="punctus-medius"/> et <gap extent="2" unit="letters" reason="damage"/> diffinitur a philosopho tercio phisicorum<pc type="punctus"/><pc type="horizontal-stroke"/> alio
+          <lb ed="#O"/> modo est actus perfecti<pc type="punctus-medius"/> sicut intelligere et <unclear>s()stire dicuntur</unclear> motus<pc type="punctus"/><pc type="horizontal-stroke"/> primo
+          <lb ed="#O"/> modo non potest idem esse movens et motum per se<pc type="punctus"/> per accidens tamen nihil prohibet
+          <lb ed="#O"/> sicud nauta movet nauem per se<pc type="punctus"/> qua mota movet seipsum<pc type="punctus"/><pc type="horizontal-stroke"/> secundo
+          <lb ed="#O"/> modo nihil prohibet idem esse movere se ipsum<pc type="punctus"/> sed tamen differentia est<pc type="punctus"/> aliqua enim est
+          <lb ed="#O"/> substantia semper actu intelligens<pc type="punctus"/> et talis potest intelligere se per se<pc type="punctus"/> sed est
+          <lb ed="#O"/> de prima causa<pc type="punctus"/> et intellectus<pc type="horizontal-stroke"/> Sed aliqua est non semper actu intelligens<pc type="punctus"/> sicud est
+          <lb ed="#O"/> anima humana<pc type="punctus"/> et talis non intelligit se per se<pc type="punctus"/> quia nihil intelligitur nisi
+          <lb ed="#O"/> secundum quod actu est<pc type="punctus"/> et talis substancia cum sit in potentia intelligens non est in actu
+          <lb ed="#O"/> nisi per alterum, ut per speciem intelligibilem<pc type="punctus"/> ideo per alterum potest se
+          <lb ed="#O"/> intelligere<pc type="punctus"/> per hoc enim quod anima intelligit obiectum per speciem<pc type="punctus"/> potest
+          <lb ed="#O"/> intelligere suum actum<pc type="punctus"/> et per actum<pc type="punctus"/> potest reflectere se supra suam
+          <lb ed="#O"/> essenciam<pc type="punctus"/> unde anima nostra quodammodo intelligit se sicud nauta movet navem<pc type="punctus"/><pc type="double-diagonal-stroke"/>
+        </p>
+        <p>
+          <lb ed="#O"/> Ad aliud dicendum quod licet oculus nicticoracis non possit apprehendere
+          <lb ed="#O"/> directe lumen solis<pc type="punctus"/> potest tamen indirecte aliquam claritatem apprehendere
+          <lb ed="#O"/> et si visus esset discursivus posset cognoscere lumen solis<pc type="horizontal-stroke"/> nunc
+          <lb ed="#O"/> autem etsi intellectus noster <unclear>et (va) significat</unclear> non posset in cognicionem perfectam substantiarum separatarum<pc type="punctus"/>
+          <lb ed="#O"/> tamen aliqui effectus earum apprehent nos <add place="right-margin">per quos in <unclear>materiam videtur</unclear> in earum noticiam</add> et quia intellectus noster
+          <lb ed="#O"/> est discursivus<pc type="punctus"/> ideo potest in aliqualiter cognicionem earum ut per effectus<pc type="punctus"/> magis
+          <pb ed="#O" n="164-v"/><cb ed="#O" n="a"/>
+          <lb ed="#O"/> tamen cognoscimus de anima quam de aliis separatis<pc type="punctus"/> quia effectus ipsius anime
+          <lb ed="#O"/> nobis apparentes magis adequant virtutem eius quam effectus <unclear>que</unclear> substantiarum separatarum<pc type="punctus"/> nobis
+          aper<lb ed="#O"/>erntes<pc type="double-diagonal-stroke">//</pc>
+        </p>
+        <p>
+          Ad aliud dicendum quod intelligere nostrum non est sine continuo et tempore
+          <lb ed="#O"/> quia non est sine fantasmate non tamen oportet <add place="above-line">omne</add> intelligere esse continuum et temporale<pc type="punctus"/>
+        </p>
+     </div>
+    </body>
+  </text>
+</TEI>

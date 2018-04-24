@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestiones in libros De anima</title>
+        <author>Johannes Dinsdale</author>
+        <respStmt>
+          <persName>Michael Stenskjær Christensen</persName>
+          <resp>Encoding and transcription</resp>
+        </respStmt>
+        <editor role="translator">Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1.0-dev">
+          <date when="2016-11-13">November 13, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Michael Stenskjær Christensen</publisher>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref
+          target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative
+          Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B" n="bal">
+            Oxford, Balliol College 311, ff. 148r--181v
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="published">
+      <listChange>
+        <change when="2016-11-13" status="draft" n="0.1.0">
+          <p>First draft of finished edition.</p>
+        </change>
+        <change when="2017-05-26" status="out-for-review" n="0.1.0">
+          <p>The text has been sent for review.</p>
+        </change>
+        <change when="2017-07-24" status="out-for-review" n="0.1.1">
+          <p>Make review changes.</p>
+        </change>
+        <change when="2017-08-14" status="published" n="1.0.0">
+          <p>Published on http://cimagl.saxo.ku.dk/download/86/86christensen79-131.pdf.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la" type="translation">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-49-l1q1" type="translation">
+        <head>
+          Question 1: Whether scientific knowledge about the soul can be
+          acquired by us
+        </head>
+        <p xml:id="da-49-l1q1-274hkz">
+          First we must ask whether whether scientific knowledge about the soul
+          can be acquired by us.
+        </p>
+        <div ana="#rationes-principales-contra">
+          <p xml:id="da-49-l1q1-j01jdw">
+            It seems that it cannot.
+          </p>
+          <p xml:id="da-49-l1q1-ysmgk1" ana="#rationes-principales-contra" n="1">
+            That about which there is <seg ana="#scientia">scientific
+            knowledge</seg> is intelligible, <seg ana="#quia">since</seg>, as
+            <seg ana="#scientia">scientific knowledge</seg> is a <seg
+            ana="#habitus">state</seg> of the intellect, the object of <seg
+            ana="#scientia">knowledge</seg> ought to be intelligle; but the soul
+            is not something intelligible, <seg ana="#quia">since</seg> all our
+            <seg ana="#cognitio">knowledge</seg> has its origin in the senses,
+            and <seg ana="#intelligere">understanding</seg> as such does not
+            take place without phantasms, but the soul is not available to sense
+            perception, nor does it produce a phantasm; ergo et cetera.
+          </p>
+          <p xml:id="da-49-l1q1-mjzkyp" ana="#rationes-principales-contra"
+             n="2">
+            Furthermore, one and the same thing cannot be moving and moved at the
+            same time, <seg ana="#quia">since</seg> then the same thing would be
+            in act and potency with respect to the same; but that which is known is
+            moving with respect to that which knows; ergo one and the same thing
+            cannot be knowing and known, but that would be the case if there
+            were <seg ana="#scientia">scientific knowledge</seg> about the soul.
+          </p>
+          <p xml:id="da-49-l1q1-mjgjs9" ana="#rationes-principales-contra"
+             n="3">
+            Furthermore,
+            <cit>
+              <quote type="paraphrase">
+                <phr type="#analogy">
+                  just as the eye of the night-raven <seg
+                  ana="#se-habet">stands</seg> to the light of the sun, so our
+                  intellect <seg ana="#se-habet">stands</seg> to those things
+                  which are most <seg ana="#manifestissima">clear</seg> in
+                  nature,
+                </phr>
+              </quote>
+              <bibl>
+                Cf. Arist. <title ref="#Arist.Metaph"> Metaph.</title> II.1
+                993b9--11 (νυκτερίς).
+              </bibl>
+            </cit>
+            to which the soul belongs, at least the human soul; but the eye of
+            the night-raven cannot apprehend the light of the sun; ergo et
+            cetera.
+          </p>
+          <p xml:id="da-49-l1q1-xdpfxs" ana="#rationes-principales-contra"
+             n="4">
+            Furthermore, our <seg ana="#intelligere">intellection</seg> is
+            continuous and temporal; but the soul, since it is indivisible and
+            perpetual, is neither continuous nor temporal; ergo et cetera.
+          </p>
+        </div>
+        <div ana="#rationes-principales-pro">
+          <p xml:id="da-49-l1q1-o9whrl">
+            The opposite <seg ana="#patet">is clear from</seg> the <name
+            ref="#Aristotle">Philosopher's</name> determination.
+          </p>
+        </div>
+        <div ana="#determinatio">
+          <p xml:id="da-49-l1q1-ywem12" ana="#determinatio" n="1">
+            <seg ana="#dicendum">It must be said</seg> that <seg
+            ana="#cum+subj">since</seg> <seg ana="#scientia">scientific
+            knowledge</seg> is a <seg ana="#habitus">state</seg> acquired by
+            demonstration, and three elements are required for a demonstration
+            (that is, a subject, an <seg ana="#passio">attribute</seg>, and a
+            principle by which the <seg ana="#passio">attribute</seg> is
+            ascribed to the subject), where these three can be found it can be
+            said that there is a science. <seg ana="#autem">But</seg> now the
+            soul is some sort of subject which has several <seg
+            ana="#proprietas">properties</seg> and <seg
+            ana="#passio">attributes</seg>, as will be apparent below. There are
+            also some principles by which these <seg
+            ana="#passio">attributes</seg> can be <seg
+            ana="#probare">proved</seg> to belong to the soul. For if <seg
+            ana="#quod-quid">the definition</seg> of the soul is accepted as the
+            middle term, by that a <seg ana="#propria-passio">proper
+            attribute</seg> of the soul can be concluded to belong to the soul ,
+            and in this way something can be known about the soul or there can
+            be some sort of science about the soul.
+          </p>
+          <p xml:id="da-49-l1q1-t57fj3" ana="#determinatio" n="2">
+            Furthermore, accidents are not things by themselves but belong to
+            something else. Therefore one who knows the accidents can be led to
+            a <seg ana="#cognitio">knowledge</seg> about that to which they
+            belong. But now many accidents that belong to the soul itself are
+            <seg ana="#manifestus">obvious</seg> to us: For <seg
+            ana="#artificialis">productive</seg> <seg
+            ana="#operatio">activities</seg> are known to us, but they cannot
+            take place without <seg ana="#intelligere">intellection</seg>, and
+            <seg ana="#intelligere">intellection</seg> proceeds from some sort
+            of <seg ana="#potentia">power</seg>, and a <seg
+            ana="#potentia">power</seg> flows from the <seg
+            ana="#essentia">essence</seg>; and it is the same with other <seg
+            ana="#operatio">activities</seg> <supplied>such as those</supplied>
+            which proceed from the irascible part. Thus, by many things which
+            are known to us we may arrive at a <seg
+            ana="#cognitio">knowledge</seg> about the soul. But <seg
+            ana="#quia">since</seg> <seg ana="#scire">knowing</seg> is <seg
+            ana="#cognoscere">knowing</seg> through causes, and such <seg
+            ana="#cognitio">knowledge</seg> about the soul proceeds by effects,
+            not by causes, the <name ref="#Aristotle">Philosopher</name>, as he
+            presents the <seg ana="#cognitio">knowledge</seg> about the soul,
+            calls the <seg ana="#cognitio">knowledge</seg>
+            <cit>
+              <quote>an account</quote>
+              <bibl>Arist. <title ref="#Arist.DA">DA</title> I.1 402a4.</bibl>
+            </cit>
+            . But by extension it can be called a science.
+          </p>
+        </div>
+        <div ana="#ad-rationes-contra">
+          <p xml:id="da-49-l1q1-1mle08" ana="#ad-rationes-contra" n="1">
+            To the first argument it must be said that the minor premise is
+            false. And to the <seg ana="#probatio">supporting argument</seg> it
+            must be said that something is available to sense perception in two
+            ways: either positively or privatively. Privatively like shadows and
+            indivisible objects, such as a point or a unity. Positively in two
+            ways: either by its own <seg ana="#species">species</seg> or by the
+            <seg ana="#species">species</seg> of something else; by its own <seg
+            ana="#species">species</seg>, as when a colour is seen,
+            <cit>
+              <quote type="paraphrase">
+                by the <seg ana="#species">species</seg> of something else, as
+                when the son of Diares is seen.
+              </quote>
+              <bibl>
+                Arist. <title ref="#Arist.DA">DA</title> II.6 418a20--22.
+              </bibl>
+            </cit>
+            . <seg ana="#unde">Hence</seg> although the soul is not available to
+            sense perception in itself, it is still available to sense
+            perception through something else, namely through its effects, and
+            in the same way, although it does not produce a phantasm on its own,
+            it produces another phantasm, which may lead to <seg
+            ana="#cognitio">knowledge</seg> about it.
+          </p>
+          <p xml:id="da-49-l1q1-i9rohp" ana="#ad-rationes-contra" n="2">
+            To the next argument it must be said that <seg
+            ana="#motus">movement</seg> is said in two ways: in one way it is
+            the act of something imperfect, as it is defined by the <name
+            ref="#Aristotle">Philosopher</name> in
+            <cit>
+              <ref>
+                the third book of the <title ref="#Arist.Phys">Physics</title>
+              </ref>
+              <bibl>
+                Arist. <title ref="#Arist.Phys">Phys.</title> III.2 201b31--33.
+              </bibl>
+            </cit>
+            , and in another way it is the act of something perfect, and in this
+            way <seg ana="#intelligere">intellection</seg> and <seg
+            ana="#sentire">cognition</seg> are said to be movements. In the
+            first way the same thing cannot be moving and moved by itself, but
+            accidentally nothing prevents this, just as the sailor moves the
+            ship by himself, and insofar as the ship is moved he moves
+            himself. In the second way nothing prevents the same thing from
+            moving itself. There is however a difference: For there is one sort
+            of substance which always actively <seg
+            ana="#intelligere_ptc">knows</seg>, and such a substance can <seg
+            ana="#intelligere">know</seg> by itself, as it is the case with the
+            first cause and the intelligences; but there is another sort of
+            substance, such as the human soul, which does not always actively
+            <seg ana="#intelligere_ptc">know</seg>, and such a thing does not
+            <seg ana="#intelligere">know</seg> by itself, <seg
+            ana="#quia">since</seg> it <seg ana="#intelligere">knows</seg>
+            nothing except when it is actualized, and such a substance, <seg
+            ana="#cum+subj">since</seg> it potentially <seg
+            ana="#intelligere_ptc">knows</seg>, does not actually do so except
+            by means of something else, that is by means of an intelligible <seg
+            ana="#species">species</seg>, and <seg ana="#ideo">therefore</seg>
+            it can <seg ana="#intelligere">know</seg> itself through something
+            else. For by the fact that the soul <seg
+            ana="#intelligere">knows</seg> an object by a <seg
+            ana="#species">species</seg> it can <seg
+            ana="#intelligere">know</seg> its own activity, and by the activity
+            it can <seg ana="#reflectere">reflect</seg> itself on its own <seg
+            ana="#essentia">essence</seg>; <seg ana="#unde">hence</seg> our soul
+            in a certain way <seg ana="#intelligere">knows</seg> itself the way
+            a sailor moves his ship.
+          </p>
+          <p xml:id="da-49-l1q1-52psh5" ana="#ad-rationes-contra" n="3">
+            To the next argument it must be said that although the eye of the
+            night-raven cannot apprehend the light of the sun directly, it can
+            nevertheless apprehend some brightness indirectly, and if its sight
+            were discursive, then it could <seg ana="#cognoscere">know</seg> the
+            light of the sun. But now, although our intellect cannot arrive at a
+            perfect <seg ana="#cognitio">knowledge</seg> about the separate
+            substances, some of their effects are still apparent to us by which
+            we are led to a <seg ana="#notitia">knowledge</seg> about them, and
+            <seg ana="#quia">since</seg> our intellect is discursive, it can
+            arrive at some sort of <seg ana="#cognitio">knowledge</seg> of them
+            through their effects. But we <seg ana="#cognoscere">know</seg> more
+            about the soul than about the separate substances, <seg
+            ana="#quia">because</seg> those effects of the soul that are
+            apparent to us, are more on the level of its <seg
+            ana="#virtus">power</seg> than the effects of the separate
+            substances, that are apparent to us, are on the level of their <seg
+            ana="#virtues">power</seg>.
+          </p>
+          <p xml:id="da-49-l1q1-h6ks8n" ana="#ad-rationes-contra" n="4">
+            To the next argument it must be said that our <seg
+            ana="#intelligere">intellection</seg> does not take place without
+            continuity and time, <seg ana="#quia">since</seg> it does not take
+            place without a phantasm. But it is not <seg
+            ana="#oportere">required</seg> that all <seg
+            ana="#intelligere">intellection</seg> be continous and temporal.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
