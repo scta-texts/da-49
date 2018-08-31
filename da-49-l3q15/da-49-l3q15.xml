@@ -69,6 +69,9 @@
         <change when="2017-08-14" status="published" n="1.0.0">
           <p>Published on http://cimagl.saxo.ku.dk/download/86/86christensen79-131.pdf.</p>
         </change>
+        <change when="2018-08-31" status="draft" n="1.0.1">
+          <p>Remove supplied head and change item title.</p>
+        </change>
       </listChange>
     </revisionDesc>
   </teiHeader>
