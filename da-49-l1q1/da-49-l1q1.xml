@@ -5,7 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Quaestiones in libros De anima</title>
+        <title>
+          III.15: Utrum intellectus intelligat se per suam essentiam an per
+          aliud sicut intelligit alia
+        </title>
         <author>Johannes Dinsdale</author>
         <respStmt>
           <persName>Michael Stenskjær Christensen</persName>
@@ -78,11 +81,6 @@
     </front>
     <body>
       <div xml:id="da-49-l1q1">
-        <head>
-          <supplied ana="#meta-text">
-            Quaestio 1: Utrum de anima possit nobis acquiri scientia
-          </supplied>
-        </head>
         <p xml:id="da-49-l1q1-274hkz">
           <app>
             <lem>Item</lem>
